@@ -1,0 +1,4139 @@
+chunk1,chunk2,value,explanation
+both,Bulbs A and C,5,EQUI
+have,are,5,EQUI
+still,still,5,EQUI
+bulbs a and c,Bulbs A and C,5,EQUI
+a closed path,in closed paths,4,SPE1
+are connected.,are separated,4,OPPO
+terminal 1 and the positive terminal,Terminal 1 and the positive terminal,5,EQUI
+positive battery from terminal 2,Terminal 2 and the positive terminal,5,EQUI
+by a gap,by the gap,5,EQUI
+is seperated,are separated,5,EQUI
+no difference,in the same state.,3,SIMI
+is,are,5,EQUI
+between the two terminals.,The terminals,4,SPE1
+in the same path,in the same path,5,EQUI
+has to be contained,have to be,5,EQUI
+the switch the bulb and the battery,The switch and the bulb,4,SPE2
+in terminal 1,Terminals 1 and 2,4,SPE1
+a gap,in the same electrical state,2,REL
+is,are,3,SIMI
+uses,uses,5,EQUI
+to create,to maintain,2,SIMI
+the chemical reation,a chemical reaction,5,EQUI
+voltage,different electrical states,3,REL
+The battery,A battery,5,EQUI
+uses,uses,5,EQUI
+to create,to maintain,2,SIMI
+voltage,different electrical states,3,REL
+a chemical reaction,a chemical reaction,5,EQUI
+a batter,A battery,5,EQUI
+the battery,The battery,5,EQUI
+is,is contained,5,EQUI
+in a closed path,in a path,5,EQUI
+alone,does not contain any other components,5,EQUI
+in a closed path,which,5,EQUI
+there,there,5,EQUI
+a gap,a gap,5,EQUI
+in the circuit.,in the circuit,5,EQUI
+is,is,5,EQUI
+within the same path,in a separate path,4,REL
+are not,is,4,OPPO
+bulb C.,Bulb C,5,EQUI
+two negative connections,are connected,2,REL
+is,containing,3,SIMI
+on a closed path,a path,5,EQUI
+bulb a,A,5,EQUI
+to the positive terminal.,to the positive battery terminal,5,EQUI
+the other terminals,"Terminals 4, 5 and 6",3,SPE2
+are connected,are connected,5,EQUI
+the path.,an open path,4,OPPO
+no gap,by the gap,4,OPPO
+is,are not separated,4,OPPO
+between the positive terminal and terminal 4,Terminal 4 and the positive terminal,5,EQUI
+Bulb a,bulb A,5,EQUI
+a gap,in a closed path,4,REL
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,5,EQUI
+is connected,are connected,5,EQUI
+the bulb,the battery,4,REL
+is,is,5,EQUI
+in a closed circuit,in an open path,4,REL
+around the battery.,The battery,5,EQUI
+The circuit,in a closed path,4,REL
+in a closed path.,which,5,EQUI
+the bulb,The battery,4,REL
+in a closed path.,in a path,5,EQUI
+is not contained,is contained,4,OPPO
+There,there,5,EQUI
+in the circuit.,in a circuit,5,EQUI
+a gap,a gap,5,EQUI
+is,is,5,EQUI
+Bulb B and bulb C,bulbs A and B,4,SIMI
+are,are,5,EQUI
+with the battery.,with the battery,5,EQUI
+on closed paths,in closed paths,5,EQUI
+still,still,5,EQUI
+has,was contained,4,SIMI
+Bulb A,Bulb A,5,EQUI
+a closed pathway,in the same closed path,4,SPE2
+in the same closed path,in a separate path,4,REL
+are not,is,4,OPPO
+bulb b,Bulb B,5,EQUI
+in the circuit.,in a closed path,4,REL
+is involved,is not,4,OPPO
+Only one terminal,The battery,3,REL
+between the battery,with the battery.,4,SIMI
+closed paths,in the same closed path,3,SPE2
+separates,are separated,5,EQUI
+the positive battery terminal from terminal 2,Terminal 2 and the positive terminal,5,EQUI
+the gap,by the gap,5,EQUI
+in differentclosed paths.,in different paths,5,EQUI
+"bulb a, bulb b, and bulb c",A and C,3,SPE2
+are contained,are,5,EQUI
+any bulb,each bulb,3,SPE2
+"out,",in its own path,4,OPPO
+is,is,5,EQUI
+in the same path.,in a closed path,4,SPE1
+is not,is,4,OPPO
+a gap in the path,in a closed path,4,OPPO
+Bulb B and C,bulbs B and C,5,EQUI
+still,still,5,EQUI
+are contained,are,5,EQUI
+in a path,in closed paths,4,SPE1
+with the battery,with the battery,5,EQUI
+with the battery.,with the battery,5,EQUI
+are contained,are,5,EQUI
+bulbs a and c,Bulbs A and C,5,EQUI
+still,still,5,EQUI
+in a closed path,in closed paths,5,EQUI
+Terminal one to the positive battery terminal,Terminal 1 and the positive terminal,5,EQUI
+is not connected,are not connected,5,EQUI
+bulb A and switch Z,Bulb A with the battery and switch Z.,3,SPE1
+are,is contained,5,EQUI
+in a closed path,in a closed path,5,EQUI
+is connected,are connected,5,EQUI
+Terminal 5 to the postitive battery terminal,Terminal 5 and the positive terminal,5,EQUI
+is connected,are connected,5,EQUI
+Terminal 6 to the positive battery terminal,Terminal 6 and the positive terminal,5,EQUI
+the circuit,a short circuit,4,REL
+bulb A,bulb A,5,EQUI
+are,is,5,EQUI
+both,neither B nor C,4,OPPO
+in the same path,in a closed path,4,SPE1
+bulbs B and C,neither B nor C,4,OPPO
+the electrical state non-zero,A non-zero voltage,4,REL
+can find,is,3,REL
+the gap,a gap,5,EQUI
+is,does not contain,4,OPPO
+is contained,is contained,5,EQUI
+in its pathway,which,5,EQUI
+in a closed circuit,in a closed path,4,REL
+nothing,any other components,5,EQUI
+The battery,The battery,5,EQUI
+is not connected,are connected,4,OPPO
+A terminal to the positive battery terminal.,Terminals 1 and 4,2,SPE2
+a gap,are connected,4,OPPO
+in the circuit,Terminals 1 and 4,3,REL
+is not seperated,are not separated,5,EQUI
+the positive terminal from terminal 5,Terminal 5 and the positive terminal,5,EQUI
+by a gap,by the gap,5,EQUI
+is,are separated,2,SPE2
+a gap,by a gap.,5,EQUI
+with a gap,by the gap,5,EQUI
+a chemical reaction.,a chemical reaction,5,EQUI
+in a closed path,in the same path,4,SPE2
+when,When,5,EQUI
+the switch with the bulb,the switch and the bulb,5,EQUI
+is,are contained,5,EQUI
+are,are,5,EQUI
+bulb b and c,B and C,5,EQUI
+in a closed path,in the same path,4,SPE2
+bulb a and c,A and C,5,EQUI
+with the battery,with the battery,5,EQUI
+on the same path,in the same path,5,EQUI
+are contained,are not,4,OPPO
+The path does not close,in an open path,5,EQUI
+between the electrical states,Terminal 1 and the positive terminal,3,REL
+is,are,4,SIMI
+still,still,5,EQUI
+a closed path,in a closed path,5,EQUI
+a lost connection,are not connected.,5,EQUI
+a gap,A non-zero voltage,4,REL
+are connected,are connected,5,EQUI
+the positive terminal and terminal 6,Terminal 6 and the positive terminal,5,EQUI
+is connected,are connected,5,EQUI
+the positive terminal to terminal 6,Terminal 6 and the positive terminal,5,EQUI
+at terminal 1,terminal 1,5,EQUI
+is no gap,is connected,5,EQUI
+terminal 6 to the positive terminal,Terminal 6 and the positive terminal,5,EQUI
+is conncted,are connected,5,EQUI
+the switch the bulb.,the switch and the bulb,5,EQUI
+When,When,5,EQUI
+in the same papth,in the same path,5,EQUI
+is,are contained,5,EQUI
+Bulbs A and C,A and C,5,EQUI
+are,are,5,EQUI
+in separate paths.,in different paths,5,EQUI
+are,are,5,EQUI
+with the battery.,with the battery,5,EQUI
+in a closed path,in closed paths,4,SPE1
+bulb a and bulb b,bulbs A and B,5,EQUI
+still,still,5,EQUI
+The positive battery terminal from terminal 6,Terminal 6 and the positive terminal,5,EQUI
+by a gap,by the gap,5,EQUI
+was not separted,are not separated,4,SIMI
+with the battery,with the battery,5,EQUI
+in different paths,in different paths,5,EQUI
+are contained,are,5,EQUI
+bulb a and c,A and C,5,EQUI
+is connected,are connected,5,EQUI
+The positive terminal to terminal 4.,Terminal 4 and the positive terminal,5,EQUI
+inthe same path,in a closed path.,4,SPE1
+not contained,are,4,OPPO
+a gap in the path,in a closed path,4,OPPO
+bulb c,C,5,EQUI
+for bulb b and a,A and B,4,SPE1
+the other terminals to the positive battery terminal,"Terminals 4, 5 and 6 to the positive battery terminal",2,SPE2
+are connected,are connected,5,EQUI
+terminal one and the positive battery terminal,terminal 1 to the negative battery terminal,4,SIMI
+are on a closed path,is connected,4,SIMI
+Battery,A battery,5,EQUI
+voltage.,different electrical states,4,REL
+the terminals,Terminal 1 and the positive terminal,3,SPE2
+are not connected,are not connected,5,EQUI
+the positive battery terminal to terminal 6,Terminal 6 and the positive terminal,5,EQUI
+is connected,are connected,5,EQUI
+bulb a,Bulb A,5,EQUI
+on a closed path,in a closed path,5,EQUI
+was,is contained,4,SIMI
+terminal 4 to the negative terminal,Terminal 4 and the positive battery terminal,4,SIMI
+is connected,are in the same electrical state,3,REL
+bulb c,Bulb C,5,EQUI
+is,is,5,EQUI
+in its own pathway,in a separate path,3,REL
+nearest the burnt out bulb,a damaged bulb.,3,SPE1
+the voltage,voltage,5,EQUI
+both,both,5,EQUI
+"with the same path,",a closed path,4,SPE1
+a battery and a blub,the bulb and a battery,5,EQUI
+the path closed,a closed path,5,EQUI
+in a closed circuit.,an incomplete circuit,3,SIMI
+is,is,5,EQUI
+the circut,no closed path,2,REL
+"terminal 1, terminal 2, and terminal 3","Terminals 1, 2 and 3",5,EQUI
+o the negative battery,to the negative battery terminal,5,EQUI
+are connected,are connected,5,EQUI
+a gap,a gap,5,EQUI
+is,is,5,EQUI
+there,There,5,EQUI
+between terminal 1 and terminal 6.,between terminals 1 and 6,5,EQUI
+bulbs b and c,Bulb B and Bulb C,5,EQUI
+on a closed path,in the same closed path,4,SPE2
+with the battery,with the battery.,5,EQUI
+are,were contained,4,SIMI
+determines,affects,2,SIMI
+The switch,the switch,5,EQUI
+the path,in the same path,4,SPE2
+by a gap,in the same electrical state,3,REL
+the positive battery terminal from terminal 4,Terminal 4 and the positive battery terminal,5,EQUI
+is separated,are,2,REL
+between the terminals.,at the terminals,5,EQUI
+an incomplete circuit,a chemical reaction,3,REL
+would not effect,to maintain,2,SIMI
+the the electrical state,different electrical states,4,SPE1
+to the positive battery terminal,to the positive battery terminal,5,EQUI
+"terminals 4, 5, and 6","Terminals 4, 5 and 6",5,EQUI
+are connected,are connected,5,EQUI
+The path,a path,5,EQUI
+on the same closed path,in the same path,3,SPE1
+the bulb,The damaged bulb and the other bulb,3,SPE1
+is,must be contained,3,SIMI
+in a closed path,in the same closed path,4,SPE2
+bulb a,Bulb A,5,EQUI
+still,still,5,EQUI
+with the battery.,with the battery.,5,EQUI
+was,was,5,EQUI
+contained,contained,5,EQUI
+one bulb,A and C,2,SPE2
+an open switch,the open switch,5,EQUI
+disrupts that.,creates a gap,3,SPE2
+is a gap,are separated by a gap,5,EQUI
+between the two bulb terminals,the terminals,2,SPE1
+has occured,is,4,SIMI
+a short circuit,a short circuit,5,EQUI
+will be,creates,2,SIMI
+"at bulb b,",bulb B,5,EQUI
+a gap,a gap,5,EQUI
+terminal 3 and the positie terminal,Terminal 3 and the positive terminal,5,EQUI
+are not connected.,are not connected,5,EQUI
+by a gap,by the gap,5,EQUI
+The positive battery terminal from terminal 4.,Terminal 4 and the positive terminal,5,EQUI
+was not seperated,are not separated,4,SIMI
+to the negative terminal.,to the negative battery terminal,5,EQUI
+is connected,is connected,5,EQUI
+Terminal 1,terminal 1,5,EQUI
+A terminal to the positive battery terminal.,Terminals 1 and 2,2,SIMI
+is not connected,are connected,4,OPPO
+are seperated,are separated,5,EQUI
+the positive terminal and terminal 2,Terminal 2 and the positive terminal,5,EQUI
+by a gap,by the gap,5,EQUI
+between the terminals,terminal 1 to the negative battery terminal,3,SPE2
+is not gap,is connected,5,EQUI
+a gap,in the same electrical state,3,REL
+between teh positive battery terminal and terminal 4.,Terminal 4 and the positive battery terminal,5,EQUI
+The positive battery to terminal one.,Terminal 1 and the positive terminal,5,EQUI
+was not connected,are not connected,4,SIMI
+Bulbs A and B,bulbs A and B,5,EQUI
+to the battery.,with the battery,5,EQUI
+still,still,5,EQUI
+will be contained,are,4,SIMI
+in a closed path,in closed paths,4,SPE1
+the two components,Terminal 1 and the positive terminal,2,SPE2
+are seperated.,are separated,5,EQUI
+is connected,are connected,5,EQUI
+terminal 1 to terminal 4,Terminals 1 and 4,5,EQUI
+the positive battery terminal and terminal 4,Terminal 4 and the positive terminal,5,EQUI
+are connected,are connected,5,EQUI
+Terminal 1 and terminal 2,Terminals 1 and 2,5,EQUI
+are on the same side.,are connected,3,REL
+to positive battery,Terminal 2 and the positive terminal,3,SPE1
+not connected,are not connected,5,EQUI
+to maintain,to maintain,5,EQUI
+a chemical reaction,a chemical reaction,5,EQUI
+"the voltage,",different electrical states,4,REL
+The battery,A battery,5,EQUI
+uses,uses,5,EQUI
+does not have,is not,4,SIMI
+the bulb,The bulb,5,EQUI
+a closed path.,in the closed path,5,EQUI
+is connected,are connected,5,EQUI
+terminal to postive terminal of the battery,Terminal 6 and the positive terminal,3,SPE2
+is seperated,are separated,5,EQUI
+Terminal 1 from the positive terminal,Terminal 1 and the positive terminal,5,EQUI
+is not contained,is not,5,EQUI
+Battery,The battery,5,EQUI
+i a closed path.,in a closed path,5,EQUI
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,5,EQUI
+was connected,are separated,4,OPPO
+2 paths,a path,2,SPE2
+are,is,5,EQUI
+There,there,5,EQUI
+the switch,switch Y and bulb A,2,SPE1
+the switch,both,2,SPE1
+to the closed circuit,no path,2,REL
+creates,creates,5,EQUI
+a gap.,a gap,5,EQUI
+damaged bulb,a damaged bulb,5,EQUI
+the battery connection does not work,a short circuit,3,REL
+the terminals,at the terminals,5,EQUI
+Terminal 5 to teh positive battery terminal,Terminal 5 and the positive terminal,5,EQUI
+is connected,are connected,5,EQUI
+was connected,are separated,4,OPPO
+terminal 1 to the positive terminal,Terminal 1 and the positive terminal,5,EQUI
+between terminal one and two and the positive battery terminal,Terminals 1 and 2,3,SPE2
+a gap,in the same electrical state,2,REL
+with the battery,with the battery,5,EQUI
+are contained,are,5,EQUI
+bulbs b and c,B and C,5,EQUI
+on the same path,in the same path,5,EQUI
+is no closed path,the path is not closed,5,EQUI
+terminal 1 to the positive battery terminal,Terminal 1 and the positive terminal,5,EQUI
+is not connected,are not connected,5,EQUI
+is not,is not,5,EQUI
+the battery,The battery,5,EQUI
+in a closed bath,in a closed path,5,EQUI
+is connected,are connected,5,EQUI
+terminal 5 to postive terminal of the battery,Terminal 5 and the positive terminal,5,EQUI
+x and z,"A, C, Z and X",2,SPE1
+a closed path,a path,5,EQUI
+positive terminal from terminal 2,Terminal 2 and the positive terminal,5,EQUI
+is serperated,are separated,5,EQUI
+is not closed,in a closed path,3,REL
+the battery,The battery,5,EQUI
+is not,are not separated,4,SIMI
+a gap,by a gap,5,EQUI
+if,When,3,SIMI
+is,are contained,5,EQUI
+a bulb with a battery and a switch,the switch and the bulb,3,SPE2
+in a closed circuit,in the same path,4,REL
+with the battery.,with the battery.,5,EQUI
+in a closed path,in the same closed path,4,SPE2
+were contained,were contained,5,EQUI
+bulbs b and c,Bulb B and Bulb C,5,EQUI
+are,has,2,SIMI
+in closed paths.,no closed paths,4,OPPO
+neither components,Circuit 4,3,REL
+the gap,a gap.,5,EQUI
+where,where,5,EQUI
+a gap,are not connected.,4,REL
+Bulb A and Bulb B and the battery,A and B with the battery.,5,EQUI
+in a closed path.,in a closed path,5,EQUI
+are,are still,4,SPE2
+a gap,no gap,4,OPPO
+is,is,5,EQUI
+there,there,5,EQUI
+are contained,are contained,5,EQUI
+"in the same path,",in the same path,5,EQUI
+if,When,3,SIMI
+the switch and bulb,the switch and the bulb,5,EQUI
+Voltage,terminal 1,2,REL
+between a positive and negative end on a battery.,to the negative battery terminal,2,SPE2
+through the switch,the switch,5,EQUI
+the path,in the same path,4,SPE2
+the energy,the bulb,2,REL
+are,are,5,EQUI
+the bulb terminal and battery terminal,The terminals,3,SPE1
+on the same side of a disconnected circut,in the same state.,2,REL
+the battery,The battery,5,EQUI
+in a closed path.,in a closed path,5,EQUI
+is not,is not,5,EQUI
+switch x with bulb a,Bulb A with the battery and switch X.,3,SPE1
+in the closed path,in a closed path,5,EQUI
+is,is contained,5,EQUI
+a closed circuit,in a closed path,4,REL
+"switch z in bulb c""""s",both,5,EQUI
+"closed path""",a path,5,EQUI
+is,containing,3,SIMI
+"switch z in bulb c""""s",Z and C,5,EQUI
+Bulb A,Bulb A,5,EQUI
+in a closed path,in a closed path,5,EQUI
+was,is contained,4,SIMI
+still,still,5,EQUI
+a gap,by a gap,5,EQUI
+was,was contained,5,EQUI
+in a closed path,in the same closed path,4,SPE2
+still,still,5,EQUI
+Bulb A,Bulb A,5,EQUI
+with the battery,with the battery.,5,EQUI
+The battery and light bulb,The battery,3,SPE2
+in a close path,in a closed path,5,EQUI
+are not contained,is not,5,EQUI
+the circut,in the same closed path,4,REL
+is,is,5,EQUI
+"on it""""s own pathway.""",in a separate path,4,REL
+bulb C,Bulb C,5,EQUI
+bulb A,bulb A,5,EQUI
+in a closed path.,in a closed path,5,EQUI
+bulbs B and C,neither B nor C,5,EQUI
+burns out,"burns out,",5,EQUI
+if,If,5,EQUI
+will no longer be,is,4,SPE1
+is not connected,are not connected,5,EQUI
+Terminal 1 to the positive terminal.,Terminal 1 and the positive terminal,5,EQUI
+is not,is not,5,EQUI
+in a closed circuit,in a closed path,4,REL
+the battery,The battery,5,EQUI
+the terminal,between the terminals,4,SPE1
+is connected,is no gap,4,REL
+it,between the terminals,4,SPE1
+a closed path and a battery.,a closed path containing both the bulb and a battery,3,SPE1
+There,there,5,EQUI
+must be,is,4,SIMI
+is connected,are not connected,4,OPPO
+terminal to terminal 6,Terminals 1 and 6,4,SPE2
+is,is contained,5,EQUI
+with the battery and switch x,with the battery and switch X.,5,EQUI
+bulb a,Bulb A,5,EQUI
+in a closed circuit,in a closed path,4,REL
+If,If,5,EQUI
+the bbulb,the bulb,5,EQUI
+the switch,the switch,5,EQUI
+the path,in the same path,4,SPE2
+will not affect,affects,4,OPPO
+are,are,5,EQUI
+on a closed path,in a closed path,5,EQUI
+bulb b and c,bulbs B and C,5,EQUI
+a a gap,by a gap,5,EQUI
+the voltage of a battery,from the positive battery terminal,3,REL
+a light bulb,The battery,3,REL
+the bulb,The damaged bulb and the other bulb,3,SPE1
+the positive batter terminal and terminal 6,Terminal 6 and the positive terminal,5,EQUI
+were connected.,are connected,4,SIMI
+the the circuit,the path,4,REL
+is complete.,is not closed,3,REL
+still,still,5,EQUI
+with the battery,with the battery,5,EQUI
+on closed paths,in closed paths,5,EQUI
+will be,are,4,SIMI
+Bulbs B and C,bulbs B and C,5,EQUI
+the bulb,a bulb and a switch,3,SPE1
+in an closed circuit,in the same path,4,SPE2
+is contained,are,5,EQUI
+ARE,are,5,EQUI
+ON THE SAME PATH,in the same path,5,EQUI
+Bulb a and switch Y,Switch Y and bulb A,5,EQUI
+are not,are not,5,EQUI
+in the same path.,in the same closed path,5,EQUI
+the electrical states different,different electrical states,5,EQUI
+of the positive and negative terminals,at the terminals,3,SPE1
+inside the battery,A battery,5,EQUI
+A chemical reaction,a chemical reaction,5,EQUI
+"the terminals 4,5, and 6","Terminals 4, 5 and 6",5,EQUI
+are connected,are connected,5,EQUI
+to the positive terminal of the battery,to the positive battery terminal,5,EQUI
+does not effect,are not,2,SIMI
+switch Y bulb A,Switch Y and bulb A,5,EQUI
+bulb c,C,5,EQUI
+a gap,"burns out,",3,REL
+are not contained,was no longer,4,SPE2
+in a closed pathway,in a closed path,5,EQUI
+Bulb C and the battery,Bulb C with the battery,5,EQUI
+both,The terminals,4,EQUI
+the two terminals,The terminals,4,SPE1
+will be,are,4,SIMI
+0,in the same state.,3,SPE1
+is not,is,4,OPPO
+in the same path,in a separate path,4,REL
+bulb b,Bulb B,5,EQUI
+The electrical state,A non-zero voltage,3,REL
+the battery and the bulb,The battery,3,SPE2
+in a closed path.,in a closed path,5,EQUI
+are not,is not,5,EQUI
+by measuring,Measuring,5,EQUI
+"in electrical states.""",the electrical state,4,SPE2
+the gap,due to a gap.,5,EQUI
+"there""""s a difference",changes,3,SIMI
+where,where,5,EQUI
+find,indicates,3,SIMI
+"voltage,",voltage,5,EQUI
+will be contained,are still,4,SPE2
+on a closed path,in a closed path.,5,EQUI
+bulbs a and b,A and B,4,SPE1
+in the the same path,in the same path,5,EQUI
+with the battery.,with the battery,5,EQUI
+are contiained,are not,4,OPPO
+bulbs b and c,A and C,5,EQUI
+a gap,in the same electrical state,2,REL
+in the path.,Terminals 1 and 2,2,REL
+is,is,5,EQUI
+with a battery,with the battery,5,EQUI
+bulb a,Bulb A,5,EQUI
+in a closed path,in a closed path,5,EQUI
+Bulb A and bulb C,A and C,5,EQUI
+affect,are,2,SIMI
+in a closed path,a path,5,EQUI
+is contained,containing,5,EQUI
+switch z,Z and C,3,SPE1
+switch z,both,3,SPE1
+the bulb terminal and the negative battery terminal,between the terminals,3,SPE1
+by a gap,no gap,4,OPPO
+are,are contained,5,EQUI
+with the battery.,with the battery,5,EQUI
+Bulb A and C,Bulbs A and C,5,EQUI
+still,still,5,EQUI
+in a closed path,in closed paths,4,SPE1
+switch and bulb,the switch and the bulb,5,EQUI
+are contained,are contained,5,EQUI
+in the same closed path,in the same path,5,EQUI
+if,When,3,SIMI
+between the positive battery connection and the bulb terminal.,between the terminals,3,SPE1
+a gap,no gap,4,OPPO
+is,is,5,EQUI
+there,there,5,EQUI
+on the same path,a different path,4,SIMI
+that,a different path,4,SIMI
+on the same path,a path,3,REL
+Bulb A,A,5,EQUI
+are.,containing,4,SIMI
+Bulb B and bulb C,B and C,5,EQUI
+is not,containing,2,SIMI
+on a different current,in a closed path,4,REL
+is connected,are connected,5,EQUI
+terminal 6,Terminal 6 and the positive terminal,3,SPE2
+the batteries terminals,Circuit 4,4,REL
+are not connected,has no closed paths,4,REL
+a gap,a gap.,5,EQUI
+a voltage,voltage,5,EQUI
+means,indicates,4,SIMI
+different electrical states,the electrical state changes,4,SIMI
+Find,indicates,2,REL
+where,where,5,EQUI
+to the battery,the battery,5,EQUI
+circuit 2,no closed path,3,REL
+in the circuit,in a circuit,5,EQUI
+the gap,a gap,5,EQUI
+a gap,by the gap,5,EQUI
+in the circuit,Terminal 1 and the positive terminal,3,REL
+the path,in the same path,4,SPE2
+for the bulb,the bulb,5,EQUI
+in voltage,between the terminals,4,REL
+is,is,5,EQUI
+no gap,no gap,5,EQUI
+There,there,5,EQUI
+between a positive and negative end on the battery.,Terminal 1 and the positive terminal,2,SIMI
+a short circuit,a complete circuit,4,OPPO
+Bulb A and bulb C,Bulb B and Bulb C,5,EQUI
+are,were still contained,4,SPE2
+with the battery.,with the battery.,5,EQUI
+in a closed path,in the same closed path,4,SPE2
+are connected,are connected,5,EQUI
+"Terminals 4, 5, and 6","Terminals 4, 5 and 6",5,EQUI
+to the positive battery terminal.,to the positive battery terminal,5,EQUI
+a terminal to the positive battery terminal,the terminals,3,SPE1
+is connected,are not connected,4,OPPO
+the terminals,terminal 1 to the negative battery terminal,3,SPE2
+are,is connected,2,SIMI
+"isn""""t included",are not,5,EQUI
+"switch y in bulb A""""s",Switch Y and bulb A,5,EQUI
+"closed path""",in the same closed path,5,EQUI
+the negative battery terminal,from the negative battery terminal,5,EQUI
+by a gap,by a gap,5,EQUI
+is seperated,is separated,5,EQUI
+from terminal 6,terminal 6,5,EQUI
+the bulb terminal to one of the battery terminals,between the terminals,3,SPE1
+is connected,is no gap,4,REL
+a negavtive gap,by a gap,4,SPE1
+is connected,are connected,5,EQUI
+terminal,"Terminals 4, 5 and 6",2,SPE1
+to postive end of battery,to the positive battery terminal,5,EQUI
+is connected,is connected,5,EQUI
+to the 1.5 volt battery.,to the negative battery terminal,4,REL
+terminal 1,terminal 1,5,EQUI
+The path,in the same path,4,SPE2
+on the same path,in the same path,5,EQUI
+are contained,are,5,EQUI
+with the battery.,with the battery,5,EQUI
+Bulbs B and C,B and C,5,EQUI
+is connected,are connected,5,EQUI
+a terminal to the positive terminal,Terminal 6 and the positive terminal,4,SPE2
+in parallel,in a closed path.,3,REL
+in series,in a closed path.,3,REL
+a and b,A and B,5,EQUI
+are,are,5,EQUI
+a and c,C,3,SPE2
+is connected,are connected,5,EQUI
+a terminal to the positive terminal,Terminal 5 and the positive terminal,4,SPE2
+the bulb,The bulb,5,EQUI
+is not contained,is not,5,EQUI
+in the path,in the closed path,5,EQUI
+gap,by the gap,5,EQUI
+positive charge,Terminal 1 and the positive terminal,3,REL
+on the same path,in a closed path,4,SPE1
+is not,are,4,OPPO
+Seperate paths,in a closed path,4,REL
+to the battery,with the battery,5,EQUI
+is,is,5,EQUI
+in a short circuit.,a short circuit,5,EQUI
+in a closed path.,no closed paths,4,REL
+The battery,Circuit 4,3,REL
+to the battery,to the negative battery terminal,4,SPE2
+is connected,are connected,5,EQUI
+terminal,"Terminals 1, 2 and 3",2,SPE1
+in the same closed path,in the same path,5,EQUI
+Bulb A and Bulb C,A and C,5,EQUI
+are not contained,are not,5,EQUI
+on the same closed path.,in the same path,5,EQUI
+are not,are not,5,EQUI
+bulbs A and C,A and C,5,EQUI
+"bulb, battery, and switch",the switch and the bulb,3,SPE2
+are,are contained,5,EQUI
+in closed path,in the same path,4,SPE2
+are no longer,is,4,OPPO
+the paths of the circuit complete,an incomplete circuit,4,REL
+is,has,3,SIMI
+no closed path,no closed paths,4,SPE1
+in circuit 4.,Circuit 4,5,EQUI
+a chemical reaction reaction.,a chemical reaction,5,EQUI
+keeps,uses,4,SIMI
+The battery,A battery,5,EQUI
+between two battery terminals.,at the terminals,3,SPE1
+a difference in voltage,different electrical states,3,SIMI
+terminal 1is to terminal 4,Terminals 1 and 4,5,EQUI
+connected,are connected,5,EQUI
+will be,are,4,SIMI
+Bulb A and B,A and B,5,EQUI
+still,still,5,EQUI
+in a contained path.,in a closed path.,5,EQUI
+bulb a,Bulb A,5,EQUI
+with the battery,with the battery,5,EQUI
+is,is,5,EQUI
+in a closed circuit,in a closed path,4,REL
+different paths,in the same path,4,REL
+with the battery,with the battery,5,EQUI
+at the terminal,terminal 1,4,SPE2
+the battery,The battery,5,EQUI
+in a closed path,in a closed path,5,EQUI
+Circuit 2,in 2,5,EQUI
+is not,is not,5,EQUI
+is,was contained,4,SIMI
+on a closed circut path,in the same closed path,4,SPE2
+Bulb A,Bulb A,5,EQUI
+Bulb B and bulb C,B and C,5,EQUI
+are contained,are,5,EQUI
+in different paths,in the same path,4,REL
+with the battery,with the battery,5,EQUI
+the battery,A battery,5,EQUI
+a positive terminal a negative terminal.,at the terminals,3,SPE1
+a voltage,different electrical states,3,REL
+has,uses,2,SIMI
+between 3 and positive battery,Terminal 3 and the positive terminal,5,EQUI
+gap,by the gap,5,EQUI
+bulbs A and C,A and C,5,EQUI
+in different paths,in different paths,5,EQUI
+with the battery,with the battery,5,EQUI
+are contained,are,5,EQUI
+because of the gap,by a gap,5,EQUI
+in an open path,in a closed path,4,OPPO
+bulb c,Bulb C,5,EQUI
+was,was not,4,OPPO
+in the closed path,in a closed path,5,EQUI
+of bulb a and the battery.,Bulb A with the battery,5,EQUI
+is not connected,are not connected,5,EQUI
+A terminal to the negative battery terminal.,Terminals 1 and 6,2,SPE2
+bulb B and C,bulbs B and C,5,EQUI
+both,bulbs B and C,5,EQUI
+with the battery,with the battery,5,EQUI
+are,are,5,EQUI
+still,still,5,EQUI
+on a closed path,in closed paths,4,SPE1
+terminal 1 and terminal 6,Terminals 1 and 6,5,EQUI
+by a gap,by the gap,5,EQUI
+are seperated,are separated,5,EQUI
+in a closed path.,in a closed path,5,EQUI
+in a closed path.,in which,5,EQUI
+is,is contained,5,EQUI
+the battery,the battery,5,EQUI
+a battery and a bulb,the bulb and a battery,5,EQUI
+including,containing,5,EQUI
+complete path,a closed path,5,EQUI
+a battery and a bulb,both,5,EQUI
+bulbs b and c,Bulb B,3,SPE2
+in the path,in a separate path,4,REL
+are connected,are connected,5,EQUI
+the positive battery terminal and terminal 5,Terminal 5 and the positive terminal,5,EQUI
+the the bulb terminal from the battery terminal,the terminals,4,SPE1
+disconnected,are not connected,5,EQUI
+the battery,the battery,5,EQUI
+the light bulb,no bulb,4,OPPO
+in the circuit,in a path,4,REL
+in the circuit,in which,4,REL
+is contained,is contained,5,EQUI
+is not,is,4,OPPO
+do not connect,in an open path,4,REL
+of the battery,the battery,5,EQUI
+the circuit is no longer complete,an incomplete circuit,5,EQUI
+both bulbs,The damaged bulb and the other bulb,3,SPE2
+are contained,must be contained,4,SIMI
+within a closed path,in the same path,4,SPE2
+in that circuit,in a closed path,4,REL
+in a closed circuit,in a closed path,4,REL
+the battery,The battery,5,EQUI
+exists,is not,3,REL
+to the light bulb,Bulb A,4,SPE2
+is connected,was contained,3,SIMI
+the closed path,in the same closed path,4,SPE2
+"the electrical states the same,",in the same state.,5,EQUI
+is,are,5,EQUI
+between the terminals,The terminals,5,EQUI
+bulb b and bulb c,B and C,5,EQUI
+are contained,are,5,EQUI
+within a closed path,in the same path,4,SPE2
+in a closed path.,in a closed path,5,EQUI
+in a closed path.,in which,5,EQUI
+is,is contained,5,EQUI
+is connected,are separated,4,OPPO
+terminal 6 to terminal 1,Terminals 1 and 6,5,EQUI
+in the circuit,in a circuit,5,EQUI
+is,is,5,EQUI
+there,there,5,EQUI
+a gap,a gap,5,EQUI
+in a complete circuit,in a closed path,4,REL
+is,is contained,5,EQUI
+with the battery switch z,with the battery and switch Z.,5,EQUI
+bulb a,Bulb A,5,EQUI
+is,is,5,EQUI
+bulb a,Bulb A,5,EQUI
+with the battery,with the battery,5,EQUI
+on a closed path,in a closed path,5,EQUI
+those terminals,"Terminals 4, 5 and 6",2,SPE2
+to the positive terminal of the battery.,to the positive battery terminal,5,EQUI
+are connected,are connected,5,EQUI
+in a closed path,in a closed path,5,EQUI
+Not contained,was not,5,EQUI
+to positive charge,to the positive battery terminal,4,REL
+terminal,"Terminals 4, 5 and 6",2,SPE2
+connected,are connected,5,EQUI
+Bulbs a and c,"A, B and C",3,SPE1
+are,are,5,EQUI
+in separate paths.,in different paths,5,EQUI
+terminal 6 to postive terminal,Terminals 1 and 6,2,SIMI
+is connected,are not connected,4,OPPO
+a terminal to the negative battery terminal,the terminals,3,SPE1
+is connected,are not connected,4,OPPO
+is,is contained,5,EQUI
+bulb A,Bulb A,5,EQUI
+in the same path,in a closed path,4,SPE1
+Switch Z,with the battery and switch Z.,3,SPE1
+a gap,in a closed path,4,REL
+each bulb,each bulb,5,EQUI
+its own complete path,in its own path,5,EQUI
+has,is,4,SIMI
+separate paths,in a closed path,4,REL
+within the closed circuit,with the battery,3,REL
+bulbs b and c,B and C,5,EQUI
+A terminal,"Terminals 1, 2 and 3",2,SPE2
+is connected,are separated,4,OPPO
+the positive battery terminal from terminal 4,Terminal 4 and the positive terminal,5,EQUI
+are,are contained,5,EQUI
+a switch and bulb,the switch and the bulb,5,EQUI
+when,When,5,EQUI
+whithin a closed path,in the same path,4,SPE2
+the path,the path,5,EQUI
+Bulb A,bulb A,5,EQUI
+the circuts.,in a closed path,4,REL
+Bulb C,each bulb,3,SPE1
+in the path,in its own path,4,SPE2
+was contained,was contained,5,EQUI
+with the battery,with the battery.,5,EQUI
+on a closed path,in the same closed path,4,SPE2
+bulb a,Bulb A,5,EQUI
+Terminal 1 to terminl 4.,Terminals 1 and 4,5,EQUI
+is connected,are connected,5,EQUI
+on the same path,in a separate path,4,REL
+Bulb C.,Bulb C,5,EQUI
+are not,is,4,OPPO
+Each circuit,a complete circuit,3,SPE2
+with a bulb and a battery,a bulb and a switch,3,SIMI
+in a closed path,in the same path,4,SPE2
+contained,are,4,SIMI
+A switch,the switch,5,EQUI
+will affect,affects,4,SIMI
+the bulb.,the bulb,5,EQUI
+between a positive and negative terminal,Terminal 1 and the positive terminal,3,SIMI
+with the battery.,with the battery.,5,EQUI
+in a closed paty,in the same closed path,4,SPE2
+bulbs b and c,Bulb B and Bulb C,5,EQUI
+were,were contained,5,EQUI
+z,"A, C, Z and X",2,SPE1
+the path,a path,5,EQUI
+the bulb and the switch,the switch and the bulb,5,EQUI
+are,are contained,5,EQUI
+in the path,in the same path,4,SPE2
+the positive battery terminal,between terminal 6 and the positive terminal,3,SPE1
+is not connected,is no gap,4,OPPO
+are,are,5,EQUI
+on a closed path,in closed paths,4,SPE1
+contains the battery.,with the battery,5,EQUI
+still,still,5,EQUI
+that,in closed paths,4,SPE1
+Bulb A and bulb C,Bulbs A and C,5,EQUI
+on their own completed circuts.,in a closed path,3,REL
+will be,are,4,SIMI
+Bulbs A and C,Bulbs A and C,5,EQUI
+is separated,are separated,5,EQUI
+the terminal from the battery terminal,the terminals,3,SPE1
+a terminal to another terminal,"Terminals 4, 5 and 6 to the positive battery terminal",2,SPE2
+is connected,are connected,5,EQUI
+bulb A to switch Z,both,3,SIMI
+bulb A to switch Z,switch Y and bulb A,3,SIMI
+"a closed path,",a path,5,EQUI
+is,is,5,EQUI
+there,there,5,EQUI
+contains,containing,5,EQUI
+"with switch z, bulb a and the battery","A, C, Z and the battery",3,SPE1
+that,a path,5,EQUI
+to the positive terminal,to the positive battery terminal,5,EQUI
+are connected,are connected,5,EQUI
+"Terminal 4, terminal 5, and terminal 6","Terminals 4, 5 and 6",5,EQUI
+is not connected,is not,3,SPE1
+Circuit 2,in 2,5,EQUI
+the battery,The battery,5,EQUI
+a short circuit,in a closed path,4,REL
+terminal 1 from the positive battery terminal.,Terminal 1 and the positive terminal,5,EQUI
+is seperated,are separated,5,EQUI
+bulb a and bulb c,A and C,5,EQUI
+in different paths,in different paths,5,EQUI
+are contained,are,5,EQUI
+with the bttery.,with the battery,5,EQUI
+with the battery.,with the battery,5,EQUI
+in a closed path,in a closed path,5,EQUI
+bulb a,Bulb A,5,EQUI
+is,is,5,EQUI
+is connected,are separated,4,OPPO
+the positive terminal,Terminal 1 and the positive terminal,3,SPE1
+bulb a and bulb c,Bulbs A and C,5,EQUI
+The positive terminal,Terminal 1 and the positive terminal,3,SPE1
+in the battery,A battery,5,EQUI
+because of the chemical,a chemical reaction,4,SIMI
+in closed paths.,in a closed path,4,SPE2
+need to be,are,4,SIMI
+Both components,the bulb and the battery,4,SPE2
+bulb a and bulb c,A and C,5,EQUI
+are wired,in different paths,3,REL
+Bulb terminals 3 and 4,Terminal 1 and the positive terminal,2,SIMI
+the other bulb,The damaged bulb and the other bulb,3,SPE1
+in the terminals,both,4,REL
+in the terminals,switch Y and bulb A,4,REL
+the switch with the battery and bulb.,the switch and the bulb,3,SPE2
+if,When,3,SIMI
+in a path,in the same path,4,SPE2
+to the positive side,to the positive battery terminal,4,SPE2
+"4, 5, and 6","Terminals 4, 5 and 6",5,EQUI
+are connected,are connected,5,EQUI
+a gap,no gap,4,OPPO
+are not connected,are not connected,5,EQUI
+4 5 and 6,"Terminals 4, 5 and 6",5,EQUI
+to negative battery terminal,to the negative battery terminal,5,EQUI
+on a closed path,in a closed path,5,EQUI
+bulbs a and b,A and B,5,EQUI
+still,still,5,EQUI
+with the battery,with the battery,5,EQUI
+are contained,are,5,EQUI
+are,are,5,EQUI
+"bulbs a, b, and c",A and C,3,SPE2
+in the same path.,in the same path,5,EQUI
+all,A and C,3,SPE2
+are,are,5,EQUI
+a and c,A and C,5,EQUI
+on the same closed path,in the same closed path,5,EQUI
+is included,are,5,EQUI
+"closed path,",in the same path,4,SIMI
+"the bulb""",the bulb,5,EQUI
+"""if",If,5,EQUI
+will affect,affects,4,SIMI
+the switch,the switch,5,EQUI
+"the switch in the bulb""""s",a bulb and a switch,5,EQUI
+by a gap,by the gap,5,EQUI
+not seperated,are not separated,5,EQUI
+are seperated.,are separated,5,EQUI
+terminal 1 and the neavtive terminal,Terminal 1 and the positive terminal,4,SIMI
+a gap,an incomplete circuit,4,REL
+is,is,5,EQUI
+their,there,5,EQUI
+Bulb A and bulb b,A and B,5,EQUI
+still,still,5,EQUI
+with the battery,with the battery,5,EQUI
+in closed paths,in a closed path,4,SPE2
+are contained,are,5,EQUI
+in the same circuit,in its own path,3,REL
+B and C,each bulb,3,SPE1
+are not,is,4,OPPO
+there terminals,the terminals,5,EQUI
+are separated,are separated,5,EQUI
+by a gap,by a gap,5,EQUI
+bulbs a b and c,A and C,3,SPE2
+on a closed path,in the same closed path,4,SPE2
+are,are,5,EQUI
+no gap,by the gap,4,OPPO
+from the positive terminal,Terminal 1 and the positive terminal,3,SPE1
+was,are separated,2,SIMI
+bulbs A and B,A and B,5,EQUI
+still,still,5,EQUI
+to the closed path,in a closed path,5,EQUI
+containing the battery,with the battery,5,EQUI
+are connected,are,4,SIMI
+if,When,3,SIMI
+are,are contained,5,EQUI
+the switch and the bulb,the switch and the bulb,5,EQUI
+in the same path,in the same path,5,EQUI
+bulb c and switch z,both,5,EQUI
+bulb c and switch z,Z and C,5,EQUI
+in the same closed path,a path,4,SPE1
+are,containing,4,SIMI
+has,does not contain,4,OPPO
+for the Philippines,to Philippines,5,EQUI
+departs,sends,3,SIMI
+China,China,5,EQUI
+'s Peace Ark,aid team,4,REL
+Conservatives,Conservative opposition,4,SPE2
+to Australia election victory,wins Australian election,5,EQUI
+"draws wide condemnation , criticism",angers,4,SIMI
+'s shrine visit,'s war shrine visit,4,SPE2
+Abe,Japanese PM Shinzo Abe,4,SPE2
+revokes,to repeal,5,EQUI
+anti-protest law,anti-protest laws,4,SPE1
+Ukraine,Ukraine,5,EQUI
+says,says,5,EQUI
+from Mediterranean Sea,in Mediterranean,4,SPE1
+fired,fired,5,EQUI
+missiles,ballistic missiles,4,SPE2
+Russia,Russia,5,EQUI
+new police station,Police Station,4,SPE1
+Pro-Russian protesters,Pro-Russian Protesters,5,EQUI
+in east Ukraine,in Ukraine,4,SPE1
+storm,Storm,5,EQUI
+in India,Indian villagers,3,REL
+Cyclone,Cyclone Phailin evacuation,3,REL
+of destruction,alive,3,REL
+among 9 killed,among dead,4,SPE1
+in Kabul hotel attack,in Kabul hotel attack,5,EQUI
+4 foreigners,Foreigners,4,SPE1
+Palestinian captives,Palestinian prisoner release,4,REL
+Israeli calls,Israel,4,REL
+instead of releasing them,Palestinian prisoner release,4,OPPO
+DPRK leader,North Korea,3,REL
+with S.Korea,South Korea,5,EQUI
+"'s oldest person , and oldest man",'s Oldest Man,4,SPE1
+at 116,Aged 116,5,EQUI
+ever,Ever,5,EQUI
+World,World,5,EQUI
+dies,Dies,5,EQUI
+expert nuclear talks,talks,4,SPE1
+to resume,to resume,5,EQUI
+on Dec. 30,next week,3,SPE1
+World powers and Iran,"Iran nuclear experts , world powers",4,SPE2
+to stop,to stop,5,EQUI
+for Russia,for Russia,5,EQUI
+acting,acting,5,EQUI
+and,and,5,EQUI
+start,start,5,EQUI
+time,Time,5,EQUI
+in Ukraine,in Ukraine,5,EQUI
+Biden,Biden,5,EQUI
+talking,talking,5,EQUI
+Image,Image,5,EQUI
+of the Day,of the Day,5,EQUI
+February 25,April 21,3,SIMI
+India Ink,India Ink,5,EQUI
+on Taiwan fisher attack,in Kenya mall attack,1,SIMI
+set,votes,4,SIMI
+to legalise,to legalise,5,EQUI
+New Zealand,New Zealand,5,EQUI
+gay marriage,same-sex marriage,5,EQUI
+Israel 's ex-PM Ariel Sharon,Former Israeli Prime Minister Sharon,5,EQUI
+dies,dies,5,EQUI
+Peace talks,killed,3,REL
+Israel official,in Israeli raid,3,REL
+with Palestinians,Palestinian girl,2,SPE2
+Portugal,Portugal,5,EQUI
+sends,fires,4,SIMI
+Ronaldo 's hat trick,Ronaldo hat-trick,5,EQUI
+to World Cup,to World Cup,5,EQUI
+After China Earthquake,in China earthquakes,4,SPE1
+At Least,At least,5,EQUI
+22 Dead,89 dead,3,SIMI
+hits,monitoring,2,REL
+Canadian freight train blast death toll,train blast situation,3,REL
+buried,die,4,REL
+Five children,Nine children,3,SIMI
+with Monaco win,despite Monaco win,5,EQUI
+Rosberg,Rosberg,5,EQUI
+in northern Iraq,in northern Iraq,5,EQUI
+11,12,4,SIMI
+kills,kills,5,EQUI
+Suicide truck bomber,Suicide car bomb,4,SIMI
+off Mexico,on Mexico,5,EQUI
+bringing,dumps,4,SIMI
+forms,weakens,2,REL
+Tropical Storm Barry,Tropical Storm Barry,5,EQUI
+heavy rain,rain,4,SPE2
+military airports,in military airport,4,SPE2
+Syrian rebels,by rebels,4,SPE1
+target,confront,4,REL
+6.6-magnitude quake,Magnitude-5.1 quake,4,SIMI
+USGS,USGS,5,EQUI
+hits,hits,5,EQUI
+access,Access,5,EQUI
+blocks,Blocks,5,EQUI
+North Korea,North Korea,5,EQUI
+to joint industrial zone,to Key Industrial Zone,4,SIMI
+over Bhutto murder,In Bhutto Death,5,EQUI
+charged,Charged,5,EQUI
+Pakistan,Pakistan,5,EQUI
+'s Musharraf,'s Musharraf,5,EQUI
+in streets,in Kiev,2,REL
+Ukrainian protesters,Ukraine protesters,5,EQUI
+for anti-government rally,topple,2,REL
+'s win,Landslide Win,4,SPE2
+after India buildings collapse,from Bangladesh building collapse,3,SIMI
+makes,Makes,5,EQUI
+Rock bands,Rock Bands,5,EQUI
+emergency landing,Emergency Landing,5,EQUI
+in Ill.,in Ill.,5,EQUI
+' plane,' Plane,5,EQUI
+in hospital,in hospital bed,4,SPE2
+Boston bombing suspect,Boston bombing suspect,5,EQUI
+elected,takes oath,4,REL
+'s Shehla Raza,Shehla Raza,5,EQUI
+Deputy Speaker of SA,as Sindh Assembly deputy speaker,5,EQUI
+'s last child,'s youngest child Lady Soames,4,SPE2
+Churchill,Churchill,5,EQUI
+dies,dies,5,EQUI
+aged 91,aged 91,5,EQUI
+30 short-range missiles,new land-to-sea missile,2,SIMI
+N. Korea,Iran,3,SIMI
+test-fires,test-fires,5,EQUI
+into sea,in Gulf,3,SPE2
+higher,lower,4,OPPO
+Chinese shares,Chinese shares,5,EQUI
+close,close,5,EQUI
+Tuesday,on Wednesday,3,SIMI
+North Korea,North Korea,5,EQUI
+Obama,Obama,5,EQUI
+In surprise visit,Surprise Visit,5,EQUI
+to Afghanistan,To Afghanistan,5,EQUI
+high court judgment,Ark. high court,3,REL
+on gay marriage,gay marriage,5,EQUI
+Sisi,'s Sisi,5,EQUI
+'s president,as president,5,EQUI
+sworn in,sworn in,5,EQUI
+as Egypt,Egypt,5,EQUI
+to 12.1%,12.2%,4,SIMI
+Eurozone 's unemployment,Eurozone unemployment,5,EQUI
+a fresh record high,record,4,SPE1
+climbs,hit,3,SIMI
+Sorry,sorry,5,EQUI
+South Korean President,S. Korean president,5,EQUI
+For Ferry Response,for ferry disaster,5,EQUI
+49,49,5,EQUI
+killed,carrying,2,SPE1
+Pro-Russian rebels,Ukraine Rebels,3,SIMI
+shoot down,shoot down,5,EQUI
+Ukrainian plane,plane,4,SPE1
+on Syria abuse,on Syrian chemical arms,3,SPE2
+Saudi,Cameron,3,REL
+pushes,pushes,5,EQUI
+UN resolution,U.N. resolution,5,EQUI
+45,78,2,SIMI
+killed,killed,5,EQUI
+in Spain train crash,in Spanish train disaster,4,SPE1
+19 hurt,17 Hurt,4,SIMI
+in New Orleans shooting,at New Orleans Parade Shooting,4,SPE2
+by mortar fire,by mortar,5,EQUI
+Vatican Embassy,Vatican embassy,5,EQUI
+hit,hit,5,EQUI
+in Syria,in Syria,5,EQUI
+'s Must-Reads,'s Must-Reads,5,EQUI
+"May 24 , 2013","October 29 , 2013",3,SIMI
+for Friday,for Tuesday,3,SIMI
+The Note,The Note,5,EQUI
+'s Peres,Gonsalves,2,SIMI
+Israel,on Dom Rep,2,SIMI
+92,96,4,SIMI
+Kill,kill,5,EQUI
+Assault,Assault,5,EQUI
+Other Attacks,other attacks,5,EQUI
+on Iraq Funeral,on Iraq funeral,5,EQUI
+in Afghanistan,in Benghazi clashes,1,SPE2
+Two NATO soldiers,Five Libyan soldiers,2,SIMI
+killed,killed,5,EQUI
+US top diplomat Kerry,US Secretary of State John Kerry,5,EQUI
+rushed,rushed,5,EQUI
+'s wife,'s wife,5,EQUI
+to hospital,to hospital,5,EQUI
+march of anger,of Rage rallies,5,EQUI
+'s Brotherhood,'s Brotherhood,5,EQUI
+Egypt,Egypt,5,EQUI
+to hold,holds,5,EQUI
+to observe,Accept,3,SIMI
+brief Gaza truce,Temporary Truce,2,SPE1
+Israel and Hamas,Israel And Hamas,5,EQUI
+Foreign exchange rates,Foreign exchange rates,5,EQUI
+in Singapore,in India,3,SIMI
+'s oldest man,'s Oldest Man,5,EQUI
+dies,Dies,5,EQUI
+World,World,5,EQUI
+at 116,Aged 116,5,EQUI
+Iran nuclear agreement,Iran 's nuclear deal,5,EQUI
+welcomes,welcomes,5,EQUI
+Germany,Syria,3,SIMI
+with North,With North,5,EQUI
+talks,Talks,5,EQUI
+South Korea,South Korea,5,EQUI
+Video,Security video,4,SPE2
+in mall,mall,5,EQUI
+Kenya jihadis,Kenyan soldiers,3,SIMI
+shows,shows,5,EQUI
+killing,looting,3,SIMI
+UN inspectors,U.S.,3,REL
+over Syria chemical weapons,Syria chemical weapons,5,EQUI
+on chlorine bombs,on nuclear site,3,REL
+rejects,rejects,5,EQUI
+claim,MKO claim,4,SPE2
+Iran,Iran,5,EQUI
+One dead,Six killed,2,SIMI
+in US building collapse,in US building collapse,5,EQUI
+hunting for,trawls for,4,SIMI
+in missing Malaysian plane search,from missing Malaysia plane,4,REL
+Ship,Australian ship,4,SPE2
+more pings,signals,4,SIMI
+Tehran-London ties,Tehran-London ties,5,EQUI
+to improve,to improve,5,EQUI
+to treatment,to treatment,5,EQUI
+Mandela,Mandela,5,EQUI
+responding,is responding,5,EQUI
+Gunmen,Gunmen,5,EQUI
+Libyan deputy industry minister,Libyan deputy industry minister,5,EQUI
+assassinate,kill,5,EQUI
+against USD,against USD,5,EQUI
+to 6.1535,to new high,2,SPE1
+China yuan,China yuan,5,EQUI
+weakens,strengthens,4,OPPO
+burn,Confronts,3,SPE1
+Australian flags,Australian Ambassador,3,REL
+Indonesians,Indonesia,5,EQUI
+over spying reports,on Reports of Spying,5,EQUI
+More Deaths,Five dead,3,SPE2
+in Canada Oil Train Explosion,in Canada train crash,3,SIMI
+10 Brotherhood supporters,supporters,2,SPE1
+moderate,lower,3,SIMI
+in US stock market,Asian stock markets,3,SIMI
+Declines,Tech sell-off,2,SPE2
+to Know,to Know,5,EQUI
+10 Things,10 Things,5,EQUI
+This Week,for Today,3,SPE2
+Ukraine protest leaders,Ukraine,3,REL
+Russian troops,"to Russian "" provocations """,4,REL
+"US , Russia",US and Russia,5,EQUI
+of Syria talks,Syria arms deal,3,REL
+U.S factory,German factory,3,SIMI
+in January,in January,5,EQUI
+down,rebound,4,OPPO
+orders,orders,5,EQUI
+San Diego Mayor Bob Filner,San Diego Mayor,4,SPE1
+In Oklahoma City,Oklahoma City Airport,4,SPE2
+After Tornadoes,During Tornado...,3,SIMI
+Nine Dead,Evacuated,3,REL
+Kenyan forces,Kenyan forces,5,EQUI
+mall collapse,mall collapse,5,EQUI
+caused,caused,5,EQUI
+unilateral ceasefire,unilateral ceasefire,5,EQUI
+Ukraine,Ukraine,5,EQUI
+to implement,offers,3,SIMI
+in Egypt,in Egypt,5,EQUI
+on French soldier,on French soldier,5,EQUI
+Suspect,Man,4,SPE2
+arrested,arrested,5,EQUI
+in attack,over attack,5,EQUI
+Obama,Obama,5,EQUI
+"from Israelis , Palestinians","Israeli , Palestinian negotiators",3,SPE2
+to greet,to greet,5,EQUI
+pope,Pope Francis,4,SPE2
+Brazilians,In Brazil thousands,4,SPE1
+throng streets,turn out,4,SIMI
+shakes,hits,5,EQUI
+no tsunami risk,no tsunami warning,4,REL
+northeastern Japan,Japan,4,SPE1
+Quake,Quake,5,EQUI
+Detroit,Detroit,5,EQUI
+eligible,eligible,5,EQUI
+for bankruptcy protection,for bankruptcy protection,5,EQUI
+signals,search area,4,REL
+Vietnam,China,3,SIMI
+from missing plane,for missing plane,5,EQUI
+in Afghanistan,in Afghanistan,5,EQUI
+Six US soldiers,Six U.S. soldiers,5,EQUI
+killed,killed,5,EQUI
+in aircraft crash,in helicopter crash,4,SPE2
+EU,Germany,4,REL
+destroy,in destroying,5,EQUI
+offers,offers,5,EQUI
+Syria weapons,Syria weapons,5,EQUI
+to help,help,5,EQUI
+arrests,Arrests,5,EQUI
+Egypt,Egypt,5,EQUI
+Muslim Brotherhood 's top leader,Muslim Brotherhood Supporters,4,REL
+Arsenal,Tottenham,3,SIMI
+v,v,5,EQUI
+live!,live!,5,EQUI
+Stoke City,Manchester City,3,SIMI
+honour,observes silence,4,SIMI
+Boston victims,for Boston victims,5,EQUI
+London Marathon runners,London Marathon,4,SPE1
+Dec. 2,April 23,3,SIMI
+in History,in History,5,EQUI
+Today,Today,5,EQUI
+will attend,will attend,5,EQUI
+Desmond Tutu,Tutu,5,EQUI
+says,says,5,EQUI
+Mandela funeral,Mandela funeral,5,EQUI
+kill,kill,5,EQUI
+in wedding convoy,in wedding convoy,5,EQUI
+Nigerian gunmen,Gunmen,4,SPE1
+"groom , 30 others",30,4,SPE2
+on Gaza,on Gaza,5,EQUI
+rise,rise,5,EQUI
+in Israeli air strikes,in air strikes,4,SPE1
+Deaths,Deaths,5,EQUI
+in Pakistan,in Pakistan,5,EQUI
+11,16,3,SIMI
+US drone strike,US drone,4,SPE1
+kills,kills,5,EQUI
+kill,Kill,5,EQUI
+"9 foreign tourists , 1 Pakistani",11 Foreign Tourists,3,SPE2
+Islamic militants,Gunmen,4,SPE1
+fire shuts,catches fire,4,SPE1
+Boeing 787 Dreamliner,Boeing 787 Dreamliner,5,EQUI
+Heathrow,at London Heathrow airport,5,EQUI
+arrested,granted bail,4,REL
+Former Pakistan President Pervez Musharraf,Former Pakistan military ruler Pervez Musharraf,5,EQUI
+brings,to Bring,5,EQUI
+more snow,More Snow,5,EQUI
+to US East Coast,to East Coast,4,SPE1
+Latest storm,Latest Storm,5,EQUI
+strikes,strikes,5,EQUI
+off Solomons,off California coast,3,SIMI
+Powerful 7.6 quake,Powerful 6.9 quake,4,SIMI
+World,world,5,EQUI
+sends,sends,5,EQUI
+emergency relief,relief,4,SPE1
+to battered Philippines,to battered Philippines,5,EQUI
+over Juncker appointment,to Juncker,4,SPE1
+argue,give thumbs up,3,REL
+"EU , Britain",EU leaders Britain,5,EQUI
+in Connecticut train collision,in head-on collision,1,SIMI
+injured,killed,3,REL
+Russian Prime Minister,Russia,4,REL
+cancels,drops,5,EQUI
+Barack Obama,Barack Obama,5,EQUI
+over Edward Snowden,over Ed Snowden affair,5,EQUI
+meeting,meeting,5,EQUI
+with Vladimir Putin,with Vladimir Putin,5,EQUI
+petrol pumps,petrol stations,4,REL
+at night,at night,5,EQUI
+to shut,to shut,5,EQUI
+India govt,India oil minister,4,SPE2
+proposal,for plan,4,SIMI
+rejects,slammed,2,REL
+on northern Gaza,on sourthern Gaza town,3,SPE2
+Israeli war jet strikes,Israeli air strike,4,SPE1
+Tropical Storm Karen,Tropical Storm Karen,5,EQUI
+US Gulf Coast,U.S. Gulf Coast,5,EQUI
+targets,nears,4,SIMI
+after airbag fault,over airbag,4,SPE1
+3 million Japanese cars,3.4m vehicles,4,SPE1
+"Toyota , Honda , Nissan and Mazda","Toyota , 3 other Japan carmakers",4,SPE1
+recall,to recall,5,EQUI
+sends,enter,3,SIMI
+China largest fleet,China ships,4,SPE1
+to disputed islands,off disputed islands,5,EQUI
+drought emergency,drought emergency,5,EQUI
+declares,declares,5,EQUI
+California governor,California governor,5,EQUI
+Ukraine rebels,Ukraine Rebels,5,EQUI
+eastern stronghold,from Main Stronghold,3,SPE1
+flee,Flushed,5,EQUI
+of extremists,extremists,5,EQUI
+from Egypt violence,from Egypt violence,5,EQUI
+benefiting,will benefit,5,EQUI
+France,France,5,EQUI
+warns,fears,2,REL
+Obama,Obama,5,EQUI
+Fed board,with GOP,3,REL
+42,44,4,SIMI
+wounded,wounded,5,EQUI
+in violence,'s violence,5,EQUI
+killed,killed,5,EQUI
+63,133,3,SIMI
+in Iraq,in Iraq,5,EQUI
+after almost five years captivity,after 5 years in captivity,4,SPE2
+U.S. soldier,US soldier,5,EQUI
+free,freed,5,EQUI
+in Afghanistan,in Afghanistan,5,EQUI
+Thousands,Thousands,5,EQUI
+the enemy,the enemy,5,EQUI
+acquitted,acquitted,5,EQUI
+Bradley Manning,Wikileaks soldier Bradley Manning,4,SPE2
+of aiding,of aiding,5,EQUI
+for Pope Francis,Pope Francis,5,EQUI
+Brazil,Brazil crowds,4,SPE2
+in Pakistan,in NW Pakistan,4,SPE2
+Drone Strikes,US drone strike,4,SPE2
+10 foreign tourists,"9 foreign tourists , 1 Pakistani",3,SPE1
+kill,kill,5,EQUI
+Gunmen,Islamic militants,4,SPE2
+rises,rises,5,EQUI
+Death toll,Death toll,5,EQUI
+to 59,to 638,2,SIMI
+in Nairobi attack,from Egypt violence,2,SIMI
+using,uses,5,EQUI
+chemical weapons,chemical weapons,5,EQUI
+Venezuelan opposition leader,"Venezuela Government , Opposition Head",4,SPE1
+'s Cameron,Cameron,5,EQUI
+seriously,seriously,5,EQUI
+by Gibraltar/Spain row,over Gibraltar events,2,SPE1
+concerned,concerned,5,EQUI
+the Papers,the Papers,5,EQUI
+Say,Say,5,EQUI
+What,What,5,EQUI
+"Nov. 19 , 2013","Sept. 26 , 2013",3,SIMI
+Top Diplomats,Top Diplomats,5,EQUI
+Meet,Discuss,3,SPE2
+Iranian nuclear talks,New Iran nuclear talks,4,SPE2
+to November,in November,5,EQUI
+Mulls,confirms,2,REL
+in Peace Talks,in peace talks,5,EQUI
+Participation,participation,5,EQUI
+Syrian Opposition,Syrian opposition,5,EQUI
+sworn in,sworn in,5,EQUI
+Rudd,Rudd,5,EQUI
+as Australian PM,as Australia 's new Prime Minister,4,SPE2
+Obama,Obama,5,EQUI
+deserved,deserve,5,EQUI
+Korean War veterans,Korean War vets,5,EQUI
+better,better,5,EQUI
+Padma Shri,Padma Shri,5,EQUI
+"Telugu actors Mohan Babu , Brahmanandam","actors Mohan Babu , Brahmanandam",4,SPE1
+asks,advises,3,SIMI
+Andhra Pradesh high court,HC,4,SPE1
+to return,to return,5,EQUI
+with murder,with murder,5,EQUI
+Pro football player Aaron Hernandez,American football player Aaron Hernandez,4,SPE2
+charged,charged,5,EQUI
+in France,in France,5,EQUI
+Algerian president,Algerian president,5,EQUI
+for medical tests,for medical tests,5,EQUI
+Israel,Israel,5,EQUI
+Palestinian prisoners,26 Palestinian Prisoners,4,SPE2
+to release,Releases,4,SIMI
+Dies,dies,5,EQUI
+British Nobel-Winning Author Doris Lessing,Nobel Prize winning author Doris Lessing,4,SPE1
+stars,win,2,REL
+Carter,Bonus-point Super Rugby,4,REL
+for Crusaders,for Crusaders,5,EQUI
+16,47,3,SIMI
+at least,at least,5,EQUI
+Car bombs,Car bombs,5,EQUI
+in Iraqi capital,in Baghdad area,2,SIMI
+kill,kill,5,EQUI
+dies,dies,5,EQUI
+in car crash,in car crash,5,EQUI
+' Fast &amp ; Furious ' star Paul Walker,Hollywood star Paul Walker,4,SPE1
+one-child policy,of one-child policy,5,EQUI
+eases,easing,5,EQUI
+China,China,5,EQUI
+Nobel Peace Prize,Nobel Peace prize,5,EQUI
+wins,wins,5,EQUI
+Global chemical watchdog,Chemical weapons watchdog,4,SPE2
+remanded,held,5,EQUI
+charged,charged,5,EQUI
+in a block,in a block,5,EQUI
+A woman,A mother,4,SPE2
+'s death,'s death,5,EQUI
+has been remanded,has been remanded,5,EQUI
+in custody,in custody,5,EQUI
+of flats.,of flats.,5,EQUI
+Woman,Mother,4,SPE2
+dead,dead,5,EQUI
+after an eight-year-old girl,after her eight-year-old daughter,4,SPE2
+over child,over daughter,4,SPE2
+with murder,with murder,5,EQUI
+was found,was found,5,EQUI
+at pro-Morsy protesters,at protesters,4,SPE1
+tear gas,teargas,5,EQUI
+Police,Turkish police,4,SPE2
+fire,fire,5,EQUI
+23,11 children,2,SPE2
+killed,killed,5,EQUI
+in Iraq car bombings,in Syria bombings,2,SPE1
+in Pakistan,in Pakistan,5,EQUI
+"nine foreign tourists , guide",nine tourists,4,SPE2
+Gunmen,Gunmen,5,EQUI
+kill,kill,5,EQUI
+in Ukraine,in Lebanon,3,SIMI
+Pro-Russia rebels,Syria rebels,3,SIMI
+criticizes,slams,3,SIMI
+Twitter ban,Twitter ban,5,EQUI
+Erdogan,Erdogan,5,EQUI
+after lifting,for lifting,5,EQUI
+court ruling,top court,4,REL
+in History,in History,5,EQUI
+Today,Today,5,EQUI
+Jan. 24,April 4,3,SIMI
+to lead the Federal Reserve,as US Federal Reserve chief,5,EQUI
+Janet Yellen,Janet Yellen,5,EQUI
+water cannon,"teargas , water cannon",4,SPE1
+Police,Police,5,EQUI
+as India gang-rape protest,at Istanbul protesters,2,SIMI
+use,fire,4,SIMI
+0.2 pct.,up 0.2 percent,4,SPE1
+spending,spending,5,EQUI
+US consumers,Consumer,4,SPE1
+last month,in May,2,SPE2
+in Syria,in Syria,5,EQUI
+chemical weapons,of chemical weapons,5,EQUI
+admits,alleged,4,SIMI
+Britain,UK,5,EQUI
+' exploratory ' surgery,hospitalized,4,REL
+'s Prince Philip,'s Prince Philip,5,EQUI
+in Canada,near Baltimore,3,SIMI
+Huge explosion,Huge explosion,5,EQUI
+after oil train,as freight train,4,SPE1
+derails,derails,5,EQUI
+NATO soldier,Four soldiers,2,SPE1
+in Taliban attack,in Yemen,3,REL
+killed,killed,5,EQUI
+in Ukraine,in Syria,3,SIMI
+released,kidnapped,4,OPPO
+Red Cross workers,Red Cross members,5,EQUI
+Iran,Iran,5,EQUI
+'s nuclear negotiating team,'s nuclear quest,4,REL
+over sectarian violence,Sectarian Violence,5,EQUI
+Unveils,Unveils,5,EQUI
+Google,Google,5,EQUI
+Prototype Self-Driving Car,Concept Self-Driving Car,4,SPE1
+over Kerry talks,Peace Talks,4,SPE1
+Palestinian prisoners,104 Palestinian Prisoners,4,SPE2
+to free,to Free,5,EQUI
+Israel,Israel,5,EQUI
+Chemical Arms Team,UN Chemical Arms Experts,4,SPE2
+to Begin Talks,To Visit,3,REL
+With Syria,Syria,5,EQUI
+president 's speech,presidential elections,3,REL
+Egypt,Pakistan,3,SIMI
+criticizes,boycotts,3,SPE2
+'s opposition,'s opposition party,5,EQUI
+Vodafone UK chief Guy Laurence,Vodafone UK chief,4,SPE1
+Rogers,Rogers,5,EQUI
+hires,names,4,SIMI
+as CEO,as new CEO,4,SPE2
+One dead,One dead,5,EQUI
+at PNG immigration centre,at Papua New Guinea immigration centre,5,EQUI
+77 hurt,77 hurt,5,EQUI
+in riot,in riot,5,EQUI
+pro-Mursi camps,pro-Morsi camps,5,EQUI
+disperse,clear,5,EQUI
+as Egypt police,as Egyptian forces,5,EQUI
+Survives,survives,5,EQUI
+Syrian PM,Syrian PM,5,EQUI
+Bomb Attack,bomb attack,5,EQUI
+' breakthrough ' guided missile,of ' breakthrough ' guided missile,5,EQUI
+North Korea,N. Korea,5,EQUI
+claims,hails,5,EQUI
+India Ink,India Ink,5,EQUI
+February 25,January 27,3,SIMI
+of the Day,of the Day,5,EQUI
+Image,Image,5,EQUI
+death toll,Bangladesh collapse deaths,5,EQUI
+"1,127",620,3,SIMI
+Bangladesh collapse search,Bangladesh collapse deaths,4,REL
+'s opposition party chief,'s opposition MDC party,2,REL
+Japan,Zimbabwe,3,SIMI
+Abe,Robert Mugabe,3,SIMI
+ahead,leading,5,EQUI
+in Afghanistan election race,in Afghan presidential elections,5,EQUI
+Abdullah,Abdullah,5,EQUI
+southwest Pakistan,southern Pakistan,4,SIMI
+rocks,hits,5,EQUI
+New major earthquake,Moderate earthquake,3,SPE1
+into political crisis,in crisis,4,SPE1
+Italy,Italy gov 't,4,SPE2
+of resignation,resign,5,EQUI
+Berlusconi party ministers,Berlusconi ministers,5,EQUI
+asylum,humanitarian asylum,4,SPE2
+offer,offers,5,EQUI
+to Snowden,to Snowden,5,EQUI
+"Nicaragua , Venezuela",Venezuela,4,SPE2
+17 govt employees,78,2,SPE1
+in Pakistan bus bombing,in Pakistan church bombing,3,SIMI
+killed,killed,5,EQUI
+in Bangkok shooting,in US school shooting,2,SPE2
+Two hurt,Two hurt,5,EQUI
+in Jordan Valley,in West Bank attack,2,SPE2
+killed,killed,5,EQUI
+Israel colonel,Israeli,4,SPE1
+prominent atheist blogger,3 atheist bloggers,3,SPE2
+arrest,arrest,5,EQUI
+Bangladesh police,Bangladesh police,5,EQUI
+Cannes hotel raid,in Cannes,4,REL
+nets,stolen,4,SIMI
+â¬40 million gems,Jewels worth â¬40m,4,SPE1
+Delays,on standby,3,REL
+in Search for Jet,for jet search,5,EQUI
+Syria envoy,Syria,4,REL
+dead,a force for life,3,REL
+Mel Smith,Mel Smith,5,EQUI
+Driver of crashed Spanish train,Spanish train driver,4,SPE1
+held,held,5,EQUI
+of negligent homicide,of negligent homicide,5,EQUI
+on suspicion,on suspicion,5,EQUI
+in Iraq,in Iraq,5,EQUI
+against military intervention,against US military interference,4,SPE2
+Iran,Iran,5,EQUI
+to 51,63,3,SIMI
+Death toll,Death toll,5,EQUI
+rises,hits,5,EQUI
+in Latvian supermarket collapse,in Mumbai building collapse,3,SPE1
+Defence,Defence,5,EQUI
+of scapegoating,of scapegoating,5,EQUI
+in South Korea ferry trial,in ferry trial,4,SPE1
+warns,warns,5,EQUI
+arrested,arrested,5,EQUI
+during march,on way,4,SIMI
+to Woolwich,to Woolwich,5,EQUI
+EDL leaders,EDL leaders,5,EQUI
+"nine foreign tourists , guide","9 foreign tourists , 1 Pakistani",4,SIMI
+kill,kill,5,EQUI
+Gunmen,Gunmen,5,EQUI
+general election,of February general election,4,SPE2
+to boycott,boycott,5,EQUI
+Thai opposition party,Thailand 's opposition Democrat Party,4,SPE2
+Syrian warplanes,Syria and Iran,2,REL
+in Iraq,in Iraq Conflict,4,REL
+venue,Venue,5,EQUI
+changes,Changes,5,EQUI
+Egypt,Egypt,5,EQUI
+for trial,for Trial,5,EQUI
+of ousted president,of Ousted President,5,EQUI
+dies,dies,5,EQUI
+Respected British interviewer David Frost,Broadcaster David Frost,4,SPE1
+killed,killed,5,EQUI
+in Syria,in Israeli raid,3,SPE2
+7 Palestinians,Palestinian,4,SPE1
+'s Benghazi,in Benghazi,5,EQUI
+no casualties,None Hurt,5,EQUI
+Car bomb,Car Bomb,5,EQUI
+at Swedish consulate,Swedish Consulate,5,EQUI
+six,4 militants,3,SPE2
+kills,kills,5,EQUI
+in Pakistan,in Pakistan,5,EQUI
+US drone strike,U.S. drone,4,SPE1
+Earthquake,Earthquake,5,EQUI
+of 6.3 magnitude,of 6 magnitude,4,SIMI
+off Indonesia island,Thailand,3,SIMI
+strikes,strikes,5,EQUI
+dozens,179,4,SPE2
+China quake,China quake,5,EQUI
+dead,kills,5,EQUI
+'s new prince,'s new baby prince,5,EQUI
+visits,meets,5,EQUI
+Queen,Queen,5,EQUI
+Britain,Britain,5,EQUI
+Syria opposition,Syria opposition,5,EQUI
+talks,with international backers,2,REL
+'s integration,to join,5,EQUI
+federal constitutional law,a treaty,4,REL
+into Russia,Russia,5,EQUI
+on Crimea,for Crimea,5,EQUI
+Putin,Putin,5,EQUI
+Venezuela,Venezuela,5,EQUI
+expels,Expels,5,EQUI
+three U.S. diplomats,3 U.S. Diplomats,5,EQUI
+after bloody week,after deadly clashes,3,SPE2
+protest,defiant,4,REL
+Egypt 's bruised Islamists,Egypt Islamists,4,SPE1
+N Korea,N. Korea,5,EQUI
+test-fires,fires,4,SPE1
+30 short-range missiles,short-range missiles,4,SPE1
+rises,rises,5,EQUI
+to nine,to 260,1,SIMI
+Glasgow helicopter death toll,Earthquake death toll,2,SIMI
+mixed,higher,3,SIMI
+close,close,5,EQUI
+Nov. 11,July 23,3,SIMI
+Shanghai stock indices,Shanghai stock indices,5,EQUI
+Prince Charles,Prince Charles,5,EQUI
+Putin,Vladimir Putin,5,EQUI
+to Hitler,to Adolf Hitler,5,EQUI
+compares,compares,5,EQUI
+retakes,retakes,5,EQUI
+Crusader castle,historic Crusader castle,4,SPE2
+Syrian army,Syrian army,5,EQUI
+over peace talks,Ahead of Peace Talks,5,EQUI
+Syrian opposition,Syrian Opposition,5,EQUI
+Four Morsi supporters,of Morsi supporters,4,SPE1
+in Egypt clashes,in Egypt,4,SPE1
+over Costa Concordia disaster,for costa concordia shipwreck disaster,4,SPE2
+jailed,sentenced,4,REL
+Five people,five men,4,SPE2
+2020 Olympic Games,2020 Olympic Games,5,EQUI
+Tokyo,Tokyo,5,EQUI
+to host,to host,5,EQUI
+Suicide bomber,Suicide bomb,4,REL
+in Afghan capital,in Syrian capital,3,SIMI
+kills,kills,5,EQUI
+eight,4,3,SIMI
+Twelve,11,4,SIMI
+on Pakistani train,in northern Pakistan,2,REL
+killed,killed,5,EQUI
+41,35,4,SIMI
+wounded,wounded,5,EQUI
+killed,killed,5,EQUI
+in violent attacks,in wave of attacks,4,SPE1
+22,138,2,SIMI
+in Iraq,in Iraq,5,EQUI
+advances,advances,5,EQUI
+against USD,against USD,5,EQUI
+Tuesday,Wednesday,3,SIMI
+China yuan,China yuan,5,EQUI
+to 6.2035,to 6.1408,4,SIMI
+New Australian PM Tony Abbott,Australian PM-elect Tony Abbott,5,EQUI
+Amazon,Amazon,5,EQUI
+new device for streaming video,new Fire TV streaming video box,4,SPE2
+launches,unveils,5,EQUI
+Glasgow Helicopter Crash Search,Glasgow Helicopter Crash,4,REL
+evacuated,evacuated,5,EQUI
+Thousands,Thousands,5,EQUI
+in Moscow metro fire,after fire breaks out in Moscow Metro,5,EQUI
+for mass march,for mass rally,5,EQUI
+Bangladesh opposition,Bangladesh opposition,5,EQUI
+set,set,5,EQUI
+still,still,4,EQUI
+40 missing,for 40 missing,5,EQUI
+in Canadian train wreck,in Canada train blaze,4,SPE2
+Pat Rice,Arsenal great Rice,5,EQUI
+Arsenal stars,Arsenal great Rice,4,REL
+against cancer,with cancer,5,EQUI
+Colombia,Colombia,5,EQUI
+Polar bear DNA,Polar bear study,4,SIMI
+may help,may boost,5,EQUI
+fight,fight,5,EQUI
+obesity,against obesity,5,EQUI
+Fire in Russian psychiatric hospital,in Russian psychiatric hospital fire,5,EQUI
+38,38,5,EQUI
+kills,feared dead,4,SPE1
+in west China,Italy,2,SIMI
+Israel,Israeli authorities,4,REL
+Palestinian prisoners,Palestinian home,2,REL
+Volcano erupts,Volcanic eruption,5,EQUI
+closed,closes,5,EQUI
+airports,3 airports,4,SPE2
+Search,Search,5,EQUI
+for Malaysia jet,for Missing Malaysian Jet,4,SPE2
+resumes,Resumes,5,EQUI
+to 6.1651,to 6.1696,4,SIMI
+China yuan,China yuan,5,EQUI
+Tuesday,Thursday,3,SIMI
+weakens,strengthens,4,OPPO
+against USD,against USD,5,EQUI
+in prayer and song,of ' Prayer and Reflection ',4,SIMI
+South Africa,South Africans,5,EQUI
+for Mandela,for Mandela,5,EQUI
+Australian parliament video,Parliament in Canberra tour,2,REL
+Prince William,Prince William and Catherine,4,SPE1
+charged,charged,5,EQUI
+in 2007 Bhutto assassination,in Bhutto death,4,SPE1
+Fromer Pakistani army chief Musharraf,Former Pakistan army chief,4,SPE1
+5 Dead,Death toll 42,2,SIMI
+in India Building Collapse,in India building collapse,5,EQUI
+Launches,launches,5,EQUI
+Egypt,Egypt,5,EQUI
+Offensive,offensive,5,EQUI
+Against Sinai Militants,against Sinai insurgents,4,SIMI
+Syrian rebels,Syrian rebels,5,EQUI
+Assad,Cabinet,4,REL
+from Jan 20,Jan 20,5,EQUI
+on Iran nuclear drive,Iran nuclear drive,5,EQUI
+Deal,Deal,5,EQUI
+against Nigel Farage,Kerry,2,SIMI
+dies,dies,5,EQUI
+at 94,at 94,5,EQUI
+Nobel author Doris Lessing,Nobel laureate Doris Lessing,5,EQUI
+after teen shot,after shooting,4,SPE1
+held,arrested,5,EQUI
+Man,Man,5,EQUI
+Iran,Iran,5,EQUI
+Pakistan,Pakistan,5,EQUI
+'s Musharraf,'s Musharraf,5,EQUI
+Under Arrest,at court,4,REL
+Baby Girl,Baby Girl,5,EQUI
+Pit Bull Dog,Dog,4,SPE1
+In Blackburn,In Blackburn,5,EQUI
+Kills,Mauls To Death,5,EQUI
+Maldives presidential election,Mali Presidential Election,2,SIMI
+10 Things,10 Things,5,EQUI
+Today,for Tuesday,3,SPE2
+to Know,to Know,5,EQUI
+one man,eleven,2,SPE1
+kills,kills,5,EQUI
+Air strike,US drone strike,4,SPE2
+in Syria,in Pakistan,3,SIMI
+in San Francisco plane crash,in San Francisco plane crash,5,EQUI
+One unaccounted for,killed,3,SPE2
+Japan,Japan,5,EQUI
+China,China,5,EQUI
+regional security concerns,regional peace,4,SIMI
+urges,urges,5,EQUI
+2 Palestinian Militants,Palestinian militant,4,SPE1
+Kill,kills,5,EQUI
+Israel Forces,Israeli army,5,EQUI
+amid growing unrest,more violence,4,REL
+Ukraine talks,Ukraine,3,REL
+in Cairo,in Cairo,5,EQUI
+tear gas,tear gas,5,EQUI
+fire,fire,5,EQUI
+at protesters,at protesters,5,EQUI
+Egyptian police,Police,4,SPE1
+set,set,5,EQUI
+for democracy march,for huge democracy rally,4,SPE2
+Hong Kong,Hong Kong,5,EQUI
+"6,000 Cuban doctors","4,000 Cuban doctors",3,SIMI
+to hire,hires,5,EQUI
+Brazil,Brazil,5,EQUI
+Kills,Death toll,4,REL
+38,to 39,4,SIMI
+Southern Italy Coach Crash,in Italy coach crash,4,SPE1
+US drone,Yemen drone strike,3,SIMI
+2 militants,militants,4,SPE1
+kills,kills,5,EQUI
+injured,injured,5,EQUI
+in multiple bus crash in Germany,in Germany bus crash,4,SPE1
+Nine,Several,3,SPE1
+more than 40,scores,3,SPE1
+killed,killed,5,EQUI
+election for 7 September,Sept. 7 poll,5,EQUI
+Australian PM Kevin Rudd,Australian PM Rudd,5,EQUI
+calls,calls,5,EQUI
+in Cairo,Egypt,4,REL
+with youth,with pro-Morsi protesters,3,SPE2
+clash,clash,5,EQUI
+Police,Police,5,EQUI
+Issues,issues,5,EQUI
+Over Al Qaeda Threat,citing Qaeda threats,5,EQUI
+Travel Alert,global alert,4,SPE1
+US,US,5,EQUI
+for Syrian Chemical Weapons Transport,Syrian Chemical Weapons Resolution,4,REL
+edge,close,4,SPE2
+Aust shares,Aust shares,5,EQUI
+higher,higher,5,EQUI
+of Syria chemical weapons,of chemical weapons deal,4,REL
+' Fast &amp ; Furious ' star Paul Walker,Paul Walker Fast and Furious star,5,EQUI
+dies,killed,5,EQUI
+in car crash,in car crash,5,EQUI
+unchanged,at 0.5%,3,SPE2
+keeps,keeps,5,EQUI
+European Central Bank,European Central bank,5,EQUI
+rates,interest rate,4,SPE2
+10,Five,2,SIMI
+kill,killed,5,EQUI
+in Iraq mosque bombing,in Iraq mosque bombing,5,EQUI
+24,18,3,SIMI
+killed,killed,5,EQUI
+as Kenya mall standoff,as Kenya mall siege,5,EQUI
+some 30 hostages,Death toll,2,REL
+continues,continues,5,EQUI
+Heavy smog,Heavy Smog,5,EQUI
+flights,Flights,5,EQUI
+north China city,North China City,5,EQUI
+hits,Hits,5,EQUI
+cancelled,Canceled,5,EQUI
+Algeria president,Bulgarian president,3,SIMI
+Iran,Iran,5,EQUI
+for fresh round,renews support,2,REL
+of nuclear talks,for nuclear talks,5,EQUI
+23 Iraqi army recruits,13 Iraqi army recruits,3,SIMI
+Suicide bomber,Suicide bomber,5,EQUI
+kills,kills,5,EQUI
+Obama,Obama,5,EQUI
+new transportation secretary,Embattled Veterans Secretary,2,SIMI
+Philippines,the Philippines,5,EQUI
+Super typhoon,Most powerful typhoon,4,SPE2
+hits,hits,5,EQUI
+Google,Google,5,EQUI
+releases,redesigns,3,REL
+Judge,U.S. judge,4,SPE2
+OKs,approves,5,EQUI
+force-feeding California inmates,force-feeding Californian inmates,5,EQUI
+charged,arrested,4,REL
+Ride operator,N.C. State Fair ride operator,4,SPE2
+in N.C. fair accident,after accident,4,SPE1
+from Ukraine Border,From Ukraine Border,5,EQUI
+Russia Pulled Back,of Russian Withdrawal,4,SIMI
+gives,gives,5,EQUI
+Early vote count in Iran,Iran vote count,4,SPE1
+reformer,Rowhani,4,SPE2
+wide lead,wide lead,5,EQUI
+asylum seekers,asylum-seekers,5,EQUI
+returns,hands back,5,EQUI
+to Sri Lanka,to Sri Lanka,5,EQUI
+Australia,Australia,5,EQUI
+Dead,dead,5,EQUI
+Rage,rage,5,EQUI
+Lebanon Clashes,Lebanon clashes,5,EQUI
+12 Soldiers,16 soldiers,3,SIMI
+with making 9/11 threats,over 9/11 threats,5,EQUI
+Los Angeles airport worker,Los Angeles airport worker,5,EQUI
+charged,charged,5,EQUI
+multiple,five,3,SPE2
+in Miami shooting,in Myrtle Beach shootings,3,SPE2
+2,Three,4,SIMI
+wounded,wounded,5,EQUI
+killed,killed,5,EQUI
+on Indian Consulate,on Indian consulate,5,EQUI
+in Attack,in attack,5,EQUI
+Killed,killed,5,EQUI
+in Afghanistan,in Afghan city,4,SPE2
+9,12,4,SIMI
+6 Killed,Five dead,4,SIMI
+as Indonesia Volcano Erupts,in Indonesian eruption,5,EQUI
+weakens,strengthens,4,OPPO
+against USD,against USD,5,EQUI
+to 6.1059,to 6.1070,4,SIMI
+China yuan,China yuan,5,EQUI
+unity talks,at ' war,2,REL
+Ukraine,in Syria,3,SIMI
+for Oil Refinery,for Iraq refinery,3,SPE2
+"Iraqi Forces , Militants","Iraqi forces , militants",5,EQUI
+Battle,battle,5,EQUI
+arrested,arrested,5,EQUI
+Bangladesh factory owners,Bangladesh factory owners,5,EQUI
+EU foreign ministers,EU foreign ministers,5,EQUI
+Egypt,Egypt,5,EQUI
+to discuss,to discuss,5,EQUI
+Cairo protesters,In Cairo Camps Protesters,5,EQUI
+killed,killed,5,EQUI
+Six,12,3,SIMI
+in N Waziristan,in Pakistan,4,SPE1
+UN,UK,4,REL
+US$300 mil. appeal,to aid,3,SPE1
+for Philippines,Philippines,5,EQUI
+N Korea,North Korea,5,EQUI
+family reunions,Family Reunions,5,EQUI
+postpones,Postpones,5,EQUI
+with South,with South,5,EQUI
+N. Korea,North Korea,5,EQUI
+of powerful uncle,of powerful uncle,5,EQUI
+execution,behind sacking,2,SIMI
+'s Kim,'s Kim,5,EQUI
+sentenced,sentenced,5,EQUI
+to death,to death,5,EQUI
+for ' apostasy ',for apostasy,5,EQUI
+Pregnant Sudan woman,Christian woman,3,SIMI
+who,Christian woman,3,SIMI
+for help,to Act,3,SIMI
+UN Security Council,UN Security Council,5,EQUI
+asks,Calls On,3,SIMI
+from Baghdad bombs,from Egypt clashes,2,SIMI
+to 19,to 57,2,SIMI
+rises,rises,5,EQUI
+Death toll,Death toll,5,EQUI
+in Syria,on Syria,5,EQUI
+France,France,5,EQUI
+Boeing 777 plane,Plane,4,SPE1
+crash-lands,crash lands,5,EQUI
+at San Francisco airport,at San Francisco airport,5,EQUI
+Tymoshenko,Ukraine crisis,4,REL
+for new show,on stage,4,REL
+to reunite,to reunite,5,EQUI
+Monty Python,Monty Python,5,EQUI
+Record-setting Southwest heat wave,in Southwest heat wave,4,SPE1
+fatal,"1 dead , 40 hospitalized",3,REL
+hurt,injured,5,EQUI
+1,30,2,SIMI
+3 dead,4 dead,4,SIMI
+to free,to free,5,EQUI
+orders,mounts,2,SIMI
+push,Pressure,3,SIMI
+abducted schoolgirls,kidnapped girls,4,SPE1
+charged,charged,5,EQUI
+Boston bomb suspect,Boston bombing suspect,5,EQUI
+In Egyptian Protests,Protests,4,SPE1
+higher,higher,5,EQUI
+0.56 pct,0.5 pct,4,SIMI
+Taiwan stocks,Singapore stocks,3,SIMI
+close,close,5,EQUI
+Cypriot Finance Minister Michalis Sarris,Cyprus finance minister,4,SPE1
+resigns,resigns,5,EQUI
+25 policemen,25 policemen,5,EQUI
+deepens,deepens,5,EQUI
+militants,as Sinai attack,3,SPE2
+kill,kills,5,EQUI
+Egypt turmoil,Egypt 's turmoil,5,EQUI
+said,accused,3,SIMI
+to pay off,of bribing,5,EQUI
+' bunga bunga ' witnesses,witnesses in prostitution trial,4,SIMI
+Berlusconi,Berlusconi,5,EQUI
+for Apple,In A Multi-Platform World,3,REL
+Microsoft Office,Microsoft And Office,5,EQUI
+Glee star Cory Monteith,' Glee ' star Cory Monteith,5,EQUI
+dead,dead,5,EQUI
+found,found,5,EQUI
+Russia,Russia,5,EQUI
+second suspect,Brothers,2,SPE1
+in Mother,in Mother,5,EQUI
+'s Day parade shooting,'s Day parade shooting,5,EQUI
+arrest,arrested,5,EQUI
+revolution,Muslim Brotherhood,4,REL
+swamp,storm,2,SIMI
+Protesters,Protesters,5,EQUI
+end,open,4,OPPO
+higher,higher,5,EQUI
+Hong Kong stocks,Indian stocks,3,SIMI
+takes,took,4,SIMI
+Malaysian jet,jet,4,SPE1
+Rebels,Rebels,5,EQUI
+by mistake,by mistake,5,EQUI
+downed,downed,5,EQUI
+likely,likely,5,EQUI
+38,31,4,SIMI
+"of bombings , shootings","of car bombs , other attacks",3,SPE2
+Wave,Wave,5,EQUI
+kill,kill,5,EQUI
+in Iraq,in Iraq,5,EQUI
+on Syria,on Syria,5,EQUI
+Didier Reynders,Obama,3,SIMI
+to know,to know,5,EQUI
+Tuesday,on Friday,3,SIMI
+need,need,5,EQUI
+you,you,5,EQUI
+5 things,5 things,5,EQUI
+Mubarak 's release,Mubarak release,5,EQUI
+considers,orders,3,REL
+Egyptian court,Egypt court,5,EQUI
+in Gaza,in Gaza,5,EQUI
+U.N. Security Council,U.N. Security Council,5,EQUI
+for humanitarian ceasefire,for Unconditional Cease-Fire,5,EQUI
+calls,Calls,5,EQUI
+Pakistani Taliban chief Hakimullah Mehsud,Pakistani Taliban ' elect new chief ',3,SPE1
+Contained,contained,5,EQUI
+That,that,5,EQUI
+Blaze,Arizona wildfire,4,SPE2
+Now,now,5,EQUI
+Killed,killed,5,EQUI
+19 Firefighters,19 Hotshots,4,SPE2
+Canada,Canadian government,5,EQUI
+oil pipeline,controversial oil pipeline,4,SPE2
+to the Pacific Coast,to Pacific,4,SPE1
+approves,approves,5,EQUI
+Leaves,hires,4,REL
+Man United,Man United,5,EQUI
+as Manager,Ferguson,4,SPE2
+Moyes,Moyes,5,EQUI
+Syria opposition unity,Syria divided opposition,4,OPPO
+at 87,at 87,5,EQUI
+dead,dies,5,EQUI
+"Margaret Thatcher , former U.K. PM",Margaret Thatcher,4,SPE1
+extends,drops,2,SIMI
+EU,Nigeria,3,REL
+sanctions,arms trafficking charges,3,SPE2
+against Russia,against Russian sailors,4,SPE2
+Apr 2,Thursday,3,REL
+higher,lower,4,OPPO
+open,open,5,EQUI
+Chinese stocks,Chinese stocks,5,EQUI
+Obama,Obama,5,EQUI
+names,to name,5,EQUI
+outspoken Rice,Susan Rice,5,EQUI
+as his security adviser,as national security adviser,4,SPE2
+in Aleppo,in Aleppo,5,EQUI
+kills,Kill,5,EQUI
+21,15,3,SIMI
+Syrian airstrike,New Syrian Airstrikes,4,SPE1
+Angelina Jolie,Angelina Jolie,5,EQUI
+after double mastectomy,double mastectomy,5,EQUI
+India Ink,India Ink,5,EQUI
+of the Day,of the Day,5,EQUI
+April 21,May 2,3,SIMI
+Image,Image,5,EQUI
+in bombings and shootings,Bombings and a shooting,5,EQUI
+Deaths,kill,5,EQUI
+across Iraq,in Iraq,5,EQUI
+nine police,eight Kurdish security forces personnel,3,SPE2
+kills,kills,5,EQUI
+in north Iraq,in Iraq,4,SPE1
+Suicide bomber,Suicide bomber,5,EQUI
+presidency bid,for presidential bid,5,EQUI
+poised,paves way,3,SIMI
+'s Sisi,'s Sisi,5,EQUI
+Egypt,Egypt,5,EQUI
+killed,killed,5,EQUI
+6,six,5,EQUI
+injured,injured,5,EQUI
+3,Three,5,EQUI
+in Afghan blasts,in Afghan blasts,5,EQUI
+filibustering,filibusters,5,EQUI
+Texas senator,Texas senator,5,EQUI
+abortion bill,against abortion bill,5,EQUI
+drops,to file,3,SIMI
+against Greenpeace activists,against Greenpeace,4,SPE1
+charges,piracy charges,4,SPE2
+Russia,Russia,5,EQUI
+in Turkey,in Kiev,1,REL
+clash,clash,5,EQUI
+Protesters,Protesters,5,EQUI
+with police,with riot police,4,SPE2
+Nigerian police,Nigeria,3,REL
+over kidnapped girls,over kidnapped girls,5,EQUI
+Crimea annexation,Crimea 's independence,4,OPPO
+EU trade pact,"as "" unconstitutional """,2,REL
+Ukraine,Ukraine,5,EQUI
+on Nelson Mandela,over Nelson Mandela,5,EQUI
+'s memory,'s death,4,REL
+of Ariel Sharon,of Ariel Sharon,5,EQUI
+On War Criminals and Heroes,On war criminals and heroes,5,EQUI
+The Whitewashing,The whitewashing,5,EQUI
+killed,killed,5,EQUI
+Two French journalists,two French journalists,5,EQUI
+in Mali,in Mali,5,EQUI
+China yuan,China yuan,5,EQUI
+to 6.1184,to 6.1510,4,SIMI
+against USD,against USD,5,EQUI
+strengthens,weakens,4,OPPO
+loses contact,vanishes,4,SIMI
+to Beijing,to Beijing,5,EQUI
+Malaysia Airlines with plane,Malaysia Airlines plane,5,EQUI
+embroiled,steps down,3,REL
+Tehelka editor,Tehelka editor,5,EQUI
+in sex assault scam,after allegations of sexual misconduct,4,SIMI
+'s Musudan missile,another missile,4,SPE1
+about North Korea,North Korea,5,EQUI
+who,Gunman,5,EQUI
+Gunman,Gunman,5,EQUI
+suburban Atlanta firefighters hostage,Firefighters Hostage in Georgia,4,SPE1
+held,Takes,5,EQUI
+to join,to join,5,EQUI
+votes,applies,3,SIMI
+Crimea parliament,Crimean parliament,5,EQUI
+Russia,Russia,5,EQUI
+lower,lower,5,EQUI
+open,close,4,OPPO
+China stocks,China 's stocks,5,EQUI
+on Wednesday,on Monday,3,SIMI
+what,what,5,EQUI
+need,need,5,EQUI
+you,you,5,EQUI
+to know,to know,5,EQUI
+Stocks,Stocks,5,EQUI
+in early trading,in early trading,5,EQUI
+rise,inch higher,4,SPE2
+Twitter shares,Twitter shares,5,EQUI
+rocket,rocket,5,EQUI
+at opening,as trading begins,5,EQUI
+outside two mosques,city,3,REL
+in Lebanon 's Tripoli,in northern Lebanon,4,SPE1
+kill,rock,3,SPE1
+Explosions,2 explosions,4,SPE2
+Next Iran nuclear talks,Iran Nuclear deal,4,REL
+due,to be implemented,3,SIMI
+on June 16-20,on January 20,2,SIMI
+Outrage,Outrage,5,EQUI
+raped,Raped,5,EQUI
+at school,at Her School,4,SPE2
+about 6-year-old Indian girl,After Indian Girl 6,5,EQUI
+dies,dies,5,EQUI
+Ovadia Yosef,Rabbi Ovadia Yosef,5,EQUI
+rabbi and Israeli kingmaker,kingmaker of Israeli politics,5,EQUI
+for disputed election,outside polling station,3,REL
+Thai protesters,Thai protest leader,4,REL
+Most victims,38 bodies of victims,3,SPE2
+identified,identified,5,EQUI
+in blast,in apartment blast,4,SPE2
+hurt,injured,5,EQUI
+Palestinian diplomat,Palestinian ambassador,4,SPE2
+caused,caused,5,EQUI
+mall collapse,mall collapse,5,EQUI
+Kenyan forces,Kenyan forces,5,EQUI
+death toll,death toll,5,EQUI
+500,to 580,4,SIMI
+Bangladesh building disaster,Bangladesh building collapse,5,EQUI
+passes,climbs,4,SPE2
+to hospital,in hospital,5,EQUI
+South Africa,South Africa,5,EQUI
+taken,remains,3,REL
+'s Mandela,Mandela,5,EQUI
+drag,drag,5,EQUI
+Weak earnings,Weak earnings,5,EQUI
+stocks,stocks,5,EQUI
+lower,lower,5,EQUI
+Liquid ammonia leak,Liquid ammonia leak,5,EQUI
+15,at least 15,4,SPE1
+kills,kills,5,EQUI
+in Shanghai,in Shanghai,5,EQUI
+amid new sexting scandal,latest online sex scandal,4,SPE2
+Weiner,Weiner,5,EQUI
+to opposition,to rebels,2,SIMI
+Syria military police chief,Syria military police chief,5,EQUI
+defects,defects,5,EQUI
+in Belgian coach crash,in Belgian bus crash,5,EQUI
+killed,among 5 dead,5,EQUI
+Swiss tourist,Swiss tourist,5,EQUI
+in India,in India,5,EQUI
+gang-raped,gang raped,5,EQUI
+inside Syria,into Syria,5,EQUI
+strike,launches,5,EQUI
+at BoE,at Bank of England,5,EQUI
+high bar,high bar,5,EQUI
+to change,to changes,5,EQUI
+Carney,Carney,5,EQUI
+sets,sets,5,EQUI
+kill,kill,5,EQUI
+in northern Pakistan,in Pakistan,4,SPE1
+Gunmen,Gunmen,5,EQUI
+10 foreign tourists,11 foreign climbers,4,SPE2
+Matt Smith,Matt Smith,5,EQUI
+to leave,quits,5,EQUI
+Doctor Who,'s Doctor Who,5,EQUI
+Monday,Thursday,3,SIMI
+against USD,against USD,5,EQUI
+China Yuan,China yuan,5,EQUI
+Strengthens,strengthens,5,EQUI
+to 6.168,to 6.1696,4,SIMI
+Ex-first lady Barbara Bush,Former first lady Barbara Bush,5,EQUI
+leaves,leaves,5,EQUI
+Texas hospital,hospital,4,SPE1
+killed,killed,5,EQUI
+11,Eleven,5,EQUI
+in Chinese police station attack,in China police station attack,5,EQUI
+in Russia,in Russian city,3,SPE2
+killed,killed,5,EQUI
+Boeing airliner,Boeing airliner,5,EQUI
+50,50,5,EQUI
+crashes,crashes,5,EQUI
+succeeding,succeeding,5,EQUI
+as New York mayor,as New York mayor,5,EQUI
+sworn in,sworn in,5,EQUI
+Bloomberg,Michael Bloomberg,5,EQUI
+De Blasio,Bill De Blasio,5,EQUI
+released,freed,5,EQUI
+from jail,from jail,5,EQUI
+Pussy Riot member Alyokhina,Pussy Riot member Maria Alyokhina,5,EQUI
+at San Francisco airport,at San Francisco airport,5,EQUI
+Asiana jet,Plane,4,SPE1
+crash lands,crash lands,5,EQUI
+as firefighters,fire crews,5,EQUI
+labor,making progress,4,SIMI
+California wildfire,California wildfire,5,EQUI
+hospitalized,hospitalised,5,EQUI
+Mandela,Mandela,5,EQUI
+break into,storm,5,EQUI
+Thai protesters,Thai protesters,5,EQUI
+army headquarters,army headquarters,5,EQUI
+'s call,to Morsi dialogue call,4,SPE2
+rejects,mulls,3,SPE1
+'s main opposition,Egypt opposition,4,SPE1
+6.8 %,6.8 %,5,EQUI
+starts up,Starts Up,5,EQUI
+Housing,May Housing,5,EQUI
+Cuba,Cuba,5,EQUI
+CELAC presidency,CELAC Presidency,5,EQUI
+assumes,to Take Over,5,EQUI
+'s Castro,'s Castro,5,EQUI
+trapped,trapped,5,EQUI
+in India building collapse,in India building collapse,5,EQUI
+Dozens,20,3,SPE2
+enter,enter,5,EQUI
+Cardinals,Cardinals,5,EQUI
+for historic vote,to elect,4,SPE1
+Vatican,Sistine Chapel,4,SPE2
+stopped,pulled over,5,EQUI
+with warning,warning,5,EQUI
+for speeding,for speeding,5,EQUI
+in Texas,in Texas,5,EQUI
+Zimmerman,Zimmerman,5,EQUI
+unveils,unveils,5,EQUI
+$ 30 billion oil link,$ 25bn oil link,5,EQUI
+Russia,Russia,5,EQUI
+to Pacific,to Pacific,5,EQUI
+7.2-magnitude quake,7.7-magnitude earthquake,4,SIMI
+hits,hits,5,EQUI
+Pakistan,SW Pakistan,4,SPE2
+Asteroid,Asteroid,5,EQUI
+between Earth and satellites,Earth,3,SPE1
+zips,passes,4,SIMI
+declared,declared,5,EQUI
+Mugabe,Mugabe,5,EQUI
+of disputed elections,in disputed vote,5,EQUI
+winner,winner,5,EQUI
+bans,bans,5,EQUI
+Egyptian court,Egypt court,5,EQUI
+Muslim Brotherhood,Muslim Brotherhood ` activities ',4,SPE2
+in Iraq,in Iraq,5,EQUI
+by the Spokesperson,by the spokesperson,5,EQUI
+of High Representative Catherine Ashton,"of the EU High Representative , Catherine Ashton",4,SPE2
+on the latest spate,on the resumption,4,SIMI
+Statement,Statement,5,EQUI
+of attacks,of executions,4,SPE2
+agains NSA leaker,against Snowden,4,SPE1
+U.S.,US,5,EQUI
+files,files,5,EQUI
+espionage charges,espionage charges,5,EQUI
+Chinese general,Chinese general,5,EQUI
+10 years jail,10 years,5,EQUI
+gets,gets,5,EQUI
+for rape,for gang-rape,4,SPE2
+'s son,'s son,5,EQUI
+Moderate earthquake,Moderate earthquake,5,EQUI
+jolts,hits,5,EQUI
+NW Pakistan,southern Pakistan,3,SIMI
+Egypt Crackdown,Egypt crackdown,5,EQUI
+Backs,backs,5,EQUI
+Iraq,Iraq,5,EQUI
+on Morsi Supporters,on Mohamed Morsi supporters,5,EQUI
+part,to divorce,5,EQUI
+"Hrithik Roshan , wife Sussanne","Hrithik Roshan , Sussanne",5,EQUI
+Death toll,Death toll,5,EQUI
+in Russia plane crash,in Italy coach crash,1,SIMI
+rises,rises,5,EQUI
+in Iraq,in Syria,2,SIMI
+hits,strikes,4,SIMI
+Suicide bomber,Suicide bomber,5,EQUI
+in Presidential Election,Mali Presidential Election,3,SPE2
+in Pak,in NW Pakistan,4,SPE2
+against US drone strikes,in U.S. drone strike,5,EQUI
+Suicide bomber,Suicide bombers,4,SIMI
+at US base,US base,5,EQUI
+in Afghanistan,in Afghanistan,5,EQUI
+kills,attack,4,SPE1
+iPhone,iPhone 4 imports,2,SPE2
+Apple revenue,for Samsung,3,REL
+killed,killed,5,EQUI
+23,10,3,SIMI
+in Iraq car bombings,in Iraq bomb attack,4,SPE1
+survives,survives,5,EQUI
+assassination attempt,assassination attempt,5,EQUI
+Egypt minister,Syrian prime minister,2,SIMI
+over Jamaat leader,Bangladesh Islamist leader,3,SIMI
+'s execution,executed,5,EQUI
+540,"1,000",3,SIMI
+Bangladesh building collapse death toll,Bangladesh building collapse death toll,5,EQUI
+hits,passes,4,SPE1
+China,China and Taiwan,3,SPE2
+to resume,hold,3,SPE1
+US investment talks,historic talks,2,SPE1
+soldiers,16,1,SPE1
+Yemen suicide bombing,Female suicide bomber,2,SIMI
+kills,kills,5,EQUI
+tear gas,tear gas,5,EQUI
+in Tunis,in Cairo,2,SIMI
+Police,Police,5,EQUI
+protesters,at protesters,5,EQUI
+fire,fire,5,EQUI
+2020 Olympic Games,in 2020 Tokyo Olympics,5,EQUI
+taken,released,4,OPPO
+to hospital,from hospital,4,OPPO
+Nelson Mandela,Nelson Mandela,5,EQUI
+Britain,Britain,5,EQUI
+to deport,to deport,5,EQUI
+of Abu Qatada,radical cleric Abu Qatada,4,SPE2
+Protest,Thai protest day,3,SPE2
+"Shots , Explosions","Gunshots , explosions",4,SPE2
+North Korea,North Korea,5,EQUI
+Today,Today,5,EQUI
+April 23,Jan. 21,3,SIMI
+in History,in History,5,EQUI
+of Talibanisation,About Israeli Airstrikes,2,REL
+Iran,"Russia , China",2,SPE2
+in Syria,in Syria,5,EQUI
+kill,standoff,3,SPE1
+Police,after police,5,EQUI
+gunman,with gunman,5,EQUI
+3 more dead,4 dead,3,SPE2
+in Colo. home,in US home,4,SPE1
+Fight,to fight,5,EQUI
+for Mali Town,Mali army,3,REL
+Islamist Tactics,northern Islamist militants,3,REL
+for Syrian Chemical Weapons Transport,Chemical Weapons,3,REL
+wounded,wounded,5,EQUI
+killed,killed,5,EQUI
+in attacks,in fresh attacks,4,SPE2
+in Iraq,in Iraq,5,EQUI
+2,15,3,SIMI
+11,90,2,SIMI
+for war crimes,on war crimes,5,EQUI
+first lawmaker,British PM,1,SIMI
+Police,Politicians,2,REL
+in Belfast flag protests,in flag violence talks,2,SPE1
+proposes,proposes,5,EQUI
+` final ' N. Korea talks,high-level talks,2,SPE1
+S. Korea,North Korea,4,OPPO
+Pakistani,in Pakistan,3,REL
+9 foreign tourists,11 Foreign Tourists,4,SIMI
+kill,Kill,5,EQUI
+Gunmen,Gunmen,5,EQUI
+Palestinians,Palestinians,5,EQUI
+die,Killed,5,EQUI
+32,1,2,SIMI
+in Bangladesh protest,in Bangladesh Protest,5,EQUI
+amid protests,on protesters,5,EQUI
+Google,Google,5,EQUI
+on gay rights,gay marriage,4,SPE2
+strikes,Air strikes,4,SPE2
+Syria,in Syria,5,EQUI
+The San Francisco plane crash,in San Francisco air crash,5,EQUI
+X'mas cruise passengers,Missing cruise passenger,2,SIMI
+close,close,5,EQUI
+Chinese shares,Chinese shares,5,EQUI
+Wednesday,Friday,3,SIMI
+lower,higher,4,OPPO
+Calif man,Calif. man,5,EQUI
+pleads,pleads,5,EQUI
+in girl kidnap case,in terrorism case,2,SIMI
+not guilty,not guilty,5,EQUI
+close,close,5,EQUI
+Dec. 4,Jan. 24,2,SIMI
+China stock index futures,China stock index futures,5,EQUI
+higher,lower,4,OPPO
+by Israeli fire,in an Israeli Air Strike,3,SPE2
+Palestinians,Two Palestinians,4,SPE2
+in Gaza,on Gaza,5,EQUI
+hit,Killed,3,SPE2
+killed,killed,5,EQUI
+3,44,2,SIMI
+in south China road accident,in Philippine road accident,2,SIMI
+7,20,2,SIMI
+injured,injured,5,EQUI
+Books,Report,1,SIMI
+About Boston Marathon News,of Boston Marathon,4,SPE1
+Motorists,Cars,2,SIMI
+killed,trapped,3,REL
+after Japanese tunnel,in tunnel collapse,4,SPE2
+Friends,Syria talks,3,REL
+rebels,to rebels,5,EQUI
+on arming,military aid,3,SIMI
+police,police,5,EQUI
+at Jantar Mantar,at Jantar Mantar,5,EQUI
+ABVP protesters,Protesters,4,SPE1
+clash with,clash with,5,EQUI
+charged,charged,5,EQUI
+with terrorism offences,with terrorism,4,SPE1
+Two men,Saudi-born Nigerian,2,SPE2
+killed,among dead,5,EQUI
+Up to 21,Briton,1,SPE2
+in Kabul suicide attack,in Kabul suicide attack,5,EQUI
+0.88 pc,0.44 pct,2,SIMI
+lower,lower,5,EQUI
+close,close,5,EQUI
+Tokyo shares,Singapore stocks,2,SIMI
+4.1 magnitude quake,7.2 magnitude earthquake,3,SIMI
+strikes,strikes,5,EQUI
+U. S,Philippines,2,SIMI
+35 militants,12 militants,3,SIMI
+official,ministry,3,REL
+killed,killed,5,EQUI
+in Afghan raids,in Afghan raids,5,EQUI
+Venezuela,Venezuelan officials,2,REL
+'s Hugo Chavez,Hugo Chavez,5,EQUI
+"November 25 , 2013","October 8 , 2013",3,SIMI
+for Monday,for Tuesday,4,SIMI
+The Note,The Note,5,EQUI
+'s Must-Reads,'s Must-Reads,5,EQUI
+at political impasse,political crisis,4,SIMI
+North,North Korea,5,EQUI
+Missiles,short-range missiles,4,SPE2
+Fired,launches,5,EQUI
+killed,attacks,3,SPE1
+in Afghanistan,in Afghanistan,5,EQUI
+38 Taliban militants,Taliban,3,SPE1
+economic traps,economic growth,2,REL
+kills,dies,5,EQUI
+Nato airstrike,Nato solider,3,REL
+two Afghan kids,in Afghanistan,2,REL
+pledges,support,3,SIMI
+military aid,military operation,3,SIMI
+France,Most French,4,SIMI
+in Mali,in Mali,5,EQUI
+in debt ceiling talks,to US debt ceiling deal,3,SPE2
+Reid,Senate leaders,3,SPE1
+Sarangani,SW China,2,SIMI
+6.2 magnitude quake,4.3-magnitude earthquake,3,SIMI
+jolts,jolts,5,EQUI
+Obama,U.S.,3,REL
+US,US,5,EQUI
+has been captured,captures,5,EQUI
+al-Qaeda leader,al-Qaeda leader,5,EQUI
+Ukrainian Prime Minister Azarov and entire government,Ukrainian officials,3,SPE1
+of Trayvon Martin murder,of Trayvon Martin murder,5,EQUI
+George Zimmerman,after Zimmerman,5,EQUI
+not guilty,acquitted,5,EQUI
+of shutdown,shutdown,5,EQUI
+US government,Obama,4,REL
+Obama economic tour,Obama,3,REL
+Welcomes,welcomes,5,EQUI
+on Syria,on Syria,5,EQUI
+France,Arab League,1,SIMI
+US-Russia Deal,US-Russian deal,5,EQUI
+Syria strike,Syria strike,5,EQUI
+on hold,on hold,5,EQUI
+puts,puts,5,EQUI
+Obama,Obama,5,EQUI
+Australian Open,Australian Open,5,EQUI
+to miss,to miss,5,EQUI
+ailing Nadal,Rafa Nadal,4,SPE1
+considers,orders,3,SPE2
+Mubarak,of Mubarak,5,EQUI
+'s release,release,5,EQUI
+Egyptian court,Egypt court,5,EQUI
+to Marry,To Get Married,5,EQUI
+Van der Sloot,Joran Van Der Sloots,5,EQUI
+in Prison,In Peru Prison,4,SPE2
+to fraud,to Fraud,5,EQUI
+guilty,Guilty,5,EQUI
+to plead,to Plead,5,EQUI
+Jesse Jackson Jr. and wife,"Jesse Jackson Jr. , Wife",5,EQUI
+BBC veteran Hall,Stuart Hall,4,SPE1
+child sex abuse,Sex Assaults,5,EQUI
+admits,Admits,5,EQUI
+on Monday,on Thursday,3,SIMI
+Stocks,Stocks,5,EQUI
+at close,at close,5,EQUI
+to watch,to watch,5,EQUI
+of The Netherlands,of the Netherlands,5,EQUI
+to abdicate,abdicates,5,EQUI
+for son,in favor of son,5,EQUI
+Queen Beatrix,Queen Beatrix,5,EQUI
+8-10 people,of people,4,SPE1
+collapses,collapses,5,EQUI
+Philadelphia building,Philadelphia building,5,EQUI
+U.S. Senate,U.S. Senate,5,EQUI
+gun control debate,on gun control bill,3,REL
+sets off,set,5,EQUI
+Red grapes and blueberries,"Red grapes , blueberries",5,EQUI
+boost,boost,5,EQUI
+immune system,human immunity,5,EQUI
+'s McAfee,McAfee,4,SPE1
+For $ 389M,for $ 389 million,5,EQUI
+Buys,to acquire,5,EQUI
+"Cloud-Based , Networked Firewall Specialist Stonesoft",firewall Stonesoft,3,SPE1
+died,died,5,EQUI
+from shot,from gunshot,5,EQUI
+arrested,arrested,5,EQUI
+Musharraf,Musharraf,5,EQUI
+in Lal Masjid case,in Pakistan,2,REL
+North Korea,North Korea,5,EQUI
+test-fires,launches,4,SPE1
+short-range missiles,short-range missiles,5,EQUI
+Indian stocks,Indian stocks,5,EQUI
+flat,lower,3,SIMI
+open,open,5,EQUI
+"Israelis , Palestinians","Israelis , Palestinians",5,EQUI
+resume,begin,4,SPE1
+talks,talks,5,EQUI
+in UK crash,in British crash,5,EQUI
+Four U.S. Air Force helicopter crew members,US Air Force helicopter crew,4,SPE1
+killed,killed,5,EQUI
+detains,detains,5,EQUI
+Malaysia,Malaysia,5,EQUI
+at airport,at airport,5,EQUI
+Australian senator,Australian lawmaker,4,SIMI
+as horse meat scandal,horsemeat scandal,5,EQUI
+at Great Barrier Reef,near Australia,4,SPE1
+dumps,jettisons,5,EQUI
+U.S.,U.S. military,4,SPE2
+bombs,bombs,5,EQUI
+invests,invests,5,EQUI
+in Texas wind farm,in Texas wind farm project,4,SIMI
+$ 200 million,200 million USD,5,EQUI
+Google,Google,5,EQUI
+dies,dies,5,EQUI
+at 91,at 91,5,EQUI
+Preston and England legend Tom Finney,Former England great Tom Finney,5,EQUI
+5,3 policemen,3,SPE2
+in Afghanistan,in Afghanistan,5,EQUI
+kill,kills,5,EQUI
+Roadside bombs,Roadside bomb,4,SIMI
+Gunmen,Gunmen,5,EQUI
+Kill,kill,5,EQUI
+11 Foreign Tourists,11 foreign climbers,4,SPE2
+in Pakistan,in Pakistan,5,EQUI
+Demolition work,Demolition work,5,EQUI
+begins,to begin,5,EQUI
+on Don Valley Stadium,at stadium,4,SPE1
+of easyJet,of British no-frills airline easyJet,4,SPE2
+to step down,to step down,5,EQUI
+Chairman,Chairman,5,EQUI
+US Troops,NATO troops,3,SPE1
+Killed,killed,5,EQUI
+in Afghan Insider Attack,in Afghan ` insider attack ',5,EQUI
+in Barcelona win,in comeback win,4,SPE2
+"300th , 301st goals",300th Barcelona goal,4,SPE1
+nets,hits,4,SIMI
+Messi,Messi,5,EQUI
+shot,slain,5,EQUI
+Tunisian opposition politician,Tunisia opposition leader,4,SPE2
+Whistleblower Edward Snowden,NSA whistleblower Edward Snowden,5,EQUI
+to Moscow,to Moscow,5,EQUI
+flies,on flight,5,EQUI
+in Afghanistan,in Afghan attack,4,REL
+killed,killed,5,EQUI
+Two NATO soldiers,NATO soldier,4,SIMI
+Bets,Pays,4,SIMI
+Washington Post,For The Washington Post,5,EQUI
+Jeff Bezos,Jeff Bezos,5,EQUI
+$ 250 Million,$ 250 Million,5,EQUI
+chilling message,chilling message,5,EQUI
+'s elite,'s elite,5,EQUI
+to North Korea,to North Korea,5,EQUI
+Purge,Purge,4,SPE2
+sends,sends,5,EQUI
+Heavy rain,Fresh rain,4,SIMI
+of Christmas Day flooding,more flooding,3,SPE1
+raises,brings,3,SPE2
+begin,start,5,EQUI
+Iran nuke talks,Iran nuclear talks,5,EQUI
+'s Bezos,'s Bezos,5,EQUI
+the Washington Post,Washington Post,5,EQUI
+Amazon,Amazon,5,EQUI
+for $ 250 million,for $ 250-M,5,EQUI
+to buy,buys,5,EQUI
+David Beckham,David Beckham,5,EQUI
+to retire,Retires,5,EQUI
+Libya,Libya,5,EQUI
+closes,closes,4,SPE1
+its borders,borders,5,EQUI
+central Russia,central Russia,5,EQUI
+hurt,hurt,5,EQUI
+hits,hits,5,EQUI
+more than 500 people,400,3,SPE2
+Meteorite,Meteorite,5,EQUI
+123,Many,3,SPE1
+killed,killed,5,EQUI
+in fighting,in Syrian air strike,3,SPE2
+freezes,freezes,5,EQUI
+Egypt,Egypt,5,EQUI
+Muslim Brotherhood assets,Muslim Brotherhood funds,4,SIMI
+as new Australian PM,As Australia PM,4,SPE1
+Tony Abbott,Tony Abbott,5,EQUI
+sworn in,Sworn In,5,EQUI
+amid Chavez health crisis,amid Chavez crisis,4,SPE1
+meets,meets,5,EQUI
+Venezuela assembly,Assembly,4,SPE1
+in Egypt,in face of Egypt govt threat,3,REL
+protest,defiant,3,SIMI
+Morsi supporters,Morsi backers,5,EQUI
+Eurozone jobless,EU jobless,5,EQUI
+fresh record high,fresh record,4,SPE1
+hits,hits,5,EQUI
+Try to Get,run,3,REL
+of Banks,on Cyprus banks,5,EQUI
+Bailout Tax,Bailout terms,3,SPE1
+deserves,deserves,5,EQUI
+David Cameron,David Cameron,5,EQUI
+Andy Murray,Andy Murray,5,EQUI
+knighthood,a knighthood,5,EQUI
+killed,dead,5,EQUI
+in suicide attack,in new blast,3,SPE1
+Three Afghans,Three Afghans,5,EQUI
+Nelson Mandela,Mandela,5,EQUI
+in Hospital,in hospital,5,EQUI
+for Tests,for tests,5,EQUI
+Vinnie Jones,Vinnie Jones,5,EQUI
+cancer battle new,skin cancer,4,SPE2
+reveals,reveals,5,EQUI
+US drones,US drone strikes,4,SPE2
+'s sovereignty,'s sovereignty,5,EQUI
+Pakistan,Pakistan,5,EQUI
+UN,UN,5,EQUI
+violate,violate,5,EQUI
+about meeting,about meeting,5,EQUI
+trader,rogue trader,4,SPE2
+Oil firm,Oil firm,5,EQUI
+asked,asked,5,EQUI
+with minister,with minister,5,EQUI
+Admits,admits,5,EQUI
+South Africa,South Africa,5,EQUI
+Over ` Schizophrenic ' Mandela Signer,over deaf signer,3,SIMI
+tumble,fall,5,EQUI
+of shutdown,of government shutdown,4,SPE2
+US stocks,Stocks,4,SPE1
+on third day,on third day,5,EQUI
+3 troops,NATO troops,4,SPE1
+in Afghanistan attack,in Afghan ` insider attack ',4,SPE2
+killed,killed,5,EQUI
+Peace Conference,peace conference,5,EQUI
+Agrees,agree,4,SPE2
+to Attend,to attend,5,EQUI
+as Boeing 777 jet crash,Asiana Air Boeing 777 crash,4,SPE2
+lands,lands,5,EQUI
+at San Francisco airport,at San Francisco airport,5,EQUI
+Delhi gang rape victim,Delhi gang rape victim,5,EQUI
+dies,flown,2,REL
+in Singapore hospital,to Singapore hospital,5,EQUI
+to Review,to review,5,EQUI
+Syria Chemical Arms Accord,Syria chemical arms accord,5,EQUI
+Ban Ki-moon,Ban,5,EQUI
+Syria chemical arms,Syria chemical mission,3,REL
+UN resolution,Germany,2,REL
+acquitted,convicted,4,OPPO
+NATO protesters,NATO protesters,5,EQUI
+of terrorism charges,on non-terrorism charges,3,SIMI
+in Pakistan,Pakistan,5,EQUI
+over Syria action,on Syria military action,4,SPE2
+Obama,Cameron,2,SIMI
+talks,to talks,5,EQUI
+Syria opposition,Syria opposition,5,EQUI
+storm,topple,3,SIMI
+Anti-government protesters,Ukraine protesters,4,SIMI
+the streets,Lenin statue,3,REL
+in northwest Pakistan,in North Waziristan,4,SPE2
+three,seven,2,SIMI
+kills,kills,5,EQUI
+US drone strike,US drone strike,5,EQUI
+Sentenced,jailed,4,REL
+to 35 Years,for 10 years,2,SIMI
+'s south,'s Volgograd,4,SPE2
+kills,kills,5,EQUI
+13,16,4,SIMI
+Suicide bomber,Suicide bomber,5,EQUI
+in Russia,in Russia,5,EQUI
+Bangladesh building collapse death toll,Bangladesh building-collapse toll,5,EQUI
+540,600,3,SIMI
+hits,tops,4,SIMI
+Nelson Mandela,Nelson Mandela,5,EQUI
+Hushen 300 Index,Hushen 300 Index,5,EQUI
+Oct. 14,March 12,2,SIMI
+higher,lower,5,OPPO
+closes,closes,5,EQUI
+for first time,for first time,5,EQUI
+Malaysia,Malaysia,5,EQUI
+hangs on,wins,4,SIMI
+to power,majority,4,REL
+'s long-ruling coalition,'s ruling coalition,4,SPE1
+19 hurt,19 hurt,5,EQUI
+in New Orleans shooting,'s Day shooting,4,SPE2
+as date,date,4,SPE1
+Malaysia,Malaysia,5,EQUI
+sets,sets,5,EQUI
+for closely contested election,for landmark elections,3,SIMI
+from Calgary homes,From Canada Homes,4,SPE1
+Floods,Flooding,5,EQUI
+"75,000","75,000",5,EQUI
+forces,Forces,5,EQUI
+Moscow vote,Moscow vote,5,EQUI
+Putin ally,Putin ally,5,EQUI
+wins,wins,5,EQUI
+suggest,shows,4,SIMI
+Exit polls,Exit polls,5,EQUI
+over South Africa,over South Africa,5,EQUI
+smashes,sets up,4,SIMI
+Dhawan,Dhawan ton,4,SPE2
+India,India Trophy win,5,EQUI
+3 militants,4 militants,4,SIMI
+kills,kills,5,EQUI
+in Pakistan,in Pakistan,5,EQUI
+with prayer,for Prayers,5,EQUI
+papacy,of Vatican,4,REL
+Francis,Pope Francis,4,SPE2
+'s Sinai,'s Sinai,5,EQUI
+released,release,5,EQUI
+Britons,two Britons,4,SPE2
+in Egypt,in Egypt,5,EQUI
+after kidnapping,seized,4,SIMI
+European backlash,by European countries,4,SIMI
+Israel,Israel,5,EQUI
+faces,called,4,SIMI
+over settlement plan,over latest settlement plans,4,SPE2
+'s abuse claims,'s abuse claims,5,EQUI
+Allen,Allen,5,EQUI
+responds,defends,3,SIMI
+to Farrow,against Farrow,5,EQUI
+'s father,'s father,5,EQUI
+in Moscow,in Moscow,5,EQUI
+Snowden,Edward Snowden,5,EQUI
+jump,jump,5,EQUI
+Facebook earnings,Facebook profits,5,EQUI
+accelerate,expands,2,SIMI
+"Rogers , Videotron","Rogers , Videotron",5,EQUI
+reach,reach,5,EQUI
+with network-sharing deal,"network-sharing , spectrum deal",4,SPE2
+upheld,executes,5,EQUI
+on new Italian government,new coalition government,4,SPE2
+declared,Named,5,EQUI
+tallest building,Tallest US Building,5,EQUI
+New World Trade Center,One World Trade Center,4,SPE1
+Piers Morgan,Piers Morgan,5,EQUI
+by police,by Police,5,EQUI
+questioned,Interviewed,5,EQUI
+Egypt Crackdown,Egypt crackdown,5,EQUI
+Condemnation,global outrage,3,SPE2
+Draws,sparks,5,EQUI
+reach wealth-sharing deal,reach ` wealth deal ',4,SPE2
+"Philippines , rebels",Philippines and rebels,5,EQUI
+from four NA seats,from four NA seats,5,EQUI
+to contest,to contest,5,EQUI
+Imran,Imran Khan,4,SPE2
+Pro-Pak Taliban warlord,Taliban commander,4,SPE1
+in US drone strike,in US drone strike,5,EQUI
+killed,killed,5,EQUI
+Car bomb,Car bomb,5,EQUI
+in northwest Syria,in northern Syria,4,SPE1
+kills,kills,5,EQUI
+20,20,5,EQUI
+Five foreigners,amid 5,3,SPE2
+for drug smuggling,for drug smuggling,5,EQUI
+in Egypt,Egypt,5,EQUI
+sentenced,sentences,5,EQUI
+to death,to death,5,EQUI
+votes,vote,5,EQUI
+Egypt,Egyptians,5,EQUI
+on new constitution,on divisive constitution,4,SPE2
+who battled,who battled,5,EQUI
+Man,Former plant chief,3,SPE2
+dies,dies,5,EQUI
+Fukushima disaster,Fukushima disaster,5,EQUI
+of cancer,of cancer,5,EQUI
+Nigeria lawmaker,Nigerian MP,4,SIMI
+over alleged bribery,$ 3m bribe,3,SPE2
+charged,charged,5,EQUI
+to speak,to deliver,5,EQUI
+on Syria,on Syria,5,EQUI
+from White House,at White House,5,EQUI
+at 1:15 p.m. EDT,at 1:15 PM,4,SPE1
+Obama,Obama,5,EQUI
+New World Trade Centre,One World Trade Center,4,SPE1
+tallest building,Tallest US Building,5,EQUI
+shattered Pak region,shattered Pakistan region,5,EQUI
+Strong new quake,Powerful new earthquake,5,EQUI
+hits,hits,5,EQUI
+Fashion designer Lilly Pulitzer,"Designer , Socialite Lilly Pulitzer",5,EQUI
+dies,Dies,5,EQUI
+in Indonesia train accident,collides,4,SPE2
+Four dead,Five dead,4,SIMI
+Miss New York,Miss New York,5,EQUI
+Miss America crown,Miss America,5,EQUI
+wins,is crowned,5,EQUI
+Austrian,Austrian man,4,SPE2
+found,charged,2,SPE2
+in home museum,at his home,4,SPE1
+hoarding,are found,3,REL
+56 stolen skulls,after 56 human skulls,5,EQUI
+Thousands,Thousands,5,EQUI
+gay marriage,gay marriage,5,EQUI
+protest,protest,5,EQUI
+Opens,begins,5,EQUI
+'s 1st Pilot Free Trade Zone,Shanghai Free Trade Zone,4,SPE1
+kills,Hits,4,SPE1
+Gas cylinder blast,Deadly Gas Cylinder Blast,5,EQUI
+on Pakistan school bus,Pakistan School Bus,5,EQUI
+Protests,Protests,5,EQUI
+despite concession,despite concessions,4,SIMI
+Brazil,across Brazil,5,EQUI
+sweep,planned,2,REL
+Start,set,4,SIMI
+Joint Factory Zone,joint factory zone,5,EQUI
+Leaving,to leave,5,EQUI
+South Korean Workers,South Korean workers,5,EQUI
+Guatemala,in Guatemala,5,EQUI
+software guru John McAfee,software guru McAfee,5,EQUI
+arrests,Held,5,EQUI
+Obama,Obama,5,EQUI
+travels,visits,5,EQUI
+to tornado-ravaged Oklahoma,tornado hit Oklahoma,5,EQUI
+in Central African Republic fighting,in Central African Republic,5,EQUI
+Dozens dead,98 dead,3,SPE2
+Fitch,Moody 's,4,SIMI
+Greek credit rating,Greek credit rating,5,EQUI
+upgrades,upgrades,5,EQUI
+into Australian Open quarter-finals,to Australian Open quarterfinals,5,EQUI
+Ferrer,Ferrer,5,EQUI
+cruises,to advance,4,SIMI
+sworn in,sworn in,5,EQUI
+Top judge Mansour,Justice Adly Mansour,5,EQUI
+as Egypt interim president,as Egypt interim president,5,EQUI
+"key Al-Shabaab recruiter , financier",Pair,1,SPE1
+arrest,Arrested,5,EQUI
+Kenyan police,By Anti-Terror Police,4,SPE2
+two people,2,5,EQUI
+at Greek shopping mall,at Athens shopping mall,4,SPE2
+injured,wounded,5,EQUI
+Bomb,Bomb,5,EQUI
+explodes,explodes,5,EQUI
+Three dead,3 dead,5,EQUI
+in Maryland mall shooting,in Maryland mall shooting,5,EQUI
+killed,killed,5,EQUI
+7,6,4,SIMI
+Vies,Wins,3,REL
+in Germany Elections,in Germany Election,5,EQUI
+Merkel,Merkel,5,EQUI
+for banned substance,for banned substance,5,EQUI
+Sprinters Tyson Gay and Asafa Powell,US sprinter Tyson Gay,3,SIMI
+test,tests,5,EQUI
+positive,positive,5,EQUI
+Egypt court,Egypt court,5,EQUI
+release,freed,5,EQUI
+of Mubarak,Mubarak,5,EQUI
+orders,orders,5,EQUI
+higher car insurance premiums,insurance premium rise,5,EQUI
+Women,Women drivers,5,EQUI
+to face,to face,5,EQUI
+since Rowhani election,since Rohani election,5,EQUI
+"Iran , atomic agency","IAEA , Iran",5,EQUI
+in first talks,first nuclear talks,4,SPE2
+Hit,shot at,5,EQUI
+US Military Aircraft,US military aircraft,5,EQUI
+in S. Sudan,in South Sudan,5,EQUI
+for rape,for gang rape,4,SPE2
+'s son,Son,5,EQUI
+Chinese general,of Chinese army singers,2,REL
+gets,gets,5,EQUI
+10 years jail,10 years,5,EQUI
+the other Taliban,the other Taleban,5,EQUI
+army,Pak army,5,EQUI
+on fighting,on fighting,5,EQUI
+adamant,adamant,5,EQUI
+Slams,slams,5,EQUI
+Israeli Minister,Israeli minister,5,EQUI
+'s Boycott Warning,'s boycott warning,5,EQUI
+Kerry,Kerry,5,EQUI
+party unity,party unity,5,EQUI
+'s Suu Kyi,Suu Kyi,4,SPE1
+urges,urges,5,EQUI
+amid squabbles,amid squabbles,5,EQUI
+defense contractors,defense firms,5,EQUI
+White House,White House,5,EQUI
+of automatic spending cuts,automatic spending cuts,4,SPE1
+discuss,discuss,5,EQUI
+Former Zambian president,'s ex-President Rupiah Banda,4,SPE2
+arrested,arrested,5,EQUI
+rally,up,4,SIMI
+of upbeat data,on Strong US Jobs Data,3,SPE2
+Asian shares,Asian Markets,5,EQUI
+Names,becomes,3,REL
+APGA National Leader,APGA national leader,5,EQUI
+Bianca Ojukwu,Bianca Ojukwu,5,EQUI
+kills,kills,5,EQUI
+47 people,at least 75,3,SPE1
+Strong earthquake,Strong earthquake,5,EQUI
+in western China,in western China,5,EQUI
+thanks,thanks,5,EQUI
+Snowden,Snowden,5,EQUI
+Russia,Russia,5,EQUI
+for asylum,for granting,5,EQUI
+take,seize,5,EQUI
+French forces,French forces,5,EQUI
+key Mali town,key town,4,SPE1
+leaves,leaves,5,EQUI
+hospital,British hospital,4,SPE2
+'s Malala,Malala,5,EQUI
+two,Man and woman,4,SPE2
+found,found,5,EQUI
+dead,dead,5,EQUI
+in swimming pool,in Essex hotel swimming pool,5,EQUI
+US drone strike,US drone strike,5,EQUI
+Pakistan,Pakistan,5,EQUI
+condemns,condemns,5,EQUI
+in Shawal Area,in Miranshah,4,SPE1
+charges,charges,5,EQUI
+'s Ahmadinejad,Ahmadinejad,5,EQUI
+may face,may face,5,EQUI
+over election appearance,over election appearance,5,EQUI
+up,higher,5,EQUI
+US stock futures,Stock futures,4,SPE1
+edge,edge,5,EQUI
+sanctions,diamond sanctions,4,SPE2
+EU,EU,5,EQUI
+against Zimbabwe,against Zimbabwe,5,EQUI
+renews,lifts,4,SPE1
+reach agreement,reach agreement,5,EQUI
+on Syria,on Syria weapons,4,SPE2
+US-Russia,US-Russia,5,EQUI
+Obama,Obama,5,EQUI
+Moscow meeting,meeting,5,EQUI
+cancels,canceled,5,EQUI
+with Putin,with Putin,5,EQUI
+legal action,legal action,5,EQUI
+threatens,threatens,5,EQUI
+after affair allegations,over affair claims,4,SIMI
+Hollande,FranÃ § ois Hollande,5,EQUI
+Sri Lanka,Sri Lanka,5,EQUI
+over war crime allegations,over war crime allegations,5,EQUI
+puts,warned,5,EQUI
+prays,prays,5,EQUI
+for metro,for metro,5,EQUI
+Indonesian capital,Jakarta,5,EQUI
+to ease,to ease,5,EQUI
+traffic chaos,traffic chaos,5,EQUI
+Wounds,rocks,3,SPE1
+in Hezbollah Stronghold,Hezbollah stronghold,5,EQUI
+Car Bomb,Car bomb,5,EQUI
+in Lebanon,in Lebanon,5,EQUI
+after Hakimullah Mehsud,Pakistani Taliban chief Hakimullah Mehsud,5,EQUI
+in drone strike,in drone strike,5,EQUI
+killed,killed,5,EQUI
+releases,releases,5,EQUI
+Pakistan,Pakistan,5,EQUI
+top Afghan Taliban prisoner,seven Afghan Taliban fighters,3,SPE1
+9,guard,1,SPE2
+kills,kills,5,EQUI
+Suicide bomber,Suicide bomber,5,EQUI
+higher,higher,5,EQUI
+Stocks,Stocks,5,EQUI
+close,close,5,EQUI
+0.39 %,2.47 %,2,SIMI
+one soldier,6 polio workers,1,SIMI
+kill,kill,5,EQUI
+in Pakistan,in Pakistan,5,EQUI
+Gunmen,Gunmen,5,EQUI
+of Syria,of Syria,5,EQUI
+'s chemical weapons,'s Chemical Weapons,5,EQUI
+Destruction,Destruction,5,EQUI
+Obama,Kerry,3,SIMI
+"to Israel , Palestinians",for Israeli-Palestinian Talks,4,REL
+chemical weapons,on ` Concrete ' Chemical Weapons Plan,3,REL
+Syria,"Russia , Syria",3,SPE2
+Italian Prime Minister Mario Monti,Palestinian Prime Minister Fayyad,2,SIMI
+Resigns,resigns,5,EQUI
+in Bethlehem,of Bethlehem,5,EQUI
+Israeli soldier,Israeli soldiers,4,SIMI
+in Hebron,in West Bank,4,SPE1
+hits,kill,2,SIMI
+Palestinian child,Palestinian woman,3,SIMI
+attack,drive back,3,SIMI
+French forces,of French troops,4,SPE2
+al-Qaeda,al-Qaida-linked rebels,4,SIMI
+Mounts,mulls,4,SIMI
+Algeria,Algeria,5,EQUI
+Military Operation,international force,4,SPE2
+Al Qaeda Hostages,for hostages,4,SPE1
+Man,Man,5,EQUI
+arrested,After Buckingham Palace Arrest,5,EQUI
+over prisoner release,Palestinian prisoners release,4,SPE2
+Netanyahu,Yacimovich,2,SIMI
+Egypt,Egypt,5,EQUI
+'s Brotherhood,Muslim Brotherhood,4,SPE2
+stands,Stands,5,EQUI
+4 NATO Troops,Eight NATO Troops,2,SIMI
+in Afghanistan,In Afghanistan,5,EQUI
+Killed,Killed,5,EQUI
+At least 45,At least 13,2,SIMI
+killed,killed,5,EQUI
+in Venezuela prison riot,in Venezuela prison riot,5,EQUI
+killed,killed,5,EQUI
+61,Dozens,3,SPE1
+Egypt,Egypt,5,EQUI
+'s Brotherhood,'s Muslim Brotherhood,4,SPE2
+over sex claims,Over ` Sex Abuse ',4,SIMI
+TV weatherman Fred Talbot,Weatherman Fred Talbot,5,EQUI
+arrested,Held,5,EQUI
+25,dozens,4,SPE1
+Building collapses,India building collapse,4,SIMI
+feared trapped,trapped,4,SPE1
+as clashes,in clashes,5,EQUI
+at Morsi rally,at Morsi rallies,4,SIMI
+in Cairo,in Egypt,4,SPE1
+Dozens,More than 70 dead,3,SPE2
+to be questioned,to be questioned,5,EQUI
+Spanish train crash driver,Spanish train driver Garzon,4,SPE2
+in Afghan ` insider attack ',in Afghan,4,SPE1
+killed,shot,4,SPE2
+ISAF soldier,British soldier,5,EQUI
+gang-raped,gang-raped,5,EQUI
+in India,in India,5,EQUI
+Swiss tourist,Swiss tourist,5,EQUI
+to shut,to shut,5,EQUI
+at night,at night,5,EQUI
+No plan,proposal,4,SIMI
+petrol pumps,petrol pumps,5,EQUI
+Moily,India govt,4,REL
+for Taliban peace talks,for Taliban talks,4,SPE1
+Karzai,Afghan president,4,SPE1
+to visit,visit,5,EQUI
+Pakistan,to Pakistan,5,EQUI
+Three,Three,5,EQUI
+after car crash,In Crash,4,SPE1
+at Tian ` anmen,At Tiananmen Square,4,SPE2
+die,Killed,5,EQUI
+` Whitey ' Bulger,Whitey Bulger,5,EQUI
+given,gets,5,EQUI
+two consecutive life terms,life,3,SPE1
+GDP growth,'s GDP growth,5,EQUI
+to annual 1.1 pct,to annual 1.1 %,5,EQUI
+Japan,Japan,5,EQUI
+ends,ends,5,EQUI
+Algeria hostage crisis,Algeria hostage crisis,5,EQUI
+against USD,against USD,5,EQUI
+to 6.2689,to new high,3,SPE1
+strengthens,strengthens,5,EQUI
+China yuan,China yuan,5,EQUI
+Protests,Protests,5,EQUI
+in tense Ukraine capital,in Brazil,1,SIMI
+continue,continue,5,EQUI
+arrests,bans,3,SPE1
+Egypt,Egypt,5,EQUI
+Muslim Brotherhood Supreme Guide,Muslim Brotherhood group,4,REL
+kill,kill,5,EQUI
+Gunmen,Gunmen,5,EQUI
+in northwest Pakistan,in Iraq,2,SIMI
+nine people,3 policemen,1,SPE2
+6 March 2013,12 March 2013,4,SIMI
+Forex & Gold,Forex & Gold,5,EQUI
+chemical weapons,'s chemical weapons,5,EQUI
+U.S.,UN,4,REL
+Syria,Syria,5,EQUI
+after drone strike,in US drone strike,4,SPE2
+Pakistani Taliban,Pakistani Taleban chief,5,EQUI
+for National Unity Government,for political change,3,REL
+Syria envoy,Syria envoy,5,EQUI
+calls,calls,5,EQUI
+In Election,Snap Elections,4,SPE2
+As He,Bulgaria President,2,SIMI
+Protest,Protesters,4,REL
+of icon Nelson Mandela,Mandela,5,EQUI
+mourns,"mourn , celebrate",4,SPE2
+to Delhi,in Russia,1,SIMI
+"of 1,004 Muslim Brotherhood supporters",of Brotherhood chief Badie,4,REL
+Egypt,Egypt,5,EQUI
+arrest,arrest,5,EQUI
+Syrian Opposition,Syrian opposition,5,EQUI
+Israeli,2,2,SPE1
+arrested,detain,5,EQUI
+Egypt,Egypt,5,EQUI
+'s interim president,'s interim president,5,EQUI
+2 advisors,new Cabinet,3,REL
+China,China court,3,SIMI
+in New York ambush,after deadly ambush,3,SIMI
+killed,in guarded condition,3,SPE1
+Two firefighters,Two New York firefighters,4,SPE2
+Car bombing,Suicide bomber,3,SIMI
+kills,kills,5,EQUI
+17,10,3,SIMI
+in Pakistan,in Pakistan,5,EQUI
+in Krasnoyarsk,anti-Putin protests,2,REL
+2 Pussy Riot Members,Freed Pussy Riot pair,4,SPE2
+Stocks,Singapore stocks,4,SPE2
+0.39 %,0.31 pct,4,SIMI
+close,close,5,EQUI
+higher,lower,4,OPPO
+for chemical attack,of Syria chemical arms,4,REL
+Russia,Russia,5,EQUI
+six dead,18 dead,2,SIMI
+leave,leave,5,EQUI
+Floods,Heavy rains,4,REL
+in Philippines,in Philippines,5,EQUI
+after collapsing,after collapse,5,EQUI
+hospitalized,in stable condition,3,REL
+Houston Texans head coach Gary Kubiak,Texans coach Gary Kubiak,5,EQUI
+derails,of crash ordeal,3,REL
+French train,French train passengers,4,REL
+Iran,Iran,5,EQUI
+says,says,5,EQUI
+in Belfast,in Tunisia,1,SIMI
+Brief clashes,clash,4,SPE1
+with police,with police,5,EQUI
+rises,rises,5,EQUI
+Death toll,China flu death toll,1,SIMI
+of chemical weapons,over chemical weapons claims,3,REL
+in Syria,in Syria,5,EQUI
+military modernization drive,Chinese vice premier,2,REL
+Pacific trade pact,to regional trade pact,3,SIMI
+New Japan govt,"Japan , US",2,REL
+dies,kills,5,EQUI
+of the Day,of the Day,5,EQUI
+India Ink,India Ink,5,EQUI
+January 27,March 20,2,SIMI
+Image,Image,5,EQUI
+from Bangladesh building collapse,in Bangladesh building collapse,5,EQUI
+missile repair trade,Cuba missiles,3,REL
+North Korean cargo,N Korean ship,4,SPE1
+reveals,seized,2,REL
+as Obama,John Boehner,4,REL
+on fiscal cliff,fiscal cliff,5,EQUI
+Kerry,Kerry,5,EQUI
+Syria,to Syrian refugees,3,REL
+into Lebanon,in Lebanon,5,EQUI
+Russians,Russia,3,REL
+Pope Francis,Pope Francis,5,EQUI
+at Boston Marathon,in Boston Marathon attack,4,SPE2
+Bombs,Only two bombs,4,SPE2
+with Sri Lanka,with Sri Lanka,5,EQUI
+off Florida coast,on island,2,SIMI
+4 dead,8 dead,3,SIMI
+"Honshu , Japan",Santa Cruz Islands,1,SIMI
+CENC,CENC,5,EQUI
+6.3-magnitude quake,Magnitude-6 .0 quake,4,SIMI
+hits,jolts,5,EQUI
+Boston bomber,for Boston bomb suspect,4,SPE1
+five,39,2,SIMI
+injured,injured,5,EQUI
+10 dead,1 dead,2,SIMI
+in SW China road accident,in E China road accident,3,SIMI
+end up,end up,5,EQUI
+0.26 percent,0.11 pct,2,SIMI
+Singapore stocks,Singapore stocks,5,EQUI
+of the day,of the Day,5,EQUI
+Pictures,Picture,4,SIMI
+presidential elections,'s interim president,3,REL
+Egypt,Egypt,5,EQUI
+before parliamentary polls,new Cabinet,2,REL
+Afghan legislators,Afghan president,3,SIMI
+approve,approves,5,EQUI
+new election law,new electon law,5,OPPO
+Buried,state funeral,3,SIMI
+South Africans,South Africa,5,EQUI
+as Mandela,for Mandela,5,EQUI
+Costa Concordia captain,Costa Concordia survivors,3,REL
+for manslaughter,experience,4,SPE1
+in Colorado floods,in Colorado flooding,5,EQUI
+17,15,4,SIMI
+in bomb attacks,in fresh attacks,4,SPE1
+killed,killed,5,EQUI
+133,90,3,SIMI
+in northern Iraq,in Iraq,4,SPE1
+wounded,wounded,5,EQUI
+Cyprus bailout,Cyprus bailout,5,EQUI
+Egypt,Egypt,5,EQUI
+Muslim Brotherhood newspaper,Muslim Brotherhood deputy head,3,REL
+towards Oklahoma City,Oklahoma City area,4,SPE1
+heads,rake,3,SIMI
+` Large and extremely dangerous ' tornado,as tornadoes,3,SPE1
+Palestinian president,Palestinian president,5,EQUI
+Residents,Residents,5,EQUI
+return,return,5,EQUI
+Singapore stocks,Singapore stocks,5,EQUI
+0.44 pct,0.5 pct,2,SIMI
+close,close,5,EQUI
+lower,higher,4,OPPO
+close,close,5,EQUI
+on Wednesday,on Friday,3,SIMI
+Chinese shares,China stocks,5,EQUI
+lower,lower,5,EQUI
+in Bangladesh factory fire,in Bangladesh factory,4,SPE1
+Mubarak release,'s release request,4,SPE2
+Egypt court,Egypt court,5,EQUI
+in southwest Pakistan,in Pakistan,4,SPE1
+10,39,2,SIMI
+kills,kills,5,EQUI
+Egyptians,voters,4,SPE1
+vote,at polls,4,REL
+on Islamist-backed constitution,on Egypt constitution vote,3,REL
+clash,clash,5,EQUI
+with riot police,with riot police,5,EQUI
+Morsi supporters,Protesters,3,SPE1
+in Cairo,in Kiev,2,SIMI
+Philippine stores,in S. Philippines,2,REL
+Typhoon survivors,Typhoon Bopha,3,REL
+Five dead,8 dead,3,SIMI
+40 missing,11 missing,2,SIMI
+in Bomb Blasts,In Baquba Blasts,4,SPE2
+At Least 66,At Least 47,3,SIMI
+Killed,Killed,5,EQUI
+rises,rises,5,EQUI
+to release,releases,5,EQUI
+Palestinian prisoners,26 more Palestinian prisoners,4,SPE2
+Israel,Israel,5,EQUI
+in US marathon bomb,in Boston marathon bombing,4,SPE2
+in Ukraine,in Mali,2,SIMI
+in Kyiv,in Bhutan,2,SIMI
+Tens,Tens,5,EQUI
+of Thousands,of thousands,5,EQUI
+Obama,Obama,5,EQUI
+to reignite,to act,3,SIMI
+economy,on economy,5,EQUI
+for elections,for elections,5,EQUI
+Pak missions,Islamist parties,2,SIMI
+in UAE,in Egypt,2,SIMI
+in deadly LA boardwalk crash,in deadly LA driving attack,2,SIMI
+Police,Police,5,EQUI
+question,arrest,4,SPE1
+man,suspect,3,SPE2
+on the tracks,on tracks,5,EQUI
+Two green and white trains,Two green and white trains,5,EQUI
+in a street,street,5,EQUI
+driving,driving down,4,SPE2
+a bus,Red double decker bus,3,SPE2
+at a dinner table,at table,4,SPE1
+a woman,Woman,5,EQUI
+writing,busy,3,REL
+on her notebook,with something,4,SPE1
+of a brown horse,of a horse,4,SPE1
+'s head,'s head,5,EQUI
+A close-up,A side view,3,SIMI
+The man,A man,5,EQUI
+is riding,is riding,5,EQUI
+down the road,on the road,4,SPE1
+a motorcycle,a red motorcycle,4,SPE2
+in front of steps,in front of ruins,4,SPE1
+A moped,A moped,5,EQUI
+having,eating,5,EQUI
+cake,dessert,3,SPE1
+A group,Four people,5,EQUI
+in a dinner,around a table,3,REL
+Close up,A close up view,5,EQUI
+of water,of water,5,EQUI
+of a bottle,of a bottle,5,EQUI
+closed,closed,5,EQUI
+with it 's eyes,with its eyes,5,EQUI
+A longed-haired cat,of a cat,4,SPE1
+feed,are eating,5,EQUI
+in the trough,in the trough,5,EQUI
+The cows,The brown and white cows,4,SPE2
+A black and wood colored dining room,in living room setting,2,SIMI
+in a small apartment,Black and brown table,2,REL
+a black and white cow,A black and white cow,5,EQUI
+in hay,in a pen,4,SPE2
+on grassy field,on the green grass,5,EQUI
+Camouflage airplane,A camouflaged plane,5,EQUI
+sitting,sitting,5,EQUI
+with computer monitor,with two monitors,4,SIMI
+Very crowded office desk,Messy computer desk,5,EQUI
+with a bicycle,bicycle,5,EQUI
+at a coffee house,of a coffee shop,4,SIMI
+A man,Man,5,EQUI
+Red double decker bus,A red two story bus,5,EQUI
+a street,along the street,5,EQUI
+driving down,driving,4,SPE1
+holding on,clings,5,EQUI
+to a metal gate,to a wire fence,4,SIMI
+A bird,A multi-colored bird,4,SPE2
+A cruise liner,A cruise ship,5,EQUI
+at the shoreline,at shore,5,EQUI
+docked,docked,5,EQUI
+A red double decker bus,A double decker bus,5,EQUI
+on a crowded street,on a city street,4,SPE1
+a rear view,The rear view,5,EQUI
+of a Chevrolet sports car,of a red Chevrolet concept car,4,SIMI
+holding,holding,5,EQUI
+A woman,A smiling woman,4,SPE2
+a small baby,a small baby,5,EQUI
+at a table,at the table,5,EQUI
+Three men,Three men,5,EQUI
+are sitting down,sitting,5,EQUI
+drinks,with beer and food,2,SPE2
+on a branch,on a branch,5,EQUI
+perched,perched,5,EQUI
+Two Eagles,Two bald eagles,4,SPE2
+with three computer monitors and other equipment,with several computer monitors,3,SPE1
+A home office,Room,4,SPE1
+on the ground,on the ground,5,EQUI
+The black bird,A blackbird,5,EQUI
+is sitting,sitting,5,EQUI
+riding,in riding gear,4,REL
+a white and gray horse,of a gray and white horse,5,EQUI
+A young girl,A young blonde girl,4,SPE2
+The seagull,A little bird,4,SPE1
+is floating,floating,5,EQUI
+on the water,in the water,5,EQUI
+in the snow,in the snow,5,EQUI
+posing,stands,4,REL
+in front of an apartment building,in front of a building,4,SPE1
+A woman,A woman,5,EQUI
+The lamb,A small bird,1,SIMI
+look,looking,5,EQUI
+in the shed,at a shed,5,EQUI
+The curious boys,Two small boys,3,SIMI
+The black and white cows,A black cow and a brown cow,3,SPE2
+pause,stands,3,SIMI
+of a brown faced cat,of an ostrich face,1,SIMI
+A close up,A close up,5,EQUI
+A woman,A woman,5,EQUI
+while the woman,a smiling woman,4,SPE2
+A person,A person,5,EQUI
+a horse,of cows,2,SIMI
+A black and white photo,a black and white photo,5,EQUI
+in background,in the background,5,EQUI
+with mountains,with trees,3,REL
+A person,A girl,3,SPE2
+wearing,wearing,5,EQUI
+a bike,next to a blue motorcycle,2,SIMI
+A white sheep,The skinny cows,1,SIMI
+on a hillside,on the grass,3,SIMI
+"A close-up , distorted photo",A close-up picture,3,SPE1
+in the background,in the background,5,EQUI
+in a field,with grass,3,SIMI
+Two horses,A black and white bird,1,SIMI
+The skinny cows,The white ducks,1,SIMI
+are standing,are standing,5,EQUI
+on the grass,on the ground,3,SPE1
+standing,standing,5,EQUI
+in a field,of grassy field,4,SPE2
+Brown cow,Brown horse,3,SIMI
+at the camera,at the camera,5,EQUI
+looking up,smiling,3,REL
+while standing,while standing,5,EQUI
+Black and white photo,a black and white photo,5,EQUI
+on the water,on water,5,EQUI
+floating,floating,5,EQUI
+on boat,Large green boat,3,SPE2
+is sleeping,sleeping,5,EQUI
+A gray and white tabby cat,Black and white cat,4,SIMI
+on purple fabric,on a brown tarp,3,SIMI
+Two people,A person,3,SIMI
+standing,is standing,5,EQUI
+in a living room,in room,4,SPE1
+Blue couch and twin bed,Blue couch,3,SPE1
+of a dairy cow,The black and brown cow,4,SIMI
+is standing,is standing,5,EQUI
+in a pasture,on the green grass,4,SIMI
+A passenger train,A passenger train,5,EQUI
+A black and white sheep,Little black and white calf,3,SIMI
+The dining room table,with wooden dining table,4,SPE2
+in front of a building,outside a decrepit building,4,SPE2
+A group,A group,5,EQUI
+of black people,of people,4,SPE1
+The bald eagle,Two bald eagles,4,SIMI
+is perched,perched,5,EQUI
+A close-up,A close-up,5,EQUI
+A man,an African man,4,SPE2
+of an orange SUV,of a very full yellow van,3,SIMI
+on the back,onto the back,5,EQUI
+A black and white photo,a black and white photo,5,EQUI
+on a concrete slab,next to white wall,1,REL
+sitting,sitting,4,SIMI
+Black bird,Small dog,1,SIMI
+is floating,floating,5,EQUI
+on the water,on the water,5,EQUI
+A potted plant,A potted plant,5,EQUI
+a brown horse,A tan and white dog,2,SIMI
+down the tracks,on the tracks,5,EQUI
+A coal train,An old train,4,SPE1
+at the airport,flies,3,REL
+A large jet,A passenger jet,4,SIMI
+on the ground,through the air,4,OPPO
+wearing,wearing,5,EQUI
+a pony,a brown horse,4,SIMI
+riding,riding,5,EQUI
+A young girl,A girl,4,SPE1
+in a pen,in a field,2,REL
+standing,grazing,4,SPE2
+Two horses,A group,3,SPE1
+at a restaurant,on a porch,2,REL
+sitting,sitting,5,EQUI
+at a table,around a table,5,EQUI
+Two people,A group,3,SPE1
+riding,jumping,2,SIMI
+a dirt bike,a motorbike,3,SIMI
+A person,A person,5,EQUI
+A black and white photo,A black and white photo,5,EQUI
+A woman,A woman,5,EQUI
+Table,Wooden cabinets,3,SPE1
+in kitchen,in kitchen,5,EQUI
+is,is placed,5,EQUI
+at the center,in the center,5,EQUI
+A pot,A pot,5,EQUI
+Two men,A woman,3,SIMI
+in a den or living room,in a living chair,3,REL
+Four Asian young people,A girl,2,SPE1
+sitting,sitting,5,EQUI
+with wine and dishes,"with candles , wine , and a purple plastic bowl",2,SPE2
+A table,A wooden table,4,SPE2
+is set,is set,5,EQUI
+A group,A group,5,EQUI
+with trees,in a field,3,REL
+A moped,White bus,2,SIMI
+in front of ruins,in front of building,2,REL
+moves,idle,4,OPPO
+A black train,Black train,5,EQUI
+down the tracks,on the tracks,5,EQUI
+A person,A man,4,SPE2
+driving,riding,2,SIMI
+by a bicycle,a three wheeled bicycle,3,SPE2
+A man,A child,3,SIMI
+sitting,sitting,4,SIMI
+on a wooden deck,on the wooden floor,4,SIMI
+while lying,is laying,5,EQUI
+A small white dog,The white dog,4,SPE1
+A black and white cat and dog,A black and white cat,3,SPE1
+at the camera,at the camera,5,EQUI
+smiling,looking up,3,REL
+driving,pulling,4,SIMI
+Two red buses,Train,2,SPE1
+of the countryside,in a grassy plain,3,SIMI
+with a large city,with a large tree,2,REL
+in a black bikini top and jeans,in a black hat,1,SIMI
+A woman,A woman,5,EQUI
+Three men,Three men,5,EQUI
+A man,Man,5,EQUI
+in front of a large fountain,in front of a fountain,4,SPE1
+poses,standing,4,REL
+a sheep,a cow,2,SIMI
+Children,Child,4,SIMI
+of a gray cat,of a cat,4,SPE1
+A close-up,A close-up,5,EQUI
+stand,stand,5,EQUI
+Two sheep,Two rams,3,SIMI
+the tracks,on a track,5,EQUI
+A black train,A mostly black train,4,SPE1
+Black and white cows,Two black and white cows,4,SPE2
+behind a fence,behind a metal gate,4,SPE2
+running,runs,5,EQUI
+A white animal,A white dog,4,SPE2
+through snow covered woods,through a snow covered wood,5,EQUI
+on the floor,on the floor,5,EQUI
+"A black , flat screen television",A flat screen TV,4,SPE1
+is resting,has,5,EQUI
+The brown dog,A tan dog,5,EQUI
+on a white pillow,on a white pillow,5,EQUI
+his head,its head,5,EQUI
+on train tracks,on the train tracks,5,EQUI
+Black train,A train,4,SPE1
+on red patterned couch,on couch,4,SPE1
+Elderly woman,Two women,4,SPE1
+sitting,sitting,5,EQUI
+the window,at a window,5,EQUI
+looking out,are looking,4,SPE1
+Two cats,Two cats,5,EQUI
+is looking,is looking,5,EQUI
+The black and brown cow,The black and white bull,3,SIMI
+at the camera,at the camera,5,EQUI
+sits,sitting,5,EQUI
+A white Apple computer,An Apple computer,4,SPE1
+on the beige carpeting,on the floor,4,SPE1
+Red and white bus,A bus,4,SPE1
+road,a busy road,4,SPE2
+driving down,drives down,5,EQUI
+Red sports car,A red sports car,5,EQUI
+racing,driving,5,EQUI
+down track,on a track,4,SPE1
+with red and gold stripes,"with red , orange and yellow stripes",4,SPE2
+A Victory Liner bus,A white tour bus,4,SPE1
+parked,parked,5,EQUI
+next to a car,between two cars,3,SIMI
+A motorcycle,A BMW motorcycle,4,SPE2
+under a tree,under a tree,5,EQUI
+of a cow,of a cow,5,EQUI
+a black and white photo,A black and white photo,5,EQUI
+at a station,in a station,5,EQUI
+An Amtrak passenger train,A passenger train,4,SPE1
+waiting,waiting,5,EQUI
+Two women,Two smiling women,4,SPE2
+with a baby,a baby,5,EQUI
+on on the tracks,on the track,5,EQUI
+The red train and the yellow train,Two trains,4,SPE1
+of an ostrich,of an ostrich face,4,SIMI
+a close up,A close up,5,EQUI
+sailing,floating,3,SIMI
+on the water,on the blue water,4,SPE2
+Sail boat,Sail boat,5,EQUI
+in a top hat,with a top hat,5,EQUI
+rides,riding,5,EQUI
+A man,A man,5,EQUI
+a white horse,a white horse,5,EQUI
+Parked white double decker bus,A red and white double decker bus,4,SPE2
+Two birds,Two small birds,4,SPE2
+are perched,perched,5,EQUI
+on a metal band,on a metal bar,5,EQUI
+with a yawning baby,with a newborn baby,3,SIMI
+pose,poses,5,EQUI
+An elderly Asian couple,An older Asian couple,5,EQUI
+at a dinner table,at the dinner table,5,EQUI
+A brown horse,Brown horse,5,EQUI
+of green grass,of grassy field,5,EQUI
+grazing,standing,4,SPE1
+Train,Train,5,EQUI
+the tracks,on tracks,5,EQUI
+going down,gliding,3,SIMI
+at table,at a table,5,EQUI
+Group,four people,4,SPE2
+sitting,sitting,5,EQUI
+Yellow striped cat,An orange tabby cat,4,SIMI
+resting,sleeping,4,SPE2
+on blue sofa,on the sofa,4,SPE1
+A white jeep,A white Jeep,5,EQUI
+parked,parked,5,EQUI
+in front of a store,on a street,3,SPE1
+parked up,are parked,5,EQUI
+Two red buses,Red buses,4,SPE1
+with gardens,beside a formal garden,3,SPE2
+sniffing,sniffing,5,EQUI
+of a door,at a closed door,3,SPE2
+A dog,A black and white dog,4,SPE2
+sitting,parked,5,EQUI
+A silver and blue motorcycle,A motorcycle,4,SPE1
+next to a car,next to a car,5,EQUI
+in front of silver train,in front of a silver rail car,4,SIMI
+standing,standing,5,EQUI
+Man,Man,5,EQUI
+in a field,in the field,5,EQUI
+A black and white horned cow,a black and white cow,4,SPE1
+standing,standing,5,EQUI
+A man,A man,5,EQUI
+a white horse,a white horse,5,EQUI
+riding,riding,5,EQUI
+a white show horse,a white horse,4,SPE1
+is riding,riding,5,EQUI
+black formal wear & a black top hat,with a top hat,3,SPE1
+A man,A man,5,EQUI
+A small brown birds,A small bird,4,SPE1
+from a tree,from the tree,5,EQUI
+from a bird feeder,on the bird feeder,5,EQUI
+hanging,hanging,5,EQUI
+A girl,A girl,5,EQUI
+atop a brown horse,a brown horse,5,EQUI
+in riding gear,is riding,4,REL
+of trees,of trees,5,EQUI
+in a grassy field,in the field,4,SPE1
+are grazing,are grazing,5,EQUI
+near a stand,in front of a line,4,SIMI
+Sheep,Sheep,5,EQUI
+a gray jacket,in a pet jacket,4,SPE1
+A dog,A dog,5,EQUI
+at the camera,into the camera,5,EQUI
+is laughing,looking,3,SPE1
+A black-and-white photo,A black and white photo,5,EQUI
+Two women,Two women,5,EQUI
+in lawn chairs,in a cafe,2,REL
+sitting,are sitting,5,EQUI
+lying down,laying down,4,SIMI
+A passenger train,A passenger train,5,EQUI
+into a station,in the station,5,EQUI
+looking,is looking,5,EQUI
+at the camera,at the camera,5,EQUI
+A black dog,The black and white bull,2,SIMI
+A black and white cat,A black and white cat,5,EQUI
+in the sky,in formation trailing smoke,2,REL
+is flying,flying,5,EQUI
+A yellow and blue airplane,Nine red and white aircraft,2,SIMI
+Two guys,Two women,3,SIMI
+galloping,galloping,5,EQUI
+A race horse,A horse,4,SPE1
+on a dirt road,on a dirt road,5,EQUI
+from a passenger vehicle,from a car,4,SPE2
+viewed,shot,4,REL
+Three sheep,Three sheep,5,EQUI
+in the background,in the background,5,EQUI
+on a table,on a table,5,EQUI
+are,sitting,5,EQUI
+Three bottles,Old green bottle,2,SIMI
+Two white dogs,The birds,1,SIMI
+are swimming,are swimming,5,EQUI
+in the water,in the water,5,EQUI
+in a large field,in a field,5,EQUI
+Two cows,Horse,2,SIMI
+standing,standing,5,EQUI
+stands,is standing,5,EQUI
+A man,A man,5,EQUI
+Two women,Two women,5,EQUI
+sitting,standing,2,SIMI
+A black and white cow,Two black and white cows,4,SIMI
+against a partly cloudy blue sky,against a partly cloudy blue sky,5,EQUI
+several sheared sheep,Three white sheep,3,SIMI
+in a pen,in an enclosure,5,EQUI
+Ten sheep,A cat,1,SIMI
+at the camera,at the camera,5,EQUI
+looking,looking,5,EQUI
+on a track,in front of train tracks,3,SIMI
+A mostly black train,A car,2,SIMI
+with several computers and pictures,with three computer monitors and other equipment,3,SPE2
+A room,A home office,3,SPE2
+of a cow,A black and white dog,2,SIMI
+is parked,is parked,5,EQUI
+on the cement,on the sidewalk,3,REL
+A white airplane,A blue motorcycle,1,SIMI
+Three cows,Several sheep,2,SIMI
+in a field,in the field,5,EQUI
+grazing,grazing,5,EQUI
+Black domestic cat,A gray cat,4,SPE1
+on brown table,on a dining table,4,SIMI
+lying,laying,5,EQUI
+Red double decker bus,Red double decker bus,5,EQUI
+Two black and white dogs,A dog,3,SPE1
+at the bottom,at the bottom,5,EQUI
+of stairs,of a staircase,5,EQUI
+on a track,on a track,5,EQUI
+A multi-colored train,A mostly black train,3,SIMI
+in the ocean,at the pier,2,REL
+An old fashioned wooden sailing ship,An old fashioned wooden sailing ship,5,EQUI
+in the background,in the background,5,EQUI
+A person,A person,5,EQUI
+is jumping,riding,2,SIMI
+a bicycle,a dirt bike,4,SPE2
+A close-up,Close up,5,EQUI
+the window,of a window,5,EQUI
+looking out,looking out,5,EQUI
+Two cats,A cat,4,SIMI
+a small bicycle,on a bike,4,SPE1
+riding,is doing,3,REL
+A man,A man,5,EQUI
+A man,A woman,3,SIMI
+Two women,Three men,2,SIMI
+in the kitchen,at a table,2,REL
+A group,Four people,4,SPE2
+food,with . snacks,3,SPE2
+sitting,are sitting,5,EQUI
+around a table,around a living room,3,REL
+A man,A woman,3,SIMI
+a white horse,with a white horse,5,EQUI
+sit,sit,5,EQUI
+at a table,at a long table,4,SPE2
+in a restaurant,in a restaurant,5,EQUI
+A man and woman,Four women and two men,2,SIMI
+are standing,is standing,4,SIMI
+of the front end,of the rear,4,OPPO
+A close up,Close up,5,EQUI
+of a purple and white motor cycle,of a red sports car,2,SIMI
+standing,is standing,4,SIMI
+A black and white cow,a black and white cow,5,EQUI
+in a grassy field,in the field,4,SPE1
+standing,standing,5,EQUI
+standing,is standing,5,EQUI
+in front of yellow corvette,next to a yellow sports car,4,SPE1
+Man,A man,5,EQUI
+at a train station,at the train station,5,EQUI
+is,sits,5,EQUI
+A train,The train,5,EQUI
+Three young women,Three dark haired young women,4,SPE2
+Two white horses,Two horses,4,SPE1
+over a fence,in a pen,3,SIMI
+standing,standing,5,EQUI
+A black and white cow,A black and white horned cow,4,SPE2
+in a grassy field,in a field,5,SPE1
+a black and white photo,A black and white image,4,SPE1
+lying down,laying,5,EQUI
+of a cat,of a cat,5,EQUI
+on a leather chair,on an office chair,4,SIMI
+asleep,sitting,3,SPE1
+A orange and white cat,A ginger cat,4,SIMI
+a bikini top and jeans,"jeans , a dark bikini top , and a bracelet",4,SPE2
+A young woman,A woman,4,SPE1
+is wearing,wearing,5,EQUI
+sits,sits,5,EQUI
+a small TV,very close to a small television,4,SPE2
+A man,A man,5,EQUI
+on a bed,on a bed,5,EQUI
+on a blue car,on a blue car,5,EQUI
+The headlights,the headlights,5,EQUI
+Three bicyclists,The bicyclists,4,SPE1
+a bridge,a bridge,5,EQUI
+crossing,are crossing,5,EQUI
+a brown horse,on a brown horse,4,EQUI
+A woman,A person,4,SPE1
+The two dogs,Two dogs,5,EQUI
+with the stuff animals,with many stuffed animals,4,SPE2
+A train,A train,5,EQUI
+on the tracks,down the track,4,SPE2
+is running,is running,5,EQUI
+standing,stands,5,EQUI
+a plane,a plane,5,EQUI
+Someone,A man,4,SPE2
+on a snowy mountain,on a mountain,4,SPE1
+watching,watching,5,EQUI
+docked,docked,5,EQUI
+A cruise liner,A cruise ship,5,EQUI
+at a port,at a coast,4,SPE1
+an incline,over rocks,2,SIMI
+on a mountain bike,a mountain bike,5,EQUI
+A man,a man,5,EQUI
+going down,riding,3,SIMI
+Three sheep,Three sheep,5,EQUI
+on a dirt road,of gravel road,2,SIMI
+Red double decker bus,A red double decker bus,5,EQUI
+taking on,is picking up,5,EQUI
+passengers,more passengers,4,SPE2
+A black and white photo,This is a black and white picture,5,EQUI
+of a glass bottle,of a short squat Coca-cola bottle,4,SIMI
+in a market square,in a city street,3,SIMI
+Several people,People,5,EQUI
+on motorcycles,on motorbikes,5,EQUI
+Group,A group,5,EQUI
+dressed,dressed,5,EQUI
+of people,of people,5,EQUI
+posing,standing,4,REL
+as Elvis,as Elvis,5,EQUI
+with two men,with two other people,4,SPE1
+holding,holding,5,EQUI
+A smiling woman,a woman,4,SPE1
+a small baby,a baby,4,SPE1
+one another,each other,5,EQUI
+points,points,5,EQUI
+at a table,at a table,5,EQUI
+facing,facing,5,EQUI
+Two boys,Two people,4,SPE1
+one,as one,5,EQUI
+sit,sit,5,EQUI
+at the other,at the other,5,EQUI
+a small shopping cart,a shopping cart,4,SPE1
+pushing,is steering,5,EQUI
+Parrot,A white bird,4,SPE1
+Two birds,Two birds,5,EQUI
+towards water feeder,near bird feeders,4,SIMI
+flying,flying,5,EQUI
+grazing,are,4,SPE1
+A group,A group,5,EQUI
+on a hill,on a hill,5,EQUI
+of sheep,of sheep,5,EQUI
+on a sofa,on a sofa,5,EQUI
+while sitting,sitting,5,EQUI
+a small baby,a baby,4,SPE1
+A women,a woman,5,EQUI
+holds,holding,5,EQUI
+A gray cat,"A gray , black , and white cat",3,SPE2
+looking,looking,5,EQUI
+into the camera,at the camera,5,EQUI
+A guy,A man,5,EQUI
+on a white horse,a white horse,5,EQUI
+Black and white cow,a black and white cow,5,EQUI
+of snow,in the field,2,REL
+standing,standing,5,EQUI
+Home office space,An office,2,SIMI
+with bright green walls and artwork,with multiple desks and green walls,2,SIMI
+pointing,points,5,EQUI
+are sitting,sit,5,EQUI
+at a table,at a table,5,EQUI
+with one person,as one,5,EQUI
+Two young people,Two people,4,SPE1
+at the other,at the other,5,EQUI
+sailing,sailing,5,EQUI
+Sail boat,Sailboat,5,EQUI
+Three people,Three people,5,EQUI
+with yellow canoes,to canoe,4,SPE1
+on a branch,on a branch,5,EQUI
+Two bald eagles,Two eagles,4,SPE1
+perched,are perched,5,EQUI
+a white horse,a white horse,5,EQUI
+is riding,leading,4,SIMI
+A horse rider,A woman,3,SPE1
+on train tracks,on the train tracks,5,EQUI
+A long train,A train,4,SPE1
+A silver AreoMexico Jet Liner,An aeromexico silver plane,5,EQUI
+sitting,is,5,EQUI
+on the tarmac,on a runway,4,SPE2
+sailing,sailing,5,EQUI
+a small white sail boat,in a small sailboat,4,SPE1
+Two people,Couple,5,EQUI
+A dining table,A wooden table,4,SIMI
+"with candles , wine , and a teapot","with candles , wine , and a purple plastic bowl",4,SIMI
+in the still water,on a clear lake,3,SPE2
+Two people,Two people,5,EQUI
+a red canoe,in a red canoe,5,EQUI
+a cloak,a brown cloth,3,SPE2
+The man,Man,5,EQUI
+is sitting,sitting,5,EQUI
+cross legged,cross legged,5,EQUI
+a stick,a wooden stick,4,SPE2
+wearing,while wearing,5,EQUI
+holding,holding,5,EQUI
+a creek,in a river,4,SPE1
+Small boat,a boat,4,SPE1
+going down,moving,4,SPE1
+A black and white photo,A black and white scene,4,SPE1
+of a living room,of a well furnished room,3,SPE1
+of a cat,A siamese cat,4,SPE2
+on a cream sofa,on a white sofa,4,SIMI
+on a yellow chair,on a yellow chair,5,EQUI
+A pug dog,A bulldog,4,SIMI
+next to a green dumpster,beside a large waste receptacle,4,SIMI
+asleep,laying,4,SPE1
+A orange and white cat,A orange and white cat,5,EQUI
+on a leather chair,in a black leather chair,4,SPE2
+standing,standing,5,EQUI
+Black and white cow,A black and white horned cow,4,SPE2
+in grassy field,in a field,4,SPE1
+by a dog,by a dog,5,EQUI
+Three goats,Three goats,5,EQUI
+are being rounded up,are chased,4,SIMI
+moves,traveling,5,EQUI
+down the tracks,down the tracks,5,EQUI
+A black train,A train,4,SPE1
+in a grassy area,in a grassy wooded area,4,SPE2
+A black dog,A long-haired dog,4,SIMI
+standing,stands,5,EQUI
+is parked,parked,5,EQUI
+on the sidewalk,on the sidewalk,5,EQUI
+A blue motorcycle,A blue moped,4,SIMI
+A red double decker bus,A red double decker bus,5,EQUI
+on a city street,a street,4,SPE1
+An empty office cubicle,An empty office chair,4,REL
+A young man,Young redheaded man,4,SPE2
+is holding,holding,5,EQUI
+two bicycles,two bicycles,5,EQUI
+A white plane,A white Swiss airplane,4,SPE2
+on the runway,the runway,5,EQUI
+on the median,on a patch,4,SIMI
+Several cows,Five cows,4,SPE2
+grazing,grazing,5,EQUI
+by the road,between two roadways,4,SIMI
+Red double decker bus,A double decker bus,5,EQUI
+street,on a city street,4,SPE2
+at a clothing store,in a clothing store,5,EQUI
+Two women,Two women,5,EQUI
+next to a brown cow,next to a cow,4,SPE1
+A women,A women,5,EQUI
+standing,stands,5,EQUI
+A dog,A dog,5,EQUI
+of a truck,of a van,5,EQUI
+peaks out,is peeking out,5,EQUI
+the back,of the back,5,EQUI
+at the camera,at the camera,5,EQUI
+is looking up,looking,4,SPE1
+The black and white cat,"A gray , black , and white cat",4,SPE2
+standing,sitting,2,SIMI
+A small white cat,Grey and white cat,4,SIMI
+in a sink,in bathroom sink,4,SPE2
+looking up,looks up,5,EQUI
+is wearing,wearing,5,EQUI
+The small dog,A small white dog,4,SPE2
+a sweater,a jacket,4,SIMI
+at the camera,at the camera,5,EQUI
+near water and a big ship,with water and a barge,5,EQUI
+A white bus,A white bus,5,EQUI
+A green car,A green car,5,EQUI
+at a saloon,outside the saloon,5,EQUI
+parked,parked,5,EQUI
+of people,of people,5,EQUI
+Group,A group,5,EQUI
+sitting,sitting,5,EQUI
+around a restaurant dining table,at a restaurant table,5,EQUI
+in a station,inside an indoor station,4,SPE2
+Train,Trains,4,SIMI
+Red double decker bus,A double decker bus,5,EQUI
+a street,on a city street,4,SPE2
+in a grassy field,in a field,4,SPE1
+Three cows,Three cows,5,EQUI
+are grazing,grazing,5,EQUI
+"A red , double-decker bus",of a red double decker bus,5,EQUI
+An elderly man,Older gentleman,5,EQUI
+on his laptop,with laptop,5,EQUI
+in a mountainous area,on a hill,3,REL
+standing,standing,5,EQUI
+A sheep,A large sheep,4,SPE2
+A tan puppy,A tan puppy,5,EQUI
+being petted,being held and petted,4,SPE2
+two motorbikes,Two dirt bikers,4,SPE2
+on a dirt track,over dirt hill,3,SPE2
+A large pile,A large pile,5,EQUI
+of wooden items,of scrap wood,4,SIMI
+A woman,A girl,4,SIMI
+riding,riding,5,EQUI
+a brown horse,a brown horse,5,EQUI
+A black and white horned cow,A large black and white cow,4,SPE2
+in a field,in a field,5,EQUI
+Two men,Two women,3,SIMI
+A little bird,A duck,3,SIMI
+in the water,in the water,5,EQUI
+floating,floating,5,EQUI
+Old blue and white train,A blue train,3,SPE1
+Two ducks,The birds,3,SIMI
+by the water,in the water,5,EQUI
+are standing,are swimming,2,SIMI
+on the railroad tracks,on the tracks,5,EQUI
+The brown train,The white train,4,SIMI
+is sitting,is sitting,5,EQUI
+sits,sits,5,EQUI
+A tiny blonde child,A young blonde girl,3,SIMI
+A black and white cow,A black and white cat,2,SIMI
+sitting,standing,2,SIMI
+A group,A group,5,EQUI
+of people,of people,5,EQUI
+on a sofa,on a sofa,5,EQUI
+sitting,are sitting,5,EQUI
+across two men,Two men,5,EQUI
+on a grassy hill,over dirt hill,3,SIMI
+Black and white photo,a black and white photo,5,EQUI
+Large black and white cat,A small white cat,3,SIMI
+resting,sitting,3,SIMI
+a close up,a close up,5,EQUI
+Two men,Two men,5,EQUI
+bike helmets,with their bicycles,4,REL
+in the background,in the background,5,EQUI
+A women,A man and boy,2,SIMI
+in the background,in the background,5,EQUI
+A young girl,A women,3,SPE1
+in a field,in a green field,4,SPE2
+Two cows,A brown horse,2,SIMI
+A person,A person,5,EQUI
+is standing,walks,2,SIMI
+on a city street,a street,4,SPE1
+A double decker bus,A red double decker bus,5,EQUI
+drives,driving down,4,SPE2
+at a construction site,of a construction site,5,EQUI
+stands,stands,5,EQUI
+A black dog,A black dog,5,EQUI
+with a hat,with a cap and jacket,3,SPE2
+standing,walking,2,SIMI
+A long-haired man,A man,4,SPE1
+"between two large , half-empty Coke bottles",between two large bottles,3,SPE1
+sitting,are sitting,5,EQUI
+in a shop,in a cafe,3,SIMI
+Two women,Two women,5,EQUI
+A man,Man,5,EQUI
+in a store,in a store,5,EQUI
+playing,playing,5,EQUI
+a video game,game,4,SPE1
+the back,The back,5,EQUI
+of a stop sign,of the stop sign,5,EQUI
+on it,is adorned,4,SIMI
+with many stickers,with stickers,4,SPE1
+with a ferris wheel,in front of a ferris wheel,5,EQUI
+a brown double decker tour bus,A double-decker bus,4,SPE1
+in a black uniform,in a tux,4,SIMI
+on a white horse,on a white horse,5,EQUI
+A man,A man,5,EQUI
+on a dirt course,on a dirt track,5,EQUI
+Two motorbikes,two motorbikes,5,EQUI
+of the headlights,of the headlights,5,EQUI
+of a blue old-fashioned car,on a blue car,4,SPE1
+A close-up view,Close up,5,EQUI
+A black and white cat,A black and white cat,5,EQUI
+on a blanket,on a purple blanket,4,SPE2
+lying,sleeps,4,SPE2
+sitting,sitting,5,EQUI
+a small baby,a baby,4,SPE1
+holding,holding,5,EQUI
+A man and women,a woman,3,SPE1
+on a sofa,on a sofa,5,EQUI
+with a dining table,with a dining room,4,REL
+in the background,in the background,5,REL
+A living room,of a living room,5,EQUI
+with hood,with its hood,5,EQUI
+open,raised,5,EQUI
+Red double decker bus,An old Red London double decker bus,4,SPE2
+are sheering,shearing,5,EQUI
+a white sheep,a white sheep,5,EQUI
+Two women,Two women,5,EQUI
+inside of a wooden building,in a wooden stall,4,SPE2
+into the station,into a station,5,EQUI
+A subway train,A white train,3,SIMI
+pulling,pulling,5,EQUI
+A man,A man,5,EQUI
+with glasses and two plastic bottles,with two water bottles,3,SPE1
+of water,on the water,5,EQUI
+A goose,A black swan,4,SPE2
+its wings,its wings,5,EQUI
+flapping,flapping,5,EQUI
+next to a car,next to a car,5,EQUI
+Motorcycle,A motorcycle,5,EQUI
+parked,parked,5,EQUI
+Boy,The boy,5,EQUI
+with dog,with a puppy,4,SPE2
+on couch,on a couch,5,EQUI
+laying,is lying,5,EQUI
+at the airport,at the airport,5,EQUI
+on the ground,parked,4,SIMI
+A large jet,A large airplane,5,EQUI
+of Harp lager,of Harp beer,4,SPE1
+Eight bottles,Eight bottles,5,EQUI
+lined up,lined up,5,EQUI
+on the floor,on a wooden floor,4,SPE2
+a movie,a movie,5,EQUI
+of a television screen,The wall-mounted flat-screen TV,4,SPE2
+showing,is showing,5,EQUI
+inside of a sink,in bathroom sink,4,SPE2
+White cat,Grey and white cat,4,SPE2
+sitting,sitting,5,EQUI
+Two people,Two women,4,SPE2
+a small boat,in a sailboat,4,SIMI
+of a couch,of a couch,5,EQUI
+Two cats,Two cats,5,EQUI
+on the back,on the back,5,EQUI
+the window,the window,5,EQUI
+looking out,looking out,5,EQUI
+sit,are sitting,5,EQUI
+shear,sheering,5,EQUI
+Two young women,Two women,4,SPE1
+a sheep,a sheep,5,EQUI
+are seated,sitting,5,EQUI
+Six people,A group,4,SPE1
+at a restaurant table,at a restaurant table,5,EQUI
+A Philips flat-screen TV,A Phillips flat screen TV,5,EQUI
+with its two remote controls,with two remote controls,5,EQUI
+stands,standing,5,EQUI
+A black dog,A black dog,5,EQUI
+at a construction site,in a room,3,SIMI
+lying,laying,5,EQUI
+on a blanket,on a cat bed,3,SIMI
+A black and white cat,A black and white cat,5,EQUI
+A plane,A small turboprop plane,3,SPE2
+being readied,being loaded,3,SIMI
+A dark brown horse,A brown horse,4,SPE1
+in a field,in a green field,4,SPE1
+stands,parked,5,EQUI
+A white bicycle,Old style bicycle,4,SIMI
+on a floor,on floor,5,EQUI
+sitting,standing,2,SIMI
+on a concrete slab,on concrete,4,SPE1
+Black bird,Black bird,5,EQUI
+in grassy field,in a grassy field,5,EQUI
+standing,standing,5,EQUI
+Dark colored dog,A gray dog,4,SIMI
+one brown,one ginger,4,SIMI
+on a bed,on a bed,5,EQUI
+two cats,Two cats,5,EQUI
+one white,the other white,5,EQUI
+laying,laying,5,EQUI
+A couple,Couple,5,EQUI
+a baby,with newborn baby,4,SPE2
+Close up,A close-up,5,EQUI
+of a white sheep,of a sheep,4,SPE1
+with a black head,with a black head,5,EQUI
+on a sofa,on a sofa,5,EQUI
+laying,laying,5,EQUI
+A young boy,A small boy,4,SIMI
+with a dog,with a dog,5,EQUI
+on the railroad tracks,on the train tracks,5,EQUI
+A train,A train,5,EQUI
+Large silver locomotive engine,of a silver train engine,4,SPE1
+of a semi truck,of white semi truck,4,SPE2
+on top,on top,5,EQUI
+A small red car,Red sports car,4,SIMI
+in black,in black and white lira,4,SPE2
+A bicyclist,A cyclist,5,EQUI
+in a messy room,A room,4,SPE1
+A television,"with a television , stereo and bookshelf",3,SPE2
+touches,pets,5,EQUI
+A bald man,A bald man,5,EQUI
+of a black horse,of a black and white horse,4,SPE2
+of a fence,at the fence,4,SPE1
+the nose,the nose,5,EQUI
+A gray house,House,4,SPE1
+with a red door,with a red door,5,EQUI
+in their stalls,at a trough,3,SIMI
+a black and white photo,A black and white photo,5,EQUI
+of cows,of cattle,4,SPE1
+with the London Eye ferris wheel,with a ferris wheel,4,SPE2
+in background,behind it,5,EQUI
+Double decker bus,a brown double decker tour bus,4,SPE2
+parked,parked,5,EQUI
+at an airfield,in an airport,4,SIMI
+with a cloudy sky overhead,on a cloudy day,5,EQUI
+A small plane,A small white plane,4,SPE2
+on the floor,on the floor,5,EQUI
+A Macintosh computer,a computer,4,SPE1
+A black and white photo,Black and white photo,5,EQUI
+of a love seat,of couch,4,SPE1
+walking,walking,5,EQUI
+of people,of four people,4,SPE2
+Crowd,A group,5,EQUI
+past a giant mushroom,past a giant mushroom,5,EQUI
+sitting,stands,2,SIMI
+on a motorcycle,on a motorcycle,5,EQUI
+A person,A man,4,SPE2
+while a man,next to a helmeted man,4,SPE2
+A sheep,A sheep,5,EQUI
+beside a road and a lake,of a road,4,SPE2
+outside,outside,5,EQUI
+of people,of people,5,EQUI
+A group,A group,5,EQUI
+having,eat,5,EQUI
+A close-up view,A close-up,5,EQUI
+of a horse,of a brown horse,4,SPE2
+'s head,'s head,5,EQUI
+at a train station,in a station,5,EQUI
+A train,a train,5,EQUI
+of people,of six people,4,SPE2
+at a table,at a table,5,EQUI
+in an Italian restaurant,with salad,2,REL
+sit,sitting,5,EQUI
+A group,A group,5,EQUI
+holding,holding,5,EQUI
+newborn baby,a baby,4,SPE1
+Older woman,a woman,4,SPE1
+down,down,5,EQUI
+with its landing gear,with its landing gears,4,SIMI
+A blue and orange airplane,A red and blue plane,4,SIMI
+flying,flying,5,EQUI
+A white bird,A white cat,1,SIMI
+A black and white photo,A black and white photo,5,EQUI
+A laptop computer and a computer monitor,A laptop and a PC,4,SIMI
+on a leather couch,on a black couch,4,SIMI
+lay,sitting,2,SIMI
+sitting,sits,2,SIMI
+Long-haired black dog,A blue jay,1,SIMI
+standing,standing,5,EQUI
+in grassy field,in a grassy field,5,EQUI
+Two women,Two men,3,SIMI
+smiling,looking,3,SPE1
+at the camera,at the camera,5,EQUI
+sitting,sitting,5,EQUI
+on a rock,on a long branch,2,SIMI
+Two animals,Two eagles,3,SPE2
+Left side,A close-up,3,SIMI
+of a silver train engine,of a black train engine,4,SIMI
+standing,standing,5,EQUI
+in hay,on the grass,3,SIMI
+A black and white cow,a black and white sheep,3,SIMI
+The cat,Grey and white cat,4,SPE2
+looking,looking,5,EQUI
+at the camera,at the camera,5,EQUI
+A black and white dog,"A gray , black , and white cat",3,SIMI
+A women,A woman,5,EQUI
+drinking,drinks,5,EQUI
+at a table,at a table,5,EQUI
+sitting,while sitting,5,EQUI
+A black and white cow,A black and white dog,2,SIMI
+looking,looking,5,EQUI
+standing,is grazing,3,SPE2
+Two cows,The cow,4,SIMI
+in a large field,in a field,4,SPE1
+Depressed woman,Older woman,3,SIMI
+Black and white cows,Two black and white cows,4,SPE2
+grazing,drinking,3,SIMI
+a white horse,A domestic animal,3,REL
+A black and white cat,A dog,3,SIMI
+is sitting,sitting,5,EQUI
+on a brown chair,on a yellow chair,4,SIMI
+are smiling,smiling,5,EQUI
+Three women,Three women,5,EQUI
+A black and white cow,A black and white cat,2,SIMI
+A close-up,A close-up,5,EQUI
+of a sheep,of a lamb,4,SIMI
+in the grass,on grass,5,EQUI
+grazing,graze,5,EQUI
+Three cows,Two cows,4,SIMI
+in a field,in a field,5,EQUI
+A man,A women,3,SIMI
+sitting,while sitting,5,EQUI
+on a bench,on a sofa,3,SIMI
+on the ground,on the branch,2,SIMI
+is sitting,is sitting,5,EQUI
+The black bird,The bird,4,SPE1
+from a tree,in a tree,5,EQUI
+A small brown birds,A small red and gray bird,3,SIMI

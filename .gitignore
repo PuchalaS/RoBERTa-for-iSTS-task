@@ -3,5 +3,10 @@ __pycache__
 .vscode
 .idea
 .pypirc
+.pt
+.wa
+semeval_data
+output
+checkpoints
 dist
 torchlib.egg-info

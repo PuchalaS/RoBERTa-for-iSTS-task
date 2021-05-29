@@ -1,8 +1,4 @@
 # encoding: utf-8
-"""
-@author:  sherlock
-@contact: sherlockliao01@gmail.com
-"""
 
 import argparse
 import os
@@ -12,9 +8,9 @@ from os import mkdir
 import torch.nn.functional as F
 
 sys.path.append('.')
-from config import cfg
+from net_config import cfg
 from data import make_data_loader
-from engine.example_trainer import do_train
+from engine.trainer import do_train
 from modeling import build_model
 from solver import make_optimizer
 
@@ -26,26 +22,21 @@ def train(cfg):
     device = cfg.MODEL.DEVICE
 
     optimizer = make_optimizer(cfg, model)
-    scheduler = None
 
-    arguments = {}
 
-    train_loader = make_data_loader(cfg, is_train=True)
-    val_loader = make_data_loader(cfg, is_train=False)
+    train_loader = make_data_loader(cfg, csv = cfg.DATASETS.TRAIN, is_train=True)
 
     do_train(
         cfg,
         model,
         train_loader,
-        val_loader,
         optimizer,
-        None,
-        F.cross_entropy,
+        losses = [F.mse_loss, F.nll_loss],
     )
 
 
 def main():
-    parser = argparse.ArgumentParser(description="PyTorch Template MNIST Training")
+    parser = argparse.ArgumentParser(description="PyTorch training RoBERTa model for iSTS task")
     parser.add_argument(
         "--config_file", default="", help="path to config file", type=str
     )
@@ -65,9 +56,10 @@ def main():
     if output_dir and not os.path.exists(output_dir):
         mkdir(output_dir)
 
-    logger = setup_logger("template_model", output_dir, 0)
+    logger = setup_logger("model", output_dir, 0)
     logger.info("Using {} GPUS".format(num_gpus))
     logger.info(args)
+    logger.propagate = False
 
     if args.config_file != "":
         logger.info("Loaded configuration file {}".format(args.config_file))

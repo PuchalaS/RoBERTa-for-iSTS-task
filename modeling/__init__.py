@@ -1,12 +1,9 @@
 # encoding: utf-8
-"""
-@author:  sherlock
-@contact: sherlockliao01@gmail.com
-"""
 
-from .example_model import ResNet18
+
+from .roberta_ists import RobertaISTS
 
 
 def build_model(cfg):
-    model = ResNet18(cfg.MODEL.NUM_CLASSES)
+    model = RobertaISTS(cfg.MODEL.NUM_CLASSES, cfg.MODEL.DROPOUT, cfg.MODEL.HIDDEN_NEURONS)
     return model
