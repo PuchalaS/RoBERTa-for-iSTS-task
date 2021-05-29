@@ -53,8 +53,8 @@ def do_train(
             partial_loss1 += loss1.item()
             partial_loss2 += loss2.item()
             if i % log_period == log_period -1:
-                logger.info('EPOCH: [%d] BATCHES [%d/%d] loss summed: %.3f loss MSE: %.3f loss NLLL: %.3f' %
-                        (epoch + 1, i + 1, len(train_loader) ,(partial_loss1 + partial_loss2) / log_period, partial_loss1 / log_period, partial_loss2 / log_period))
+                logger.info('EPOCH: [%d/%d] BATCHES [%d/%d] loss summed: %.3f loss MSE: %.3f loss NLLL: %.3f' %
+                        (epoch + 1, epochs, i + 1, len(train_loader) ,(partial_loss1 + partial_loss2) / log_period, partial_loss1 / log_period, partial_loss2 / log_period))
                 partial_loss1 = 0.0
                 partial_loss2 = 0.0
 
