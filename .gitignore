@@ -7,6 +7,5 @@ __pycache__
 .wa
 semeval_data
 output
-checkpoints
 dist
 torchlib.egg-info
