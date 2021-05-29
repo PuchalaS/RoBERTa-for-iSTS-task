@@ -34,7 +34,7 @@ _C.DATALOADER.NUM_WORKERS = 8
 # ---------------------------------------------------------------------------- #
 _C.SOLVER = CN()
 _C.SOLVER.OPTIMIZER_NAME = "ADAM"
-_C.SOLVER.MAX_EPOCHS = 1
+_C.SOLVER.MAX_EPOCHS = 200
 _C.SOLVER.BASE_LR = 0.0001
 _C.SOLVER.LOG_PERIOD = 100
 _C.SOLVER.BATCH_SIZE = 1
