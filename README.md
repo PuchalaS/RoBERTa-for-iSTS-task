@@ -2,7 +2,7 @@
 # Table Of Contents
 -  [Introduction](#introduction)
 -  [Requirements](#requirements)
--  [In Details](#in-details)
+-  [Datasets](#datasets)
 -  [Future Work](#future-work)
 -  [Contributing](#contributing)
 -  [Acknowledgments](#acknowledgments)
@@ -16,24 +16,26 @@ Scope of this project is to is to use the [RoBERTa](https://arxiv.org/abs/1907.1
 pip install -r requirements.txt
 ```
 ## Datasets
-All needed datasets are in `data/datasets` folder. Data has been downloaded from 2015 and 2016 SemEval competion [site](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page#Interpretable_STS). If needed datasets can be reproduced with following commands
+All needed datasets are in `data/datasets` folder. Data has been downloaded from 2015 and 2016 SemEval competition [site](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page#Interpretable_STS) and processed. If needed datasets can be reproduced with following commands:
 ```bash
 ./download_semeval_data.sh
 python tools/create_csv.py
 ```
-# In a Nutshell   
-In a nutshell here's how to use this template, so **for example** assume you want to implement ResNet-18 to train mnist, so you should do the following:
-- In `modeling`  folder create a python file named whatever you like, here we named it `example_model.py` . In `modeling/__init__.py` file, you can build a function named `build_model` to call your model
+# Training model 
+To train model with default parameters run following command:
+```bash
+python tools/train_net.py
+```
+To change any parametr command can be run with additional arguments, for example to set `max_epochs` to 100 and `learning rate` to 0.0002 run following command:
+```bash
+python tools/train_net.py SOLVER.MAX_EPOCHS 100 SOLVER.BASE_LR 0.0002
+```
+All the available parameters are defined in `net_config/defaults.py` file
 
-```python
-from .example_model import ResNet18
-
-def build_model(cfg):
-    model = ResNet18(cfg.MODEL.NUM_CLASSES)
-    return model
-``` 
-
-   
+Parameters can also be loaded from file with `--config_file`:
+```bash
+python tools/train_net.py --config_file configs/roberta_config.yml
+```
 - In `engine`  folder create a model trainer function and inference function. In trainer function, you need to write the logic of the training process, you can use some third-party library to decrease the repeated stuff.
 
 ```python
