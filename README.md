@@ -1,23 +1,26 @@
-# PyTorch Project Template
-A simple and well designed structure is essential for any Deep Learning project, so after a lot practice and contributing in pytorch projects here's a pytorch project template that combines **simplicity, best practice for folder structure** and **good OOP design**. 
-The main idea is that there's much same stuff you do every time when you start your pytorch project, so wrapping all this shared stuff will help you to change just the core idea every time you start a new pytorch project. 
-
-**So, here’s a simple pytorch template that help you get into your main project faster and just focus on your core (Model Architecture, Training Flow, etc)**
-
-In order to decrease repeated stuff, we recommend to use a high-level library. You can write your own high-level library or you can just use some third-part libraries such as [ignite](https://github.com/pytorch/ignite), [fastai](https://github.com/fastai/fastai), [mmcv](https://github.com/open-mmlab/mmcv) … etc. This can help you write compact but full-featured training loops in a few lines of code. Here we use ignite to train mnist as an example.
-
-# Requirements
-- [yacs](https://github.com/rbgirshick/yacs) (Yet Another Configuration System)
-- [PyTorch](https://pytorch.org/) (An open source deep learning platform) 
-- [ignite](https://github.com/pytorch/ignite) (High-level library to help with training neural networks in PyTorch)
 
 # Table Of Contents
--  [In a Nutshell](#in-a-nutshell)
+-  [Introduction](#introduction)
+-  [Requirements](#requirements)
 -  [In Details](#in-details)
 -  [Future Work](#future-work)
 -  [Contributing](#contributing)
 -  [Acknowledgments](#acknowledgments)
 
+## Introduction
+Scope of this project is to is to use the [RoBERTa](https://arxiv.org/abs/1907.11692) model to determine interpretable semantic textual similarity (iSTS) between two sentences. Given two sentences of text, s1 and s2, the STS systems compute how similar s1 and s2 are, returning a similarity score. Although the score is useful for many tasks, it does not allow to know which parts of the sentences are equivalent in meaning (or very close in meaning) and which not. The aim of interpretable STS is to explore whether systems are able to explain WHY they think the two sentences are related / unrelated, adding an explanatory layer to the similarity score. The explanatory layer consists of an alignment of chunks across the two sentences, where alignments are annotated with a similarity score and a relation label. Task is inspired by [SemEval](https://alt.qcri.org/semeval2020/) competition.
+
+
+## Requirements
+```bash
+pip install -r requirements.txt
+```
+## Datasets
+All needed datasets are in `data/datasets` folder. Data has been downloaded from 2015 and 2016 SemEval competion [site](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page#Interpretable_STS). If needed datasets can be reproduced with following commands
+```bash
+./download_semeval_data.sh
+python tools/create_csv.py
+```
 # In a Nutshell   
 In a nutshell here's how to use this template, so **for example** assume you want to implement ResNet-18 to train mnist, so you should do the following:
 - In `modeling`  folder create a python file named whatever you like, here we named it `example_model.py` . In `modeling/__init__.py` file, you can build a function named `build_model` to call your model
@@ -130,7 +133,8 @@ do_train(cfg, model, train_loader, val_loader, optimizer, None, F.cross_entropy)
 Any kind of enhancement or contribution is welcomed.
 
 
-# Acknowledgments
+# Credits
+Repo template - L1aoXingyu/Deep-Learning-Project-Template
 
 
 
