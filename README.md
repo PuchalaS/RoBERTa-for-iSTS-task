@@ -1,136 +1,141 @@
-# PyTorch Project Template
-A simple and well designed structure is essential for any Deep Learning project, so after a lot practice and contributing in pytorch projects here's a pytorch project template that combines **simplicity, best practice for folder structure** and **good OOP design**. 
-The main idea is that there's much same stuff you do every time when you start your pytorch project, so wrapping all this shared stuff will help you to change just the core idea every time you start a new pytorch project. 
-
-**So, here’s a simple pytorch template that help you get into your main project faster and just focus on your core (Model Architecture, Training Flow, etc)**
-
-In order to decrease repeated stuff, we recommend to use a high-level library. You can write your own high-level library or you can just use some third-part libraries such as [ignite](https://github.com/pytorch/ignite), [fastai](https://github.com/fastai/fastai), [mmcv](https://github.com/open-mmlab/mmcv) … etc. This can help you write compact but full-featured training loops in a few lines of code. Here we use ignite to train mnist as an example.
-
-# Requirements
-- [yacs](https://github.com/rbgirshick/yacs) (Yet Another Configuration System)
-- [PyTorch](https://pytorch.org/) (An open source deep learning platform) 
-- [ignite](https://github.com/pytorch/ignite) (High-level library to help with training neural networks in PyTorch)
-
 # Table Of Contents
--  [In a Nutshell](#in-a-nutshell)
--  [In Details](#in-details)
--  [Future Work](#future-work)
--  [Contributing](#contributing)
--  [Acknowledgments](#acknowledgments)
+-  [Introduction](#introduction)
+-  [Requirements](#requirements)
+-  [Datasets](#datasets)
+-  [Training model](#training-model)
+-  [Testing model](#testing-model)
+-  [Project structure](#project-structure)
+-  [Pretrained RoBERTa](#pretrained-roberta)
+-  [Credits](#credits)
 
-# In a Nutshell   
-In a nutshell here's how to use this template, so **for example** assume you want to implement ResNet-18 to train mnist, so you should do the following:
-- In `modeling`  folder create a python file named whatever you like, here we named it `example_model.py` . In `modeling/__init__.py` file, you can build a function named `build_model` to call your model
+## Introduction
+Scope of this project is to is to use the [RoBERTa](https://arxiv.org/abs/1907.11692) model to determine interpretable semantic textual similarity (iSTS) between two sentences. Given two sentences of text, s1 and s2, the STS systems compute how similar s1 and s2 are, returning a similarity score. Although the score is useful for many tasks, it does not allow to know which parts of the sentences are equivalent in meaning (or very close in meaning) and which not. The aim of interpretable STS is to explore whether systems are able to explain WHY they think the two sentences are related / unrelated, adding an explanatory layer to the similarity score. The explanatory layer consists of an alignment of chunks across the two sentences, where alignments are annotated with a similarity score and a relation label. Task is inspired by [SemEval](https://alt.qcri.org/semeval2020/) competition.
 
-```python
-from .example_model import ResNet18
 
-def build_model(cfg):
-    model = ResNet18(cfg.MODEL.NUM_CLASSES)
-    return model
-``` 
+## Requirements
+```bash
+pip install -r requirements.txt
+```
+## Datasets
+All needed datasets are in `data/datasets` folder. Data has been downloaded from 2015 and 2016 SemEval competition [site](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page#Interpretable_STS) and processed. If needed datasets can be reproduced with following commands:
+```bash
+./download_semeval_data.sh
+python tools/create_csv.py
+```
+# Training model 
+To train model with default parameters run following command:
+```bash
+python tools/train_net.py
+```
+To change any parametr command can be run with additional arguments, for example to set `max_epochs` to 100 and `learning rate` to 0.0002 run following command:
+```bash
+python tools/train_net.py SOLVER.MAX_EPOCHS 100 SOLVER.BASE_LR 0.0002
+```
+All the available parameters are defined in `net_config/defaults.py` file
 
-   
-- In `engine`  folder create a model trainer function and inference function. In trainer function, you need to write the logic of the training process, you can use some third-party library to decrease the repeated stuff.
-
-```python
-# trainer
-def do_train(cfg, model, train_loader, val_loader, optimizer, scheduler, loss_fn):
- """
- implement the logic of epoch:
- -loop on the number of iterations in the config and call the train step
- -add any summaries you want using the summary
- """
-pass
-
-# inference
-def inference(cfg, model, val_loader):
-"""
-implement the logic of the train step
-- run the tensorflow session
-- return any metrics you need to summarize
- """
-pass
+Parameters can also be loaded from file with `--config_file`:
+```bash
+python tools/train_net.py --config_file configs/roberta_config.yml
 ```
 
-- In `tools`  folder, you create the `train.py` .  In this file, you need to get the instances of the following objects "Model",  "DataLoader”, “Optimizer”, and config
-```python
-# create instance of the model you want
-model = build_model(cfg)
-
-# create your data generator
-train_loader = make_data_loader(cfg, is_train=True)
-val_loader = make_data_loader(cfg, is_train=False)
-
-# create your model optimizer
-optimizer = make_optimizer(cfg, model)
+# Testing model 
+To test model path to model weights has to be provided:
+```bash
+python .\tools\test_net.py TEST.WEIGHT  "output/29052021142858_model.pt"
 ```
+Changing other parameters works just like in [training](#training-model).
 
-- Pass the all these objects to the function `do_train` , and start your training
-```python
-# here you train your model
-do_train(cfg, model, train_loader, val_loader, optimizer, None, F.cross_entropy)
-```
+At default 4 metrics are calculated:
+- F1 score for similarity values
+- F1 score for relation labels
+- Pearson correlation for similarity values
+- Pearson correlation for relation labels
 
-**You will find a template file and a simple example in the model and trainer folder that shows you how to try your first model simply.**
+For model trained with default parameters results were following:
 
+Metric | Train set score | Test set score
+---|---|---
+`F1 score for similarity values` | 0.773 | 0.724
+`F1 score for relation labels` | 0.933 | 0.742
+`Pearson correlation for similarity values` | 0.887 | 0.811
+`Pearson correlation for relation labels` | 0.889 | 0.725 
 
-# In Details
+Trained model that achived these results is available to download under this [link](https://drive.google.com/file/d/1-2sRnEUoQsPidAC9jvc2ZJdRc4XNbRmc/view?usp=sharing).
+
+# Project structure
+
 ```
 ├──  config
 │    └── defaults.py  - here's the default config file.
 │
 │
 ├──  configs  
-│    └── train_mnist_softmax.yml  - here's the specific config file for specific model or dataset.
+│    └── roberta_config.yml  - here's the specific config file for specific model or dataset.
 │ 
 │
 ├──  data  
-│    └── datasets  - here's the datasets folder that is responsible for all data handling.
-│    └── transforms  - here's the data preprocess folder that is responsible for all data augmentation.
-│    └── build.py  		   - here's the file to make dataloader.
-│    └── collate_batch.py   - here's the file that is responsible for merges a list of samples to form a mini-batch.
-│
+│    └── datasets       - here's the datasets folder that is responsible for all data handling.
+│    └── build.py       - here's the file to make dataloader.
+│    
 │
 ├──  engine
 │   ├── trainer.py     - this file contains the train loops.
 │   └── inference.py   - this file contains the inference process.
 │
 │
-├── layers              - this folder contains any customed layers of your project.
-│   └── conv_layer.py
+├── modeling            - this folder contains roberta modeel.
+│   └── roberta_ists.py
 │
 │
-├── modeling            - this folder contains any model of your project.
-│   └── example_model.py
-│
-│
-├── solver             - this folder contains optimizer of your project.
+├── solver             - this folder contains optimizer.
 │   └── build.py
-│   └── lr_scheduler.py
 │   
 │ 
-├──  tools                - here's the train/test model of your project.
-│    └── train_net.py  - here's an example of train model that is responsible for the whole pipeline.
-│ 
+├──  tools            - here's the train/test model functionality.
+│    └── train_net.py     - this file is responsible for the whole training pipeline.
+|    └── test_net.py      - this file is responsible for the whole testing pipeline.
+|    └── create_cvs.py    - this file creates .csv files.
 │ 
 └── utils
-│    ├── logger.py
-│    └── any_other_utils_you_need
-│ 
-│ 
-└── tests					- this foler contains unit test of your project.
-     ├── test_data_sampler.py
+│    └── logger.py
+
 ```
 
+# Pretrained RoBERTa
 
-# Future Work
+Base RoBERTa model can be replaced with pretrained one before the proper training. Follow the instructions under this [link](https://github.com/pytorch/fairseq/blob/master/examples/roberta/README.glue.md). To fine-tune model on STS-B GLUE task modify command from 3):
+```bash
+TOTAL_NUM_UPDATES=3598  # 10 epochs through RTE for bsz 16
+WARMUP_UPDATES=214      # 6 percent of the number of updates
+LR=2e-05                # Peak LR for polynomial LR scheduler.
+NUM_CLASSES=1
+MAX_SENTENCES=16        # Batch size.
+ROBERTA_PATH=/content/drive/MyDrive/NLP/fairseq/roberta.large/model.pt
 
-# Contributing
-Any kind of enhancement or contribution is welcomed.
+CUDA_VISIBLE_DEVICES=0 fairseq-train STS-B-bin/ \
+    --restore-file $ROBERTA_PATH \
+    --max-positions 512 \
+    --batch-size $MAX_SENTENCES \
+    --max-tokens 4400 \
+    --task sentence_prediction \
+    --reset-optimizer --reset-dataloader --reset-meters \
+    --required-batch-size-multiple 1 \
+    --init-token 0 --separator-token 2 \
+    --arch roberta_large \
+    --criterion sentence_prediction \
+    --num-classes $NUM_CLASSES \
+    --dropout 0.1 --attention-dropout 0.1 \
+    --weight-decay 0.1 --optimizer adam --adam-betas "(0.9, 0.98)" --adam-eps 1e-06 \
+    --clip-norm 0.0 \
+    --lr-scheduler polynomial_decay --lr $LR --total-num-update $TOTAL_NUM_UPDATES --warmup-updates $WARMUP_UPDATES \
+    --fp16 --fp16-init-scale 4 --threshold-loss-scale 1 --fp16-scale-window 128 \
+    --max-epoch 10 \
+    --regression-target --best-checkpoint-metric loss \
+    --find-unused-parameters;
+```
 
-
-# Acknowledgments
+# Credits
+Repo template - L1aoXingyu/Deep-Learning-Project-Template
 
 
 
