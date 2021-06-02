@@ -45,6 +45,14 @@ python .\tools\test_net.py TEST.WEIGHT  "output/29052021142858_model.pt"
 ```
 Changing other parameters works just like in [training](#training-model).
 
+**NOTE**: There are 4 test datasets:
+- images
+- headline
+- answers-students
+- all above combined (*default*)
+
+
+
 At default 4 metrics are calculated:
 - F1 score for similarity values
 - F1 score for relation labels
