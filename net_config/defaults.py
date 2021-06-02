@@ -21,6 +21,7 @@ _C.DATASETS = CN()
 _C.DATASETS.TRAIN = ("data/datasets/train.csv")
 # List of the dataset names for testing
 _C.DATASETS.TEST = ("data/datasets/test.csv")
+_C.DATASETS.TEST_WA = ("data/datasets/STSint.testinput.answers-students.wa")
 
 # -----------------------------------------------------------------------------
 # DataLoader
