@@ -16,3 +16,7 @@ unzip InterpretableSTS2015-en-train.zip
 unzip InterpretableSTS2015-en-test.zip
 
 cd ..
+
+cp semeval_data/test_goldStandard/STSint.testinput.answers-students.wa data/datasets/STSint.testinput.answers-students.wa
+cp semeval_data/test_goldStandard/STSint.testinput.images.wa data/datasets/STSint.testinput.images.wa
+cp semeval_data/test_goldStandard/STSint.testinput.headlines.wa data/datasets/STSint.testinput.headlines.wa
