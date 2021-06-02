@@ -11,11 +11,6 @@ class RobertaISTS(torch.nn.Module):
     def __init__(self, num_classes, dropout_rate, hidden_neurons):
         super(RobertaISTS, self).__init__()
 
-        # self.roberta = RobertaModel.from_pretrained(
-        #     'checkpoints/',
-        #     checkpoint_file='checkpoint_best.pt',
-        #     data_name_or_path='STS-B-bin'
-        # )
         self.roberta = torch.hub.load('pytorch/fairseq', 'roberta.large')
         for param in self.roberta.parameters():
             param.requires_grad = False
