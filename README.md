@@ -4,6 +4,7 @@
 -  [Datasets](#datasets)
 -  [Training model](#training-model)
 -  [Testing model](#testing-model)
+-  [Testing model with SemEval scripts](#testing-model-with-semeval-scripts)
 -  [Project structure](#project-structure)
 -  [Pretrained RoBERTa](#pretrained-roberta)
 -  [Credits](#credits)
@@ -70,10 +71,25 @@ Metric | Train set score | Test set score
 
 Trained model that achived these results is available to download under this [link](https://drive.google.com/file/d/1-2sRnEUoQsPidAC9jvc2ZJdRc4XNbRmc/view?usp=sharing).
 
+# Testing model with SemEval scripts
+There are 3 perl scripts created by competition organizers (dowloaded and saved in `tests` folder):
+- evalF1_no_penalty.pl
+- evalF1_penalty.pl
+- wellformed.pl
+
+To use them, output files need to be in specific format. To create files with gold standard file structure use following command:
+```bash
+python .\tools\create_wa.py TEST.WEIGHT  "output/29052021142858_model.pt" DATASETS.TEST_WA "data/datasets/STSint.testinput.answers-students.wa"
+```
+This will create the .wa file with predictions (keeping the gold standard .wa file structure) in `output` directory. To evalute this file perl interpreter has to be installed on the machine. 
+```bash
+perl .\evalF1_penalty.pl data/datasets/STSint.testinput.answers-students.wa output/STSint.testinput.answers-student_predicted.wa --debug=0
+```
+
 # Project structure
 
 ```
-├──  config
+├──  net_config
 │    └── defaults.py  - here's the default config file.
 │
 │
@@ -103,7 +119,14 @@ Trained model that achived these results is available to download under this [li
 │    └── train_net.py     - this file is responsible for the whole training pipeline.
 |    └── test_net.py      - this file is responsible for the whole testing pipeline.
 |    └── create_cvs.py    - this file creates .csv files.
-│ 
+|    └── create_wa.py     - this file creates .wa files.
+|
+└── tests            - here are SemEval files to test model performance
+│    └── evalF1_no_penalty.pl
+|    └── evalF1_penalty.pl
+|    └── wellformed.pl
+|
+|
 └── utils
 │    └── logger.py
 
