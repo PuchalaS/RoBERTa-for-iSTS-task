@@ -20,22 +20,20 @@ def create_csv(data_files, file_name):
         processed_file = []
         with open(file_path, 'rb') as fin:
             fin.readline()
-            for index, line in enumerate(fin):
-                processed_line = []
+            for line in fin:
                 line = line.decode('latin-1')
                 if alignment_end_pattern.match(line):
                     aligment_section = False
                 if aligment_section:
                     equality_pos = [m.start() for m in re.finditer(equality_pattern, line)]
                     doubleslash_pos = [m.start() for m in re.finditer(doubleslash_pattern, line)]
-                    
+
                     value = line[doubleslash_pos[1] + 2 : doubleslash_pos[2]].strip().strip("\n")
                     explanation = line[doubleslash_pos[0] + 2 : doubleslash_pos[1]].strip().strip("\n")
                     first_chunk = line[doubleslash_pos[2] + 2 : equality_pos[1]].strip().strip("\n")
                     second_chunk = line[equality_pos[1] + 4 :].strip().strip("\n")
 
-                    processed_line.append(first_chunk)
-                    processed_line.append(second_chunk)
+                    processed_line = [first_chunk, second_chunk]
                     if value != "NIL" and len(explanation) <= 4  and explanation != 'ALIC':
                         processed_line.append(int(value))
                         processed_line.append(explanation)

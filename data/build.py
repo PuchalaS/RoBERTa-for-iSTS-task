@@ -6,8 +6,7 @@ from .datasets.semeval_dataset import SemevalDatset
 
 
 def build_dataset(csv):
-    datasets = SemevalDatset(csv)
-    return datasets
+    return SemevalDatset(csv)
 
 
 def make_data_loader(cfg, csv, is_train=True):
@@ -22,10 +21,8 @@ def make_data_loader(cfg, csv, is_train=True):
 
     num_workers = cfg.DATALOADER.NUM_WORKERS
 
-    data_loader = data.DataLoader(
+    return data.DataLoader(
         dataset=datasets,
         batch_size=batch_size,
         shuffle=shuffle,
         num_workers=num_workers)
-
-    return data_loader
